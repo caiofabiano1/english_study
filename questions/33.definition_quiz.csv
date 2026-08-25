@@ -1,0 +1,572 @@
+question;hint;option1;option2;option3;answer
+question;"";option1;option2;option3;asnswer
+A person who designs buildings.;"";athlete;architect;cashier;architect
+A person who treats sick animals.;"";journalist;sailor;veterinarian;veterinarian
+A person who writes computer programs.;"";pilot;programmer;gardener;programmer
+A person who takes photographs professionally.;"";carpenter;dentist;photographer;photographer
+A person who prepares food in a restaurant.;"";driver;chef;lawyer;chef
+A person who teaches students.;"";engineer;waiter;teacher;teacher
+A person who examines and treats teeth.;"";farmer;dentist;mechanic;dentist
+A person who defends people in court.;"";chemist;coach;lawyer;lawyer
+A person who flies an aircraft.;"";editor;pilot;plumber;pilot
+A person who repairs water pipes.;"";architect;artist;plumber;plumber
+A person who repairs electrical systems.;"";musician;electrician;waiter;electrician
+A person who builds or repairs wooden structures.;"";doctor;cashier;carpenter;carpenter
+A person who writes news stories.;"";pilot;journalist;butcher;journalist
+A person who manages a business or organization.;"";singer;farmer;manager;manager
+A person who buys goods for a company.;"";driver;buyer;nurse;buyer
+A person who cares for patients in a hospital.;"";lawyer;architect;nurse;nurse
+A person who studies chemicals and their reactions.;"";coach;chemist;journalist;chemist
+A person who studies living organisms.;"";cashier;mechanic;biologist;biologist
+A person who studies the weather.;"";carpenter;meteorologist;dentist;meteorologist
+A person who studies the stars and planets.;"";plumber;chef;astronomer;astronomer
+A person who creates paintings.;"";lawyer;painter;pilot;painter
+A person who performs music with an instrument.;"";farmer;lawyer;musician;musician
+A person who sings professionally.;"";cashier;singer;engineer;singer
+A person who acts in films or plays.;"";chemist;plumber;actor;actor
+A person who directs a movie.;"";waiter;director;dentist;director
+A person who writes books or stories.;"";mechanic;athlete;author;author
+A person who translates spoken language.;"";farmer;interpreter;carpenter;interpreter
+A person who translates written texts.;"";pilot;chef;translator;translator
+A person who cuts and styles hair.;"";engineer;hairdresser;lawyer;hairdresser
+A person who sells products in a store.;"";doctor;journalist;salesperson;salesperson
+A person who receives money and serves customers in a store.;"";singer;cashier;architect;cashier
+A person who serves food and drinks in a restaurant.;"";programmer;dentist;waiter;waiter
+A person who delivers letters and packages.;"";coach;mail carrier;chemist;mail carrier
+A person who drives a taxi.;"";editor;farmer;taxi driver;taxi driver
+A person who takes care of gardens.;"";pilot;gardener;lawyer;gardener
+A person who grows crops.;"";actor;electrician;farmer;farmer
+A person who catches and sells fish.;"";nurse;fisherman;architect;fisherman
+A person who sells meat.;"";teacher;photographer;butcher;butcher
+A person who makes bread and cakes.;"";journalist;baker;mechanic;baker
+A person who makes clothes.;"";pilot;doctor;tailor;tailor
+A person who puts out fires.;"";artist;firefighter;cashier;firefighter
+A person trained to protect people from crime.;"";chef;carpenter;police officer;police officer
+A person who serves in the armed forces.;"";waiter;soldier;dentist;soldier
+A person who designs machines or systems.;"";singer;gardener;engineer;engineer
+A person who studies economics.;"";actor;economist;plumber;economist
+A person who studies history.;"";electrician;cashier;historian;historian
+A person who studies society and social behavior.;"";baker;sociologist;pilot;sociologist
+A person who studies the human mind and behavior.;"";farmer;driver;psychologist;psychologist
+A person who studies the Earth and its physical features.;"";lawyer;geologist;waiter;geologist
+A person who studies languages.;"";mechanic;chef;linguist;linguist
+A place where books can be borrowed.;"";factory;stadium;library;library
+A place where planes take off and land.;"";museum;airport;bakery;airport
+A place where trains arrive and leave.;"";farm;clinic;station;station
+A place where sick people receive medical care.;"";theater;hospital;warehouse;hospital
+A place where doctors see patients.;"";factory;gallery;clinic;clinic
+A place where works of art are displayed.;"";airport;gallery;garage;gallery
+A place where historical objects are displayed.;"";bakery;office;museum;museum
+A place where performances take place.;"";pharmacy;theater;warehouse;theater
+A place where sports competitions take place.;"";library;clinic;stadium;stadium
+A place where medicines are sold.;"";theater;pharmacy;factory;pharmacy
+A place where bread is made and sold.;"";airport;gallery;bakery;bakery
+A place where products are manufactured.;"";stadium;factory;library;factory
+A place where goods are stored.;"";museum;clinic;warehouse;warehouse
+A place where cars are repaired.;"";pharmacy;garage;theater;garage
+A place where people work at desks.;"";bakery;stadium;office;office
+A place where students study after school or at university.;"";warehouse;campus;garage;campus
+A place where animals are cared for and displayed.;"";library;factory;zoo;zoo
+A place where people can watch films.;"";clinic;cinema;farm;cinema
+A place where trains are maintained.;"";museum;bakery;depot;depot
+A place where ships load and unload goods.;"";office;port;stadium;port
+A vehicle used to transport people by road.;"";harbor;bridge;bus;bus
+A vehicle with two wheels powered by pedals.;"";tractor;bicycle;airplane;bicycle
+A vehicle used to carry goods.;"";canoe;subway;truck;truck
+A vehicle that carries passengers by rail.;"";van;train;scooter;train
+A vehicle that travels underground in cities.;"";tractor;ship;subway;subway
+A vehicle designed to travel through the air.;"";truck;airplane;bicycle;airplane
+A vehicle used to travel on water.;"";bus;motorcycle;boat;boat
+A vehicle with two wheels and an engine.;"";van;motorcycle;train;motorcycle
+A vehicle used on farms to pull equipment.;"";taxi;airplane;tractor;tractor
+A small vehicle used to transport one or two people.;"";ship;scooter;truck;scooter
+A large vehicle that carries many passengers.;"";bicycle;canoe;coach;coach
+A private vehicle hired with a driver.;"";subway;taxi;tractor;taxi
+A vehicle used to transport injured people to hospital.;"";bus;motorcycle;ambulance;ambulance
+A vehicle used by firefighters.;"";boat;fire engine;taxi;fire engine
+A vehicle designed to carry people across the sea.;"";bicycle;truck;ferry;ferry
+A path or road specially built for bicycles.;"";platform;cycle lane;runway;cycle lane
+A raised structure allowing people or vehicles to cross a river.;"";tunnel;harbor;bridge;bridge
+A passage built underground or through a mountain.;"";bridge;tunnel;station;tunnel
+A place where a train stops for passengers.;"";runway;garage;platform;platform
+A strip where airplanes take off and land.;"";sidewalk;runway;platform;runway
+A period of seven days.;"";month;season;week;week
+A period of about thirty days.;"";week;month;decade;month
+A period of ten years.;"";century;month;decade;decade
+A period of one hundred years.;"";season;century;decade;century
+A period of one thousand years.;"";decade;century;millennium;millennium
+The day before today.;"";noon;yesterday;tomorrow;yesterday
+The day after today.;"";yesterday;midnight;tomorrow;tomorrow
+The middle of the day.;"";midnight;noon;dawn;noon
+The middle of the night.;"";noon;sunset;midnight;midnight
+The time when the sun begins to rise.;"";sunset;dawn;midnight;dawn
+The time when the sun goes down.;"";dawn;noon;sunset;sunset
+The season after winter and before summer.;"";summer;spring;autumn;spring
+The season after summer and before winter.;"";spring;winter;autumn;autumn
+The season with the highest temperatures in many places.;"";spring;summer;winter;summer
+The coldest season of the year.;"";summer;autumn;winter;winter
+The first day of the week in some calendars.;"";Sunday;Monday;Friday;Monday
+The day that comes after Friday.;"";Tuesday;Thursday;Saturday;Saturday
+The day before Sunday.;"";Wednesday;Saturday;Monday;Saturday
+The part of the day before noon.;"";evening;night;morning;morning
+The part of the day after noon and before evening.;"";midnight;afternoon;morning;afternoon
+A strong feeling of happiness.;"";anger;fear;joy;joy
+A feeling of being worried about something.;"";delight;anxiety;confidence;anxiety
+A feeling of great sadness.;"";excitement;pride;sorrow;sorrow
+A feeling of being afraid.;"";curiosity;fear;relief;fear
+A feeling of satisfaction with an achievement.;"";anger;confusion;pride;pride
+A feeling of calm after a problem ends.;"";fear;relief;jealousy;relief
+A strong desire to know or learn something.;"";sadness;anger;curiosity;curiosity
+A feeling of excitement about something good.;"";shame;enthusiasm;boredom;enthusiasm
+A feeling of being tired of something because it is not interesting.;"";joy;confidence;boredom;boredom
+A painful feeling caused by being embarrassed or guilty.;"";delight;shame;relief;shame
+A feeling of anger caused by unfair treatment.;"";gratitude;surprise;resentment;resentment
+A feeling of thankfulness.;"";boredom;gratitude;fear;gratitude
+A feeling of surprise because something is unexpected.;"";sadness;patience;astonishment;astonishment
+A strong feeling of dislike.;"";relief;hatred;admiration;hatred
+A feeling of respect and approval.;"";anger;anxiety;admiration;admiration
+A feeling of nervousness before something important.;"";joy;nervousness;gratitude;nervousness
+A belief in your own abilities.;"";jealousy;sorrow;confidence;confidence
+A feeling of wanting what another person has.;"";curiosity;jealousy;relief;jealousy
+The ability to remain calm while waiting.;"";panic;anger;patience;patience
+A sudden feeling of extreme fear.;"";delight;panic;pride;panic
+A large amount of money saved for future use.;"";salary;receipt;savings;savings
+Money paid regularly for work.;"";debt;salary;discount;salary
+Money owed to another person or organization.;"";profit;salary;debt;debt
+Money made by a business after costs are paid.;"";tax;profit;rent;profit
+Money paid to the government.;"";salary;loan;tax;tax
+Money borrowed from a bank or another person.;"";receipt;loan;profit;loan
+A reduction in the usual price.;"";salary;debt;discount;discount
+A document showing that something has been paid for.;"";budget;receipt;contract;receipt
+A plan for how money will be spent.;"";profit;salary;budget;budget
+A regular payment for using a house or apartment.;"";loan;rent;tax;rent
+A formal agreement between people or organizations.;"";receipt;discount;contract;contract
+A person who buys something.;"";employee;customer;supplier;customer
+A person or company that provides goods or services.;"";customer;tenant;supplier;supplier
+A person who works for an organization.;"";landlord;employee;customer;employee
+A person who rents a house or apartment.;"";employer;supplier;tenant;tenant
+A person who owns a property and rents it to others.;"";customer;landlord;tenant;landlord
+A person who employs other people.;"";employee;borrower;employer;employer
+The amount of money a person earns.;"";debt;income;expense;income
+Money spent on something.;"";income;profit;expense;expense
+The amount of money available to spend.;"";receipt;funds;tax;funds
+A place where people live.;"";factory;airport;home;home
+A room used for sleeping.;"";garage;bedroom;kitchen;bedroom
+A room where food is prepared.;"";bathroom;balcony;kitchen;kitchen
+A room used for washing and bathing.;"";attic;bathroom;bedroom;bathroom
+A room where people usually relax and watch television.;"";garage;basement;living room;living room
+A room where people eat meals.;"";bathroom;dining room;attic;dining room
+A space directly below a roof.;"";basement;hallway;attic;attic
+A room or space below ground level.;"";attic;basement;balcony;basement
+An outdoor platform attached to an upper floor.;"";garage;hallway;balcony;balcony
+A passage connecting rooms.;"";basement;hallway;kitchen;hallway
+A building where cars are kept.;"";attic;bathroom;garage;garage
+A small building or room used for storing tools.;"";bedroom;shed;balcony;shed
+The area around a house.;"";ceiling;staircase;yard;yard
+The surface you walk on inside a building.;"";wall;floor;roof;floor
+The upper covering of a building.;"";floor;door;roof;roof
+The inside upper surface of a room.;"";window;ceiling;floor;ceiling
+A vertical structure that separates or supports a building.;"";roof;carpet;wall;wall
+A covering on a floor made of woven material.;"";brick;carpet;ceiling;carpet
+A set of steps connecting different levels.;"";curtain;shelf;staircase;staircase
+A flat surface attached to a wall for storing objects.;"";door;shelf;roof;shelf
+A substance people drink to stay hydrated.;"";wood;metal;water;water
+A hot drink made from roasted beans.;"";cheese;coffee;bread;coffee
+A hot drink made by soaking leaves in water.;"";rice;butter;tea;tea
+A food made from flour and baked.;"";salt;bread;juice;bread
+A white or yellow food made from milk.;"";rice;pepper;cheese;cheese
+A liquid food often made from vegetables or meat.;"";sugar;soup;bread;soup
+A sweet substance often used in desserts.;"";salt;flour;sugar;sugar
+A white substance commonly used to add flavor to food.;"";oil;salt;sugar;salt
+A liquid used for cooking and often made from plants.;"";flour;rice;oil;oil
+A grain commonly eaten as a staple food.;"";butter;rice;cheese;rice
+A yellow food made from milk often spread on bread.;"";soup;salt;butter;butter
+A sweet food made from cocoa.;"";flour;chocolate;pepper;chocolate
+A fruit with a yellow peel.;"";carrot;onion;banana;banana
+An orange vegetable that grows underground.;"";grape;carrot;banana;carrot
+A small round fruit often used to make wine.;"";potato;lettuce;grape;grape
+A vegetable with many layers and a strong smell.;"";bread;onion;apple;onion
+A red or green fruit that grows on trees.;"";onion;carrot;apple;apple
+A vegetable often used to make fries.;"";peach;potato;grape;potato
+A soft green vegetable often used in salads.;"";banana;rice;lettuce;lettuce
+A sweet fruit with a large central stone.;"";potato;peach;lettuce;peach
+A natural place where many trees grow.;"";desert;island;forest;forest
+A very dry area with little rainfall.;"";valley;desert;forest;desert
+Land completely surrounded by water.;"";mountain;forest;island;island
+A low area of land between hills or mountains.;"";island;valley;desert;valley
+A very high area of land.;"";valley;plain;mountain;mountain
+A large area of flat land.;"";cave;plain;cliff;plain
+A steep rock face often near the sea.;"";valley;forest;cliff;cliff
+A natural underground space in rock.;"";plain;cave;island;cave
+A stream of water flowing toward a sea or lake.;"";desert;mountain;river;river
+A large body of water surrounded by land.;"";cliff;lake;forest;lake
+A very large body of salt water.;"";valley;cave;ocean;ocean
+The land along the edge of the sea.;"";mountain;coast;forest;coast
+A large area covered with grass and few trees.;"";ocean;cave;grassland;grassland
+A wet area of land with waterlogged soil.;"";cliff;swamp;desert;swamp
+A group of trees growing close together.;"";valley;ocean;grove;grove
+A narrow natural waterway.;"";island;stream;mountain;stream
+Frozen water falling from the sky.;"";sand;smoke;snow;snow
+Frozen water formed in a solid mass.;"";steam;ice;soil;ice
+Water falling from clouds.;"";fog;wind;rain;rain
+Moving air.;"";snow;wind;rain;wind
+A device used to make telephone calls.;"";helmet;blanket;phone;phone
+A device used to store and process digital information.;"";hammer;computer;pillow;computer
+A portable computer with a screen and keyboard.;"";printer;speaker;laptop;laptop
+A device that produces printed documents.;"";router;printer;camera;printer
+A device used to take photographs.;"";keyboard;charger;camera;camera
+A device that converts electrical energy to charge a battery.;"";mouse;charger;monitor;charger
+A device used to move a pointer on a computer screen.;"";printer;speaker;mouse;mouse
+A set of keys used to type on a computer.;"";router;keyboard;camera;keyboard
+A device that displays images from a computer.;"";charger;microphone;monitor;monitor
+A device used to record or transmit sound.;"";printer;microphone;keyboard;microphone
+A device that produces sound.;"";scanner;mouse;speaker;speaker
+A device that connects computers to a network.;"";monitor;router;camera;router
+A device used to make digital copies of documents.;"";speaker;charger;scanner;scanner
+A small program that performs a particular function.;"";screen;app;cable;app
+A collection of data stored on a computer.;"";battery;printer;file;file
+A secret word used to access an account.;"";folder;password;browser;password
+A program used to access websites.;"";password;keyboard;browser;browser
+A collection of files stored together.;"";camera;folder;charger;folder
+A connection to the internet.;"";printer;battery;network;network
+A set of instructions that tells a computer what to do.;"";monitor;program;speaker;program
+A problem that needs to be solved.;"";reward;shortcut;challenge;challenge
+A method of doing something.;"";result;approach;problem;approach
+The final effect or outcome of an action.;"";method;effort;result;result
+The amount of work needed to achieve something.;"";habit;effort;choice;effort
+A regular way of behaving.;"";solution;risk;habit;habit
+An answer to a problem.;"";failure;solution;question;solution
+The possibility that something bad may happen.;"";reward;benefit;risk;risk
+Something good that results from an action.;"";failure;benefit;damage;benefit
+Something given in return for good work or success.;"";risk;effort;reward;reward
+The act of choosing between possibilities.;"";habit;decision;failure;decision
+A possibility or alternative that can be chosen.;"";result;damage;option;option
+The ability to choose or control what happens.;"";method;choice;reward;choice
+Something that causes a person to act.;"";damage;failure;motivation;motivation
+The ability to continue despite difficulty.;"";boredom;determination;confusion;determination
+A strong wish to achieve something.;"";failure;risk;ambition;ambition
+Something you plan to achieve.;"";problem;goal;habit;goal
+A detailed plan for achieving something.;"";accident;reward;strategy;strategy
+A new idea or method.;"";mistake;innovation;tradition;innovation
+A mistake or wrong action.;"";benefit;success;error;error
+A successful result.;"";risk;achievement;failure;achievement
+To give someone permission to do something.;"";avoid;refuse;allow;allow
+To stay away from something.;"";repair;avoid;accept;avoid
+To say that you will not do something.;"";borrow;invite;refuse;refuse
+To agree to receive or take something.;"";hide;accept;destroy;accept
+To make something better.;"";damage;reduce;improve;improve
+To make something smaller or less.;"";create;reduce;increase;reduce
+To make something larger or greater.;"";remove;avoid;increase;increase
+To take something away.;"";repair;remove;add;remove
+To put something somewhere.;"";destroy;refuse;place;place
+To fix something that is broken.;"";replace;repair;borrow;repair
+To put something new instead of something old.;"";allow;hide;replace;replace
+To keep something out of sight.;"";accept;hide;invite;hide
+To ask someone to come somewhere.;"";refuse;remove;invite;invite
+To lend something temporarily to another person.;"";improve;lend;destroy;lend
+To take something temporarily with the intention of returning it.;"";repair;reduce;borrow;borrow
+To damage something so badly that it cannot be used.;"";allow;destroy;create;destroy
+To make something that did not exist before.;"";remove;avoid;create;create
+To make something clear or easy to understand.;"";borrow;explain;hide;explain
+To say or write something again.;"";destroy;refuse;repeat;repeat
+To look for something.;"";allow;search;replace;search
+To get something from someone.;"";send;lose;receive;receive
+To give something to another person or place.;"";hide;send;receive;send
+To find something that was lost.;"";destroy;refuse;recover;recover
+To stop having something because it is gone.;"";repair;lose;borrow;lose
+To bring something to a person or place.;"";remove;avoid;deliver;deliver
+To take something from one place to another.;"";create;transport;refuse;transport
+To move from one place to another.;"";repair;accept;travel;travel
+To arrive at a place.;"";hide;reach;leave;reach
+To go away from a place.;"";receive;increase;leave;leave
+To enter a place.;"";reduce;enter;remove;enter
+To come back to a place.;"";destroy;invite;return;return
+To go through a place or experience.;"";hide;pass;borrow;pass
+To move quickly on foot.;"";sleep;sit;run;run
+To move slowly on foot.;"";swim;walk;fly;walk
+To move through water.;"";climb;drive;swim;swim
+To move upward using your hands and feet.;"";drive;climb;swim;climb
+To operate a car.;"";walk;sail;drive;drive
+To travel on water using a boat.;"";climb;sail;run;sail
+To move through the air.;"";swim;walk;fly;fly
+To move from one level to another using steps.;"";sail;ascend;swim;ascend
+To understand the meaning of something.;"";forget;damage;realize;realize
+To remember something from the past.;"";borrow;recall;destroy;recall
+To fail to remember something.;"";accept;repair;forget;forget
+To think carefully about something.;"";invite;consider;remove;consider
+To have an opinion or belief.;"";deliver;replace;believe;believe
+To know or understand something clearly.;"";lend;recognize;destroy;recognize
+To notice something.;"";hide;reduce;observe;observe
+To discover something for the first time.;"";refuse;discover;lose;discover
+To find something unexpectedly.;"";repair;avoid;encounter;encounter
+To examine something carefully.;"";borrow;inspect;invite;inspect
+To compare something with another thing.;"";create;hide;contrast;contrast
+To make a judgment about something.;"";receive;evaluate;destroy;evaluate
+To decide what something means.;"";remove;lend;interpret;interpret
+To predict what will happen.;"";repair;forecast;forget;forecast
+To imagine or expect something.;"";destroy;avoid;anticipate;anticipate
+To have a particular meaning.;"";replace;signify;borrow;signify
+To show or prove something.;"";hide;lose;demonstrate;demonstrate
+To mention something as an example.;"";damage;illustrate;refuse;illustrate
+To explain something in more detail.;"";reduce;destroy;elaborate;elaborate
+To suggest an idea or possibility.;"";avoid;propose;repair;propose
+To speak very quietly.;"";shout;laugh;whisper;whisper
+To speak very loudly.;"";mumble;shout;whisper;shout
+To speak unclearly and quietly.;"";announce;whisper;mumble;mumble
+To say something publicly or officially.;"";borrow;announce;hide;announce
+To give information to someone.;"";destroy;avoid;inform;inform
+To tell someone what you think they should do.;"";repair;advise;receive;advise
+To ask for information.;"";refuse;create;inquire;inquire
+To disagree with something.;"";invite;object;accept;object
+To say yes to a proposal or request.;"";reject;hide;agree;agree
+To say no to something offered.;"";deliver;reject;accept;reject
+To discuss something in order to reach an agreement.;"";destroy;forget;negotiate;negotiate
+To express disagreement or criticism.;"";invite;complain;praise;complain
+To say that something is good or deserves approval.;"";complain;refuse;praise;praise
+To say something positive about someone or something.;"";reject;compliment;damage;compliment
+To say that something is true.;"";hide;borrow;confirm;confirm
+To say that something is not true or did not happen.;"";repair;deny;accept;deny
+To promise or state that something is true.;"";destroy;remove;assure;assure
+To ask someone to do something.;"";lose;request;refuse;request
+To offer an idea for people to consider.;"";destroy;avoid;suggest;suggest
+To make someone understand an idea.;"";borrow;convince;hide;convince
+To move from one position to another.;"";sleep;wait;shift;shift
+To change from one condition to another.;"";borrow;transform;remain;transform
+To become different over time.;"";destroy;refuse;develop;develop
+To grow or improve gradually.;"";hide;progress;damage;progress
+To become larger in size.;"";reduce;avoid;expand;expand
+To become smaller.;"";create;shrink;increase;shrink
+To become stronger or more intense.;"";weaken;remove;intensify;intensify
+To become less strong or effective.;"";accept;weaken;expand;weaken
+To continue to exist or be true.;"";destroy;replace;remain;remain
+To stop doing something.;"";borrow;quit;begin;quit
+To start doing something.;"";finish;lose;begin;begin
+To finish something completely.;"";avoid;complete;begin;complete
+To continue doing something.;"";quit;destroy;continue;continue
+To delay doing something.;"";accept;postpone;complete;postpone
+To happen at a particular time or place.;"";hide;lend;occur;occur
+To happen unexpectedly.;"";remove;arise;repair;arise
+To cause something to happen.;"";avoid;receive;trigger;trigger
+To make something happen sooner.;"";destroy;accelerate;delay;accelerate
+To make something happen later.;"";accelerate;create;delay;delay
+To stop something from happening.;"";increase;prevent;cause;prevent
+Something that is easy to carry.;"";permanent;fragile;portable;portable
+Something that can be easily broken.;"";portable;fragile;durable;fragile
+Something that lasts for a long time.;"";temporary;fragile;durable;durable
+Something that exists only for a short time.;"";durable;temporary;permanent;temporary
+Something that is intended to last forever.;"";temporary;portable;permanent;permanent
+Something that can be trusted to work well.;"";rare;reliable;fragile;reliable
+Something that often changes or is uncertain.;"";reliable;permanent;unstable;unstable
+Something that is difficult to see through.;"";flexible;opaque;transparent;opaque
+Something that allows light to pass through clearly.;"";opaque;rough;transparent;transparent
+Something that can bend easily without breaking.;"";fragile;flexible;rigid;flexible
+Something that cannot bend easily.;"";flexible;portable;rigid;rigid
+Something that has a rough surface.;"";transparent;rough;smooth;rough
+Something with an even soft surface;"";rough;rigid;smooth;smooth
+Something that weighs very little.;"";fragile;lightweight;massive;lightweight
+Something extremely large or heavy.;"";tiny;portable;massive;massive
+Something very small.;"";durable;tiny;massive;tiny
+Something that is difficult to find because there is little of it.;"";common;ordinary;rare;rare
+Something that happens often or is found frequently.;"";temporary;common;rare;common
+Something normal and not special.;"";unique;fragile;ordinary;ordinary
+Something that is the only one of its kind.;"";common;unique;ordinary;unique
+A person who is responsible for a company.;"";passenger;neighbor;executive;executive
+A person who lives near another person.;"";employee;neighbor;customer;neighbor
+A person traveling in a vehicle but not driving it.;"";driver;pilot;passenger;passenger
+A person who provides a service to another person.;"";tenant;provider;passenger;provider
+A person who starts and owns a business.;"";employee;customer;entrepreneur;entrepreneur
+A person who invests money in a business.;"";waiter;investor;tenant;investor
+A person who receives professional advice or services.;"";supplier;driver;client;client
+A person who works independently and is hired for specific jobs.;"";passenger;freelancer;manager;freelancer
+A person who is learning a profession from an experienced worker.;"";employer;customer;apprentice;apprentice
+A person with a high level of skill in a particular area.;"";tenant;expert;beginner;expert
+A person who has just started learning something.;"";expert;manager;beginner;beginner
+A person who belongs to a group or organization.;"";driver;member;visitor;member
+A person who visits a place temporarily.;"";owner;employee;visitor;visitor
+A person who owns something.;"";client;owner;visitor;owner
+A person who officially represents another person or organization.;"";customer;passenger;representative;representative
+A person who organizes events or activities.;"";supplier;organizer;tenant;organizer
+A person who attends an event or meeting.;"";owner;employer;participant;participant
+A person who watches or listens to an event.;"";landlord;audience member;employee;audience member
+A person who leads a team.;"";passenger;visitor;leader;leader
+A person who works with another person toward a shared goal.;"";tenant;colleague;customer;colleague
+An organized plan for achieving a goal.;"";accident;receipt;project;project
+A task that must be completed.;"";salary;assignment;holiday;assignment
+A meeting arranged for a particular purpose.;"";discount;warehouse;appointment;appointment
+A planned discussion between people.;"";receipt;meeting;garage;meeting
+A formal event where people discuss a subject.;"";basement;salary;conference;conference
+A public event where products or ideas are displayed.;"";contract;exhibition;tax;exhibition
+A period when a person does not work.;"";deadline;appointment;holiday;holiday
+The latest time by which something must be done.;"";conference;deadline;holiday;deadline
+A list of things that must be done.;"";salary;warehouse;checklist;checklist
+A written plan describing how something will be done.;"";garage;proposal;receipt;proposal
+A document containing information about a person's education and work experience.;"";contract;budget;resume;resume
+A person who applies for a job.;"";supplier;applicant;manager;applicant
+A conversation in which an employer asks a job candidate questions.;"";conference;holiday;interview;interview
+A period of work done by a person to gain experience.;"";deadline;internship;salary;internship
+Money paid to someone for work.;"";tax;debt;wage;wage
+Extra money paid for good service or performance.;"";loan;bonus;rent;bonus
+A regular payment made to an employee.;"";receipt;discount;paycheck;paycheck
+An official document that permits someone to do something.;"";budget;license;salary;license
+A rule or condition that must be followed.;"";reward;holiday;requirement;requirement
+Something that must be done or provided.;"";conference;obligation;discount;obligation
+A written or spoken account of an event.;"";receipt;salary;report;report
+A short description of the main points of something.;"";deadline;summary;contract;summary
+A detailed examination of a subject.;"";holiday;budget;analysis;analysis
+Information used to understand or explain something.;"";garage;evidence;salary;evidence
+Facts or information that show something is true.;"";discount;appointment;proof;proof
+An idea or explanation that is based on evidence.;"";warehouse;theory;receipt;theory
+A possible explanation that can be tested.;"";holiday;salary;hypothesis;hypothesis
+A question or issue that needs attention.;"";discount;matter;garage;matter
+A subject that people discuss or argue about.;"";receipt;license;issue;issue
+A fact or situation that makes a result likely.;"";salary;factor;holiday;factor
+A possible result or consequence.;"";contract;warehouse;outcome;outcome
+A reason for doing something.;"";deadline;purpose;receipt;purpose
+A way of doing something to achieve a result.;"";salary;garage;procedure;procedure
+A set of rules for how something should be done.;"";discount;guideline;holiday;guideline
+A general rule or basic truth.;"";receipt;appointment;principle;principle
+A belief or idea held by a person.;"";warehouse;opinion;license;opinion
+A fact that can be checked and shown to be true.;"";salary;garage;fact;fact
+A situation in which two things are different.;"";holiday;difference;receipt;difference
+A similarity between two things.;"";contract;deadline;resemblance;resemblance
+The quality of being connected to a subject.;"";salary;relevance;discount;relevance
+A person who is very good at a particular activity.;"";careless;ordinary;skilled;skilled
+A person who has little experience.;"";reliable;inexperienced;expert;inexperienced
+Someone who can be trusted.;"";fragile;temporary;trustworthy;trustworthy
+Someone who works carefully and effectively.;"";unstable;efficient;lazy;efficient
+Someone who does not pay enough attention.;"";reliable;patient;careless;careless
+Someone who has a strong desire to succeed.;"";fragile;ambitious;ordinary;ambitious
+Someone who is willing to change their ideas or plans.;"";rigid;rare;flexible;flexible
+Someone who refuses to change their opinion.;"";generous;stubborn;flexible;stubborn
+Someone who likes giving things to other people.;"";selfish;anxious;generous;generous
+Someone who thinks mainly about their own needs.;"";patient;selfish;generous;selfish
+Someone who remains calm when things are difficult.;"";careless;jealous;patient;patient
+Someone who worries easily.;"";generous;anxious;confident;anxious
+Someone who believes strongly in their abilities.;"";anxious;stubborn;confident;confident
+Someone who enjoys meeting and talking to people.;"";careless;sociable;silent;sociable
+Someone who prefers to spend time alone.;"";sociable;generous;reserved;reserved
+Someone who can be trusted to do what they promise.;"";fragile;dependable;selfish;dependable
+Someone who thinks carefully before acting.;"";reckless;impatient;cautious;cautious
+Someone who takes unnecessary risks.;"";reliable;reckless;cautious;reckless
+Someone who becomes angry easily.;"";patient;generous;irritable;irritable
+Someone who is able to adapt to new situations.;"";careless;adaptable;rigid;adaptable
+An action that is done regularly.;"";accident;exception;routine;routine
+Something that happens without being planned.;"";strategy;accident;routine;accident
+Something that is unusual and does not follow a rule.;"";habit;procedure;exception;exception
+A repeated activity that has become automatic.;"";theory;habit;deadline;habit
+A fixed way of doing something.;"";experiment;reward;routine;routine
+A careful test to learn something.;"";salary;experiment;holiday;experiment
+A change made to improve something.;"";accident;contract;adjustment;adjustment
+A small change made to something.;"";receipt;modification;warehouse;modification
+A complete change in form or appearance.;"";discount;appointment;transformation;transformation
+A process of making something better.;"";debt;improvement;failure;improvement
+The act of making something simpler.;"";expansion;damage;simplification;simplification
+The act of making something larger.;"";repair;expansion;reduction;expansion
+The act of making something smaller.;"";expansion;creation;reduction;reduction
+The act of fixing something.;"";creation;repair;destruction;repair
+The act of making something new.;"";reduction;damage;creation;creation
+The act of causing something to be destroyed.;"";repair;destruction;improvement;destruction
+The act of changing something so it works better.;"";failure;accident;optimization;optimization
+The act of keeping something safe from harm.;"";loss;protection;damage;protection
+The act of making something available to people.;"";destruction;refusal;provision;provision
+The act of giving someone support or help.;"";rejection;assistance;damage;assistance
+A place where people can borrow books.;"";laboratory;stadium;library;library
+A room used for scientific experiments.;"";warehouse;laboratory;bedroom;laboratory
+A place where paintings and art are shown.;"";garage;airport;art gallery;art gallery
+A building used for religious services.;"";cinema;church;factory;church
+A place where legal cases are heard.;"";bakery;station;court;court
+A place where students receive formal education.;"";port;school;garage;school
+An institution where people study at a higher level.;"";bakery;stadium;university;university
+A place where scientists conduct research.;"";restaurant;research center;tax office;research center
+A place where people can buy medicine.;"";library;theater;drugstore;drugstore
+A place where people can buy food and household products.;"";clinic;supermarket;museum;supermarket
+A large store selling many types of goods.;"";laboratory;stadium;department store;department store
+A small shop selling newspapers and magazines.;"";airport;newsstand;warehouse;newsstand
+A place where people eat meals prepared by staff.;"";garage;library;restaurant;restaurant
+A place where people can buy and drink coffee.;"";court;cafe;factory;cafe
+A place where bread and pastries are sold.;"";university;port;bakery;bakery
+A place where people can exercise.;"";pharmacy;gym;museum;gym
+A place where people swim for exercise or recreation.;"";office;library;pool;pool
+A place where people watch sports.;"";bakery;stadium;clinic;stadium
+A place where people stay temporarily while traveling.;"";factory;court;hotel;hotel
+A place where travelers wait for an airplane.;"";farm;terminal;garage;terminal
+A written request for information or help.;"";receipt;salary;inquiry;inquiry
+A formal request for something.;"";warehouse;application;holiday;application
+A written or spoken expression of thanks.;"";complaint;deadline;appreciation;appreciation
+A statement saying that something is wrong or unsatisfactory.;"";reward;complaint;compliment;complaint
+A formal request asking for something to be done.;"";salary;discount;petition;petition
+A promise to do something.;"";garage;commitment;receipt;commitment
+A responsibility to do something.;"";holiday;bonus;duty;duty
+Something you are expected to do.;"";warehouse;responsibility;discount;responsibility
+An official decision made by a court or authority.;"";salary;appointment;ruling;ruling
+A law or official rule.;"";holiday;regulation;receipt;regulation
+A punishment for breaking a rule or law.;"";bonus;discount;penalty;penalty
+Money paid as punishment for breaking a law or rule.;"";loan;fine;salary;fine
+A legal agreement to rent property.;"";receipt;budget;lease;lease
+A legal document that states what someone owns.;"";salary;deed;holiday;deed
+Official permission to enter or do something.;"";complaint;warehouse;authorization;authorization
+A written record of an agreement.;"";discount;document;garage;document
+A person who witnesses an event or signs a legal document.;"";customer;employee;witness;witness
+A person accused of a crime.;"";supplier;suspect;landlord;suspect
+A person who is harmed by a crime or accident.;"";manager;passenger;victim;victim
+A person who is believed to have committed a crime.;"";cashier;offender;tourist;offender
+A journey taken for pleasure.;"";salary;contract;trip;trip
+A journey to a distant place.;"";appointment;voyage;receipt;voyage
+A journey by air.;"";warehouse;discount;flight;flight
+A journey by sea.;"";salary;cruise;garage;cruise
+A place where tourists visit.;"";factory;court;destination;destination
+A person traveling for pleasure.;"";landlord;tourist;employee;tourist
+A small bag used to carry personal items while traveling.;"";receipt;salary;luggage;luggage
+A document required for international travel.;"";discount;passport;contract;passport
+Official permission to enter a foreign country.;"";budget;warehouse;visa;visa
+A place where travelers can sleep.;"";court;accommodation;factory;accommodation
+A person who guides tourists.;"";cashier;engineer;guide;guide
+A plan showing where someone will go and what they will do.;"";receipt;itinerary;salary;itinerary
+A place where travelers can buy souvenirs.;"";laboratory;stadium;souvenir shop;souvenir shop
+A short stop during a journey.;"";discount;stopover;contract;stopover
+A journey made for a particular purpose.;"";garage;salary;expedition;expedition
+A trip taken by a group of people.;"";warehouse;tour;receipt;tour
+A place where ships arrive and depart.;"";library;clinic;harbor;harbor
+A place where travelers change from one transport service to another.;"";court;transit hub;bakery;transit hub
+A ticket allowing travel to a destination and back.;"";salary;contract;return ticket;return ticket
+A ticket allowing travel in one direction only.;"";budget;one-way ticket;receipt;one-way ticket
+A natural ability to do something well.;"";failure;debt;talent;talent
+A learned ability to do something.;"";salary;skill;accident;skill
+Knowledge or ability gained through doing something.;"";discount;receipt;experience;experience
+Knowledge of a subject or situation.;"";holiday;awareness;garage;awareness
+Information or facts about a subject.;"";appointment;warehouse;knowledge;knowledge
+The ability to learn or understand quickly.;"";salary;intelligence;fragility;intelligence
+The ability to think of new ideas.;"";debt;receipt;creativity;creativity
+The ability to solve problems using logic.;"";discount;reasoning;holiday;reasoning
+The ability to remember information.;"";garage;contract;memory;memory
+The ability to pay attention to something.;"";warehouse;concentration;salary;concentration
+The ability to communicate using language.;"";receipt;appointment;communication;communication
+The ability to work successfully with others.;"";holiday;teamwork;debt;teamwork
+The ability to lead people effectively.;"";discount;garage;leadership;leadership
+The ability to recover after difficulty.;"";receipt;resilience;salary;resilience
+The ability to understand another person's feelings.;"";warehouse;contract;empathy;empathy
+The ability to remain calm under pressure.;"";discount;composure;holiday;composure
+The ability to make good judgments.;"";garage;salary;wisdom;wisdom
+The ability to perform a task accurately.;"";warehouse;competence;receipt;competence
+The ability to change behavior according to circumstances.;"";contract;debt;adaptability;adaptability
+The ability to work without needing help.;"";discount;independence;appointment;independence
+A person who studies at a university.;"";employer;landlord;student;student
+A person who teaches at a university.;"";passenger;professor;cashier;professor
+A person who manages a school.;"";tourist;driver;principal;principal
+A person who studies medicine.;"";supplier;medical student;waiter;medical student
+A person who conducts scientific research.;"";tenant;cashier;researcher;researcher
+A person who studies for a doctoral degree.;"";pilot;doctoral student;customer;doctoral student
+A person who teaches a skill or subject privately.;"";lawyer;farmer;tutor;tutor
+A person who helps students with their studies.;"";chef;mentor;driver;mentor
+A person who provides expert advice.;"";passenger;baker;consultant;consultant
+A person who studies or works in science.;"";tenant;scientist;cashier;scientist
+A person who studies the human body and health.;"";journalist;carpenter;physician;physician
+A person who provides psychological treatment.;"";farmer;therapist;pilot;therapist
+A person who prepares and tests medicines.;"";teacher;driver;pharmacist;pharmacist
+A person who designs and constructs computer systems.;"";gardener;software engineer;waiter;software engineer
+A person who manages financial records.;"";actor;plumber;accountant;accountant
+A person who studies and advises about money and investments.;"";singer;financial adviser;baker;financial adviser
+A person who creates visual designs for communication.;"";mechanic;nurse;graphic designer;graphic designer
+A person who plans and organizes buildings and spaces.;"";pilot;planner;cashier;planner
+A person who manages projects.;"";farmer;dentist;project manager;project manager
+A person who checks whether products meet standards.;"";musician;inspector;chef;inspector

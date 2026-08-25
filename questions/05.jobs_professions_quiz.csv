@@ -1,0 +1,1006 @@
+question;hint;option1;option2;option3;answer
+Definition|Which word matches the definition? "A person who teaches students.";"";teacher;lawyer;engineer;teacher
+Definition|Which word matches the definition? "A person who works with patients and provides medical care.";"";doctor;teacher;architect;doctor
+Definition|Which word matches the definition? "A person who treats people's teeth.";"";dentist;surgeon;pharmacist;dentist
+Definition|Which word matches the definition? "A person who performs operations on patients.";"";surgeon;teacher;accountant;surgeon
+Definition|Which word matches the definition? "A person who prepares and dispenses medicines.";"";pharmacist;lawyer;chef;pharmacist
+Definition|Which word matches the definition? "A person who takes care of sick people in a hospital.";"";nurse;pilot;architect;nurse
+Definition|Which word matches the definition? "A person who examines patients and diagnoses illnesses.";"";doctor;waiter;journalist;doctor
+Definition|Which word matches the definition? "A person who provides emergency medical care.";"";paramedic;lawyer;designer;paramedic
+Definition|Which word matches the definition? "A person who drives an ambulance.";"";ambulance driver;teacher;mechanic;ambulance driver
+Definition|Which word matches the definition? "A person who helps women during pregnancy and childbirth.";"";midwife;dentist;lawyer;midwife
+Definition|Which word matches the definition? "A person who takes care of animals' health.";"";veterinarian;architect;accountant;veterinarian
+Definition|Which word matches the definition? "A person who studies and treats mental health problems.";"";psychologist;mechanic;pilot;psychologist
+Definition|Which word matches the definition? "A person who provides therapy for emotional or psychological problems.";"";therapist;engineer;chef;therapist
+Definition|Which word matches the definition? "A person who helps people recover movement after an injury.";"";physiotherapist;lawyer;journalist;physiotherapist
+Definition|Which word matches the definition? "A person who helps patients with daily activities and independence.";"";occupational therapist;pilot;accountant;occupational therapist
+Definition|Which word matches the definition? "A person who helps people improve their speech.";"";speech therapist;architect;chef;speech therapist
+Definition|Which word matches the definition? "A person who studies medicines and how they affect the body.";"";pharmacologist;teacher;driver;pharmacologist
+Definition|Which word matches the definition? "A person who studies diseases.";"";pathologist;lawyer;designer;pathologist
+Definition|Which word matches the definition? "A person who studies the human body.";"";anatomist;chef;pilot;anatomist
+Definition|Which word matches the definition? "A person who studies the human mind and behavior.";"";psychologist;mechanic;farmer;psychologist
+Definition|Which word matches the definition? "A person who designs buildings.";"";architect;doctor;waiter;architect
+Definition|Which word matches the definition? "A person who designs and builds machines or systems.";"";engineer;lawyer;teacher;engineer
+Definition|Which word matches the definition? "A person who builds and maintains computer software.";"";software developer;dentist;chef;software developer
+Definition|Which word matches the definition? "A person who writes computer programs.";"";programmer;pilot;lawyer;programmer
+Definition|Which word matches the definition? "A person who manages computer networks.";"";network administrator;teacher;photographer;network administrator
+Definition|Which word matches the definition? "A person who protects computer systems from cyber threats.";"";cybersecurity specialist;waiter;architect;cybersecurity specialist
+Definition|Which word matches the definition? "A person who analyzes data to find useful information.";"";data analyst;mechanic;lawyer;data analyst
+Definition|Which word matches the definition? "A person who designs the visual appearance of websites or applications.";"";UI designer;doctor;farmer;UI designer
+Definition|Which word matches the definition? "A person who designs how users interact with software.";"";UX designer;pilot;accountant;UX designer
+Definition|Which word matches the definition? "A person who creates visual artwork for companies or products.";"";graphic designer;lawyer;driver;graphic designer
+Definition|Which word matches the definition? "A person who creates websites.";"";web developer;chef;dentist;web developer
+Definition|Which word matches the definition? "A person who manages databases.";"";database administrator;teacher;photographer;database administrator
+Definition|Which word matches the definition? "A person who studies and manages information technology.";"";IT specialist;lawyer;waiter;IT specialist
+Definition|Which word matches the definition? "A person who provides technical help to computer users.";"";IT support technician;architect;chef;IT support technician
+Definition|Which word matches the definition? "A person who repairs computers and electronic equipment.";"";computer technician;doctor;pilot;computer technician
+Definition|Which word matches the definition? "A person who tests software for problems.";"";software tester;lawyer;farmer;software tester
+Definition|Which word matches the definition? "A person who manages a company's technology systems.";"";IT manager;teacher;driver;IT manager
+Definition|Which word matches the definition? "A person who studies artificial intelligence.";"";AI researcher;chef;dentist;AI researcher
+Definition|Which word matches the definition? "A person who develops machine learning models.";"";machine learning engineer;lawyer;waiter;machine learning engineer
+Definition|Which word matches the definition? "A person who studies robots and automation.";"";robotics engineer;teacher;accountant;robotics engineer
+Definition|Which word matches the definition? "A person who repairs cars.";"";mechanic;lawyer;chef;mechanic
+Definition|Which word matches the definition? "A person who repairs electrical systems.";"";electrician;teacher;pilot;electrician
+Definition|Which word matches the definition? "A person who installs and repairs water pipes.";"";plumber;doctor;designer;plumber
+Definition|Which word matches the definition? "A person who builds structures such as houses.";"";builder;lawyer;pharmacist;builder
+Definition|Which word matches the definition? "A person who works with bricks and builds walls.";"";bricklayer;pilot;accountant;bricklayer
+Definition|Which word matches the definition? "A person who paints houses and buildings.";"";painter;doctor;lawyer;painter
+Definition|Which word matches the definition? "A person who installs roofs.";"";roofer;teacher;chef;roofer
+Definition|Which word matches the definition? "A person who works with wood to make or repair things.";"";carpenter;dentist;pilot;carpenter
+Definition|Which word matches the definition? "A person who works with metal and creates or repairs metal objects.";"";metalworker;lawyer;teacher;metalworker
+Definition|Which word matches the definition? "A person who operates machinery on a construction site.";"";construction worker;doctor;accountant;construction worker
+Definition|Which word matches the definition? "A person who operates heavy construction equipment.";"";machine operator;chef;journalist;machine operator
+Definition|Which word matches the definition? "A person who designs roads, bridges, and other infrastructure.";"";civil engineer;lawyer;waiter;civil engineer
+Definition|Which word matches the definition? "A person who designs electrical systems.";"";electrical engineer;teacher;farmer;electrical engineer
+Definition|Which word matches the definition? "A person who designs machines and mechanical systems.";"";mechanical engineer;doctor;pilot;mechanical engineer
+Definition|Which word matches the definition? "A person who designs chemical processes.";"";chemical engineer;lawyer;chef;chemical engineer
+Definition|Which word matches the definition? "A person who studies and designs aircraft.";"";aerospace engineer;teacher;accountant;aerospace engineer
+Definition|Which word matches the definition? "A person who studies and designs buildings and structures.";"";structural engineer;doctor;waiter;structural engineer
+Definition|Which word matches the definition? "A person who studies the environment and environmental problems.";"";environmental scientist;lawyer;chef;environmental scientist
+Definition|Which word matches the definition? "A person who studies rocks and the Earth's structure.";"";geologist;teacher;pilot;geologist
+Definition|Which word matches the definition? "A person who studies weather.";"";meteorologist;doctor;accountant;meteorologist
+Definition|Which word matches the definition? "A person who studies stars and planets.";"";astronomer;lawyer;mechanic;astronomer
+Definition|Which word matches the definition? "A person who studies living organisms.";"";biologist;chef;pilot;biologist
+Definition|Which word matches the definition? "A person who studies chemicals and chemical reactions.";"";chemist;teacher;driver;chemist
+Definition|Which word matches the definition? "A person who studies physics.";"";physicist;lawyer;waiter;physicist
+Definition|Which word matches the definition? "A person who studies plants.";"";botanist;doctor;architect;botanist
+Definition|Which word matches the definition? "A person who studies animals.";"";zoologist;teacher;accountant;zoologist
+Definition|Which word matches the definition? "A person who studies oceans and marine life.";"";marine biologist;lawyer;chef;marine biologist
+Definition|Which word matches the definition? "A person who studies insects.";"";entomologist;pilot;dentist;entomologist
+Definition|Which word matches the definition? "A person who studies fossils and ancient life.";"";paleontologist;teacher;driver;paleontologist
+Definition|Which word matches the definition? "A person who studies human societies and cultures.";"";anthropologist;doctor;lawyer;anthropologist
+Definition|Which word matches the definition? "A person who studies society and social behavior.";"";sociologist;chef;pilot;sociologist
+Definition|Which word matches the definition? "A person who studies economic systems.";"";economist;teacher;mechanic;economist
+Definition|Which word matches the definition? "A person who studies political systems and government.";"";political scientist;doctor;accountant;political scientist
+Definition|Which word matches the definition? "A person who studies history.";"";historian;lawyer;chef;historian
+Definition|Which word matches the definition? "A person who studies languages.";"";linguist;pilot;teacher;linguist
+Definition|Which word matches the definition? "A person who studies the Earth's geography.";"";geographer;doctor;waiter;geographer
+Definition|Which word matches the definition? "A person who studies ancient objects and civilizations.";"";archaeologist;lawyer;farmer;archaeologist
+Definition|Which word matches the definition? "A person who studies human cultures and traditions.";"";cultural anthropologist;teacher;mechanic;cultural anthropologist
+Definition|Which word matches the definition? "A person who studies human behavior in society.";"";social scientist;chef;pilot;social scientist
+Definition|Which word matches the definition? "A person who teaches at a university.";"";professor;lawyer;driver;professor
+Definition|Which word matches the definition? "A person who teaches children in a school.";"";schoolteacher;doctor;architect;schoolteacher
+Definition|Which word matches the definition? "A person who teaches young children before primary school.";"";preschool teacher;lawyer;pilot;preschool teacher
+Definition|Which word matches the definition? "A person who teaches students privately.";"";tutor;doctor;chef;tutor
+Definition|Which word matches the definition? "A person who helps students learn a particular subject.";"";tutor;mechanic;lawyer;tutor
+Definition|Which word matches the definition? "A person who manages a school.";"";principal;teacher;accountant;principal
+Definition|Which word matches the definition? "A person who helps students with educational or personal problems.";"";school counselor;pilot;chef;school counselor
+Definition|Which word matches the definition? "A person who works in a library.";"";librarian;lawyer;doctor;librarian
+Definition|Which word matches the definition? "A person who manages books and information in a library.";"";librarian;teacher;mechanic;librarian
+Definition|Which word matches the definition? "A person who teaches at a college or university.";"";lecturer;chef;driver;lecturer
+Definition|Which word matches the definition? "A person who conducts academic research.";"";researcher;lawyer;waiter;researcher
+Definition|Which word matches the definition? "A person who writes academic studies.";"";academic researcher;pilot;dentist;academic researcher
+Definition|Which word matches the definition? "A person who teaches a foreign language.";"";language teacher;doctor;architect;language teacher
+Definition|Which word matches the definition? "A person who teaches music.";"";music teacher;lawyer;accountant;music teacher
+Definition|Which word matches the definition? "A person who teaches physical education.";"";PE teacher;chef;pilot;PE teacher
+Definition|Which word matches the definition? "A person who teaches children how to play sports.";"";sports coach;doctor;lawyer;sports coach
+Definition|Which word matches the definition? "A person who trains athletes.";"";coach;teacher;mechanic;coach
+Definition|Which word matches the definition? "A person who prepares athletes for competitions.";"";athletic coach;doctor;accountant;athletic coach
+Definition|Which word matches the definition? "A person who manages a company's money and financial records.";"";accountant;teacher;pilot;accountant
+Definition|Which word matches the definition? "A person who prepares financial reports.";"";accountant;chef;lawyer;accountant
+Definition|Which word matches the definition? "A person who gives financial advice.";"";financial advisor;doctor;mechanic;financial advisor
+Definition|Which word matches the definition? "A person who manages investments.";"";investment manager;teacher;waiter;investment manager
+Definition|Which word matches the definition? "A person who buys and sells investments for clients.";"";stockbroker;architect;chef;stockbroker
+Definition|Which word matches the definition? "A person who works with banks and financial services.";"";banker;doctor;teacher;banker
+Definition|Which word matches the definition? "A person who works at a bank and helps customers.";"";bank teller;lawyer;pilot;bank teller
+Definition|Which word matches the definition? "A person who lends money professionally.";"";lender;teacher;chef;lender
+Definition|Which word matches the definition? "A person who checks a company's financial records.";"";auditor;doctor;driver;auditor
+Definition|Which word matches the definition? "A person who studies financial risks.";"";risk analyst;lawyer;waiter;risk analyst
+Definition|Which word matches the definition? "A person who analyzes financial information.";"";financial analyst;teacher;mechanic;financial analyst
+Definition|Which word matches the definition? "A person who calculates taxes.";"";tax accountant;pilot;chef;tax accountant
+Definition|Which word matches the definition? "A person who helps people buy and sell houses.";"";real estate agent;doctor;lawyer;real estate agent
+Definition|Which word matches the definition? "A person who sells houses and apartments.";"";real estate agent;teacher;accountant;real estate agent
+Definition|Which word matches the definition? "A person who manages properties for owners.";"";property manager;chef;pilot;property manager
+Definition|Which word matches the definition? "A person who designs advertisements and marketing campaigns.";"";marketing specialist;doctor;mechanic;marketing specialist
+Definition|Which word matches the definition? "A person who promotes products or services.";"";marketer;lawyer;teacher;marketer
+Definition|Which word matches the definition? "A person who manages a company's brand.";"";brand manager;pilot;chef;brand manager
+Definition|Which word matches the definition? "A person who creates advertising content.";"";advertising specialist;doctor;accountant;advertising specialist
+Definition|Which word matches the definition? "A person who manages a company's social media accounts.";"";social media manager;lawyer;mechanic;social media manager
+Definition|Which word matches the definition? "A person who creates content for online audiences.";"";content creator;teacher;pilot;content creator
+Definition|Which word matches the definition? "A person who writes articles for newspapers or websites.";"";journalist;doctor;chef;journalist
+Definition|Which word matches the definition? "A person who reports news on television.";"";news reporter;lawyer;accountant;news reporter
+Definition|Which word matches the definition? "A person who presents news on television or radio.";"";news anchor;teacher;mechanic;news anchor
+Definition|Which word matches the definition? "A person who takes photographs professionally.";"";photographer;doctor;pilot;photographer
+Definition|Which word matches the definition? "A person who creates films.";"";filmmaker;lawyer;chef;filmmaker
+Definition|Which word matches the definition? "A person who directs a movie.";"";film director;teacher;accountant;film director
+Definition|Which word matches the definition? "A person who writes scripts for films or television.";"";screenwriter;doctor;mechanic;screenwriter
+Definition|Which word matches the definition? "A person who acts in films or plays.";"";actor;lawyer;pilot;actor
+Definition|Which word matches the definition? "A woman who acts in films or plays.";"";actress;teacher;chef;actress
+Definition|Which word matches the definition? "A person who performs music professionally.";"";musician;doctor;accountant;musician
+Definition|Which word matches the definition? "A person who sings professionally.";"";singer;lawyer;mechanic;singer
+Definition|Which word matches the definition? "A person who plays a musical instrument professionally.";"";instrumentalist;teacher;pilot;instrumentalist
+Definition|Which word matches the definition? "A person who creates songs.";"";songwriter;doctor;chef;songwriter
+Definition|Which word matches the definition? "A person who conducts an orchestra.";"";conductor;lawyer;accountant;conductor
+Definition|Which word matches the definition? "A person who performs on stage.";"";performer;teacher;driver;performer
+Definition|Which word matches the definition? "A person who dances professionally.";"";dancer;doctor;lawyer;dancer
+Definition|Which word matches the definition? "A person who creates dances and choreography.";"";choreographer;pilot;chef;choreographer
+Definition|Which word matches the definition? "A person who creates works of art.";"";artist;teacher;accountant;artist
+Definition|Which word matches the definition? "A person who paints pictures professionally.";"";painter;doctor;lawyer;painter
+Definition|Which word matches the definition? "A person who creates sculptures.";"";sculptor;pilot;chef;sculptor
+Definition|Which word matches the definition? "A person who designs clothing.";"";fashion designer;teacher;mechanic;fashion designer
+Definition|Which word matches the definition? "A person who creates styles and clothing collections.";"";fashion designer;doctor;accountant;fashion designer
+Definition|Which word matches the definition? "A person who cuts and styles people's hair.";"";hairdresser;lawyer;pilot;hairdresser
+Definition|Which word matches the definition? "A person who cuts men's hair professionally.";"";barber;teacher;chef;barber
+Definition|Which word matches the definition? "A person who provides beauty treatments.";"";beautician;doctor;mechanic;beautician
+Definition|Which word matches the definition? "A person who applies makeup professionally.";"";makeup artist;lawyer;accountant;makeup artist
+Definition|Which word matches the definition? "A person who designs and creates gardens.";"";landscape designer;teacher;pilot;landscape designer
+Definition|Which word matches the definition? "A person who designs the layout of interiors.";"";interior designer;doctor;chef;interior designer
+Definition|Which word matches the definition? "A person who prepares food professionally.";"";chef;lawyer;teacher;chef
+Definition|Which word matches the definition? "A person who cooks food in a restaurant.";"";cook;doctor;accountant;cook
+Definition|Which word matches the definition? "A person who prepares bread and pastries.";"";baker;pilot;lawyer;baker
+Definition|Which word matches the definition? "A person who makes cakes professionally.";"";pastry chef;teacher;mechanic;pastry chef
+Definition|Which word matches the definition? "A person who serves food in a restaurant.";"";waiter;doctor;architect;waiter
+Definition|Which word matches the definition? "A person who serves customers in a restaurant.";"";waitress;lawyer;pilot;waitress
+Definition|Which word matches the definition? "A person who prepares drinks in a bar.";"";bartender;teacher;accountant;bartender
+Definition|Which word matches the definition? "A person who manages a restaurant.";"";restaurant manager;doctor;mechanic;restaurant manager
+Definition|Which word matches the definition? "A person who welcomes guests at a hotel.";"";receptionist;lawyer;chef;receptionist
+Definition|Which word matches the definition? "A person who answers phones and welcomes visitors in an office.";"";receptionist;pilot;teacher;receptionist
+Definition|Which word matches the definition? "A person who cleans and maintains hotel rooms.";"";housekeeper;doctor;accountant;housekeeper
+Definition|Which word matches the definition? "A person who carries guests' luggage at a hotel.";"";bellhop;lawyer;mechanic;bellhop
+Definition|Which word matches the definition? "A person who manages a hotel.";"";hotel manager;teacher;chef;hotel manager
+Definition|Which word matches the definition? "A person who organizes travel arrangements.";"";travel agent;doctor;pilot;travel agent
+Definition|Which word matches the definition? "A person who guides tourists around a city or country.";"";tour guide;lawyer;accountant;tour guide
+Definition|Which word matches the definition? "A person who flies an airplane.";"";pilot;teacher;chef;pilot
+Definition|Which word matches the definition? "A person who assists passengers on an airplane.";"";flight attendant;doctor;mechanic;flight attendant
+Definition|Which word matches the definition? "A person who drives a taxi.";"";taxi driver;lawyer;architect;taxi driver
+Definition|Which word matches the definition? "A person who drives a bus.";"";bus driver;teacher;pilot;bus driver
+Definition|Which word matches the definition? "A person who drives a truck.";"";truck driver;doctor;chef;truck driver
+Definition|Which word matches the definition? "A person who delivers packages to customers.";"";delivery driver;lawyer;accountant;delivery driver
+Definition|Which word matches the definition? "A person who delivers letters and packages.";"";postal worker;teacher;mechanic;postal worker
+Definition|Which word matches the definition? "A person who works at a post office.";"";postal clerk;doctor;pilot;postal clerk
+Definition|Which word matches the definition? "A person who operates a train.";"";train driver;lawyer;chef;train driver
+Definition|Which word matches the definition? "A person who controls the movement of trains.";"";train operator;teacher;accountant;train operator
+Definition|Which word matches the definition? "A person who works on a ship.";"";sailor;doctor;mechanic;sailor
+Definition|Which word matches the definition? "A person who commands a ship.";"";captain;lawyer;pilot;captain
+Definition|Which word matches the definition? "A person who helps passengers on a ship.";"";ship steward;teacher;chef;ship steward
+Definition|Which word matches the definition? "A person who catches fish for a living.";"";fisherman;doctor;accountant;fisherman
+Definition|Which word matches the definition? "A person who grows crops and raises animals.";"";farmer;lawyer;pilot;farmer
+Definition|Which word matches the definition? "A person who grows plants for sale.";"";grower;teacher;mechanic;grower
+Definition|Which word matches the definition? "A person who works with trees and forests.";"";forester;doctor;chef;forester
+Definition|Which word matches the definition? "A person who takes care of a garden.";"";gardener;lawyer;accountant;gardener
+Definition|Which word matches the definition? "A person who studies and cares for forests.";"";forestry worker;teacher;pilot;forestry worker
+Definition|Which word matches the definition? "A person who raises animals on a farm.";"";livestock farmer;doctor;mechanic;livestock farmer
+Definition|Which word matches the definition? "A person who works with horses.";"";horse trainer;lawyer;chef;horse trainer
+Definition|Which word matches the definition? "A person who trains animals.";"";animal trainer;teacher;accountant;animal trainer
+Definition|Which word matches the definition? "A person who takes care of animals in a zoo.";"";zookeeper;doctor;pilot;zookeeper
+Definition|Which word matches the definition? "A person who studies and protects wild animals.";"";wildlife biologist;lawyer;mechanic;wildlife biologist
+Definition|Which word matches the definition? "A person who works to protect the natural environment.";"";environmentalist;teacher;chef;environmentalist
+Definition|Which word matches the definition? "A person who collects garbage from homes.";"";garbage collector;doctor;accountant;garbage collector
+Definition|Which word matches the definition? "A person who cleans public streets.";"";street cleaner;lawyer;pilot;street cleaner
+Definition|Which word matches the definition? "A person who cleans buildings professionally.";"";cleaner;teacher;mechanic;cleaner
+Definition|Which word matches the definition? "A person who washes windows professionally.";"";window cleaner;doctor;chef;window cleaner
+Definition|Which word matches the definition? "A person who repairs shoes.";"";shoemaker;lawyer;accountant;shoemaker
+Definition|Which word matches the definition? "A person who makes or repairs clothing.";"";tailor;teacher;pilot;tailor
+Definition|Which word matches the definition? "A person who makes clothes by hand.";"";seamstress;doctor;mechanic;seamstress
+Definition|Which word matches the definition? "A person who repairs watches and clocks.";"";watchmaker;lawyer;chef;watchmaker
+Definition|Which word matches the definition? "A person who makes jewelry.";"";jeweler;teacher;accountant;jeweler
+Definition|Which word matches the definition? "A person who sells products directly to customers.";"";salesperson;doctor;pilot;salesperson
+Definition|Which word matches the definition? "A person who sells products in a store.";"";sales assistant;lawyer;mechanic;sales assistant
+Definition|Which word matches the definition? "A person who manages a store.";"";store manager;teacher;chef;store manager
+Definition|Which word matches the definition? "A person who owns and runs a business.";"";business owner;doctor;accountant;business owner
+Definition|Which word matches the definition? "A person who starts a new business.";"";entrepreneur;lawyer;pilot;entrepreneur
+Definition|Which word matches the definition? "A person who invests money in businesses.";"";investor;teacher;mechanic;investor
+Definition|Which word matches the definition? "A person who manages a company.";"";manager;doctor;chef;manager
+Definition|Which word matches the definition? "A person responsible for leading a team.";"";team leader;lawyer;accountant;team leader
+Definition|Which word matches the definition? "A person who supervises employees.";"";supervisor;teacher;pilot;supervisor
+Definition|Which word matches the definition? "A person who manages a department.";"";department manager;doctor;mechanic;department manager
+Definition|Which word matches the definition? "A person who manages the entire company.";"";chief executive officer;lawyer;chef;chief executive officer
+Definition|Which word matches the definition? "The highest-ranking executive in a company.";"";CEO;teacher;accountant;CEO
+Definition|Which word matches the definition? "A person responsible for a company's finances.";"";CFO;doctor;pilot;CFO
+Definition|Which word matches the definition? "A person responsible for a company's technology.";"";CTO;lawyer;mechanic;CTO
+Definition|Which word matches the definition? "A person responsible for a company's operations.";"";COO;teacher;chef;COO
+Definition|Which word matches the definition? "A person who manages human resources.";"";HR manager;doctor;accountant;HR manager
+Definition|Which word matches the definition? "A person who recruits employees.";"";recruiter;lawyer;pilot;recruiter
+Definition|Which word matches the definition? "A person who interviews candidates for jobs.";"";recruiter;teacher;mechanic;recruiter
+Definition|Which word matches the definition? "A person who helps employees with workplace problems.";"";HR specialist;doctor;chef;HR specialist
+Definition|Which word matches the definition? "A person who trains new employees.";"";trainer;lawyer;accountant;trainer
+Definition|Which word matches the definition? "A person who manages projects.";"";project manager;teacher;pilot;project manager
+Definition|Which word matches the definition? "A person who plans and coordinates business projects.";"";project manager;doctor;mechanic;project manager
+Definition|Which word matches the definition? "A person who studies how a company operates.";"";business analyst;lawyer;chef;business analyst
+Definition|Which word matches the definition? "A person who advises companies on business strategy.";"";business consultant;teacher;accountant;business consultant
+Definition|Which word matches the definition? "A person who provides professional advice to businesses.";"";consultant;doctor;pilot;consultant
+Definition|Which word matches the definition? "A person who negotiates business agreements.";"";negotiator;lawyer;mechanic;negotiator
+Definition|Which word matches the definition? "A person who represents clients in court.";"";lawyer;teacher;chef;lawyer
+Definition|Which word matches the definition? "A person who provides legal advice.";"";attorney;doctor;accountant;attorney
+Definition|Which word matches the definition? "A person who works for a law firm.";"";legal assistant;pilot;teacher;legal assistant
+Definition|Which word matches the definition? "A person who prepares legal documents.";"";paralegal;doctor;mechanic;paralegal
+Definition|Which word matches the definition? "A person who decides cases in a court.";"";judge;lawyer;chef;judge
+Definition|Which word matches the definition? "A person who brings a case against someone in court.";"";prosecutor;teacher;accountant;prosecutor
+Definition|Which word matches the definition? "A lawyer who represents a person accused of a crime.";"";defense attorney;doctor;pilot;defense attorney
+Definition|Which word matches the definition? "A person who investigates crimes.";"";detective;lawyer;mechanic;detective
+Definition|Which word matches the definition? "A person who enforces the law.";"";police officer;teacher;chef;police officer
+Definition|Which word matches the definition? "A person who works for the police.";"";police officer;doctor;accountant;police officer
+Definition|Which word matches the definition? "A person who investigates fires.";"";fire investigator;lawyer;pilot;fire investigator
+Definition|Which word matches the definition? "A person who puts out fires.";"";firefighter;teacher;mechanic;firefighter
+Definition|Which word matches the definition? "A person who protects a country through military service.";"";soldier;doctor;chef;soldier
+Definition|Which word matches the definition? "A person who serves in the armed forces.";"";military officer;lawyer;accountant;military officer
+Definition|Which word matches the definition? "A person who flies military aircraft.";"";military pilot;teacher;mechanic;military pilot
+Definition|Which word matches the definition? "A person who works for a government department.";"";civil servant;doctor;chef;civil servant
+Definition|Which word matches the definition? "A person elected to represent citizens in government.";"";politician;lawyer;pilot;politician
+Definition|Which word matches the definition? "A person who leads a city or town.";"";mayor;teacher;accountant;mayor
+Definition|Which word matches the definition? "A person who represents a country in another country.";"";ambassador;doctor;mechanic;ambassador
+Definition|Which word matches the definition? "A person who works in diplomacy.";"";diplomat;lawyer;chef;diplomat
+Definition|Which word matches the definition? "A person who writes news stories.";"";journalist;teacher;pilot;journalist
+Definition|Which word matches the definition? "A person who edits written content.";"";editor;doctor;accountant;editor
+Definition|Which word matches the definition? "A person who checks and corrects written texts.";"";proofreader;lawyer;mechanic;proofreader
+Definition|Which word matches the definition? "A person who translates written or spoken language.";"";translator;teacher;chef;translator
+Definition|Which word matches the definition? "A person who translates spoken language in real time.";"";interpreter;doctor;pilot;interpreter
+Definition|Which word matches the definition? "A person who writes books.";"";author;lawyer;accountant;author
+Definition|Which word matches the definition? "A person who writes novels.";"";novelist;teacher;mechanic;novelist
+Definition|Which word matches the definition? "A person who writes poems.";"";poet;doctor;chef;poet
+Definition|Which word matches the definition? "A person who writes technical documents.";"";technical writer;lawyer;pilot;technical writer
+Definition|Which word matches the definition? "A person who designs products.";"";product designer;teacher;accountant;product designer
+Definition|Which word matches the definition? "A person who designs industrial products.";"";industrial designer;doctor;mechanic;industrial designer
+Definition|Which word matches the definition? "A person who designs logos and visual identities.";"";brand designer;lawyer;chef;brand designer
+Definition|Which word matches the definition? "A person who creates animations.";"";animator;teacher;pilot;animator
+Definition|Which word matches the definition? "A person who creates illustrations.";"";illustrator;doctor;accountant;illustrator
+Definition|Which word matches the definition? "A person who creates photographs for magazines or businesses.";"";commercial photographer;lawyer;mechanic;commercial photographer
+Definition|Which word matches the definition? "A person who records and edits video.";"";videographer;teacher;chef;videographer
+Definition|Which word matches the definition? "A person who operates a camera for films or television.";"";camera operator;doctor;pilot;camera operator
+Definition|Which word matches the definition? "A person who records sound for films or music.";"";sound engineer;lawyer;accountant;sound engineer
+Definition|Which word matches the definition? "A person who mixes and edits recorded audio.";"";audio engineer;teacher;mechanic;audio engineer
+Definition|Which word matches the definition? "A person who works in a theater and helps produce performances.";"";theater technician;doctor;chef;theater technician
+Definition|Which word matches the definition? "A person who designs sets for theater or film.";"";set designer;lawyer;pilot;set designer
+Definition|Which word matches the definition? "A person who manages actors during a film production.";"";casting director;teacher;accountant;casting director
+Definition|Which word matches the definition? "A person who selects actors for a movie or play.";"";casting director;doctor;mechanic;casting director
+Definition|Which word matches the definition? "A person who manages a film production.";"";producer;lawyer;chef;producer
+Definition|Which word matches the definition? "A person who provides professional hair and beauty services.";"";stylist;teacher;pilot;stylist
+Definition|Which word matches the definition? "A person who designs and creates floral arrangements.";"";florist;doctor;accountant;florist
+Definition|Which word matches the definition? "A person who sells flowers.";"";florist;lawyer;mechanic;florist
+Definition|Which word matches the definition? "A person who repairs bicycles.";"";bicycle mechanic;teacher;chef;bicycle mechanic
+Definition|Which word matches the definition? "A person who repairs motorcycles.";"";motorcycle mechanic;doctor;pilot;motorcycle mechanic
+Definition|Which word matches the definition? "A person who repairs electrical appliances.";"";appliance technician;lawyer;accountant;appliance technician
+Definition|Which word matches the definition? "A person who repairs heating and cooling systems.";"";HVAC technician;teacher;mechanic;HVAC technician
+Definition|Which word matches the definition? "A person who installs air conditioning systems.";"";air conditioning technician;doctor;chef;air conditioning technician
+Definition|Which word matches the definition? "A person who repairs elevators.";"";elevator technician;lawyer;pilot;elevator technician
+Definition|Which word matches the definition? "A person who repairs locks and keys.";"";locksmith;teacher;accountant;locksmith
+Definition|Which word matches the definition? "A person who makes keys and repairs locks.";"";locksmith;doctor;mechanic;locksmith
+Definition|Which word matches the definition? "A person who works with glass.";"";glazier;lawyer;chef;glazier
+Definition|Which word matches the definition? "A person who installs glass in windows.";"";glazier;teacher;pilot;glazier
+Definition|Which word matches the definition? "A person who works with stone.";"";stonemason;doctor;accountant;stonemason
+Definition|Which word matches the definition? "A person who builds walls and structures with stone.";"";stonemason;lawyer;mechanic;stonemason
+Definition|Which word matches the definition? "A person who makes furniture.";"";furniture maker;teacher;chef;furniture maker
+Definition|Which word matches the definition? "A person who repairs furniture.";"";furniture restorer;doctor;pilot;furniture restorer
+Definition|Which word matches the definition? "A person who restores old buildings or objects.";"";restorer;lawyer;accountant;restorer
+Definition|Which word matches the definition? "A person who works in a museum and takes care of collections.";"";curator;teacher;mechanic;curator
+Definition|Which word matches the definition? "A person who studies and preserves historical objects.";"";museum curator;doctor;chef;museum curator
+Definition|Which word matches the definition? "A person who works with artworks in a gallery.";"";gallery curator;lawyer;pilot;gallery curator
+Definition|Which word matches the definition? "A person who sells artwork.";"";art dealer;teacher;accountant;art dealer
+Definition|Which word matches the definition? "A person who buys and sells antiques.";"";antique dealer;doctor;mechanic;antique dealer
+Definition|Which word matches the definition? "A person who works in a laboratory.";"";laboratory technician;lawyer;chef;laboratory technician
+Definition|Which word matches the definition? "A person who conducts scientific experiments.";"";scientist;teacher;pilot;scientist
+Definition|Which word matches the definition? "A person who assists a scientist in a laboratory.";"";lab technician;doctor;accountant;lab technician
+Definition|Which word matches the definition? "A person who studies and develops new medicines.";"";pharmaceutical researcher;lawyer;mechanic;pharmaceutical researcher
+Definition|Which word matches the definition? "A person who works with medical images such as X-rays.";"";radiologist;teacher;chef;radiologist
+Definition|Which word matches the definition? "A person who operates medical imaging equipment.";"";radiology technician;doctor;pilot;radiology technician
+Definition|Which word matches the definition? "A person who analyzes blood and other biological samples.";"";laboratory scientist;lawyer;accountant;laboratory scientist
+Definition|Which word matches the definition? "A person who provides dental care.";"";dentist;teacher;mechanic;dentist
+Definition|Which word matches the definition? "A person who assists a dentist.";"";dental assistant;doctor;chef;dental assistant
+Definition|Which word matches the definition? "A person who makes and repairs artificial teeth.";"";dental technician;lawyer;pilot;dental technician
+Definition|Which word matches the definition? "A person who helps people see better.";"";optometrist;teacher;accountant;optometrist
+Definition|Which word matches the definition? "A person who makes and fits glasses.";"";optician;doctor;mechanic;optician
+Definition|Which word matches the definition? "A person who treats foot problems.";"";podiatrist;lawyer;chef;podiatrist
+Definition|Which word matches the definition? "A person who treats skin problems.";"";dermatologist;teacher;pilot;dermatologist
+Definition|Which word matches the definition? "A doctor who specializes in children's health.";"";pediatrician;lawyer;accountant;pediatrician
+Definition|Which word matches the definition? "A doctor who specializes in heart problems.";"";cardiologist;teacher;mechanic;cardiologist
+Definition|Which word matches the definition? "A doctor who specializes in brain and nervous system problems.";"";neurologist;doctor;chef;neurologist
+Definition|Which word matches the definition? "A doctor who specializes in cancer treatment.";"";oncologist;lawyer;pilot;oncologist
+Definition|Which word matches the definition? "A doctor who specializes in women's reproductive health.";"";gynecologist;teacher;accountant;gynecologist
+Definition|Which word matches the definition? "A doctor who specializes in the nervous system and performs related surgery.";"";neurosurgeon;doctor;mechanic;neurosurgeon
+Definition|Which word matches the definition? "A person who helps patients recover after surgery or injury.";"";rehabilitation specialist;lawyer;chef;rehabilitation specialist
+Definition|Which word matches the definition? "A person who provides advice about food and nutrition.";"";nutritionist;teacher;pilot;nutritionist
+Definition|Which word matches the definition? "A person who plans healthy diets.";"";dietitian;doctor;accountant;dietitian
+Definition|Which word matches the definition? "A person who works in a hospital and assists doctors.";"";medical assistant;lawyer;mechanic;medical assistant
+Definition|Which word matches the definition? "A person who transports patients in a hospital.";"";hospital orderly;teacher;chef;hospital orderly
+Definition|Which word matches the definition? "A person who cleans and maintains a hospital.";"";hospital cleaner;doctor;pilot;hospital cleaner
+Definition|Which word matches the definition? "A person who manages a hospital.";"";hospital administrator;lawyer;accountant;hospital administrator
+Definition|Which word matches the definition? "A person who organizes medical services.";"";healthcare administrator;teacher;mechanic;healthcare administrator
+Definition|Which word matches the definition? "A person who works in social services.";"";social worker;doctor;chef;social worker
+Definition|Which word matches the definition? "A person who helps families and individuals with social problems.";"";social worker;lawyer;pilot;social worker
+Definition|Which word matches the definition? "A person who helps people find jobs.";"";career counselor;teacher;accountant;career counselor
+Definition|Which word matches the definition? "A person who advises people about their careers.";"";career advisor;doctor;mechanic;career advisor
+Definition|Which word matches the definition? "A person who helps people find suitable employment.";"";employment counselor;lawyer;chef;employment counselor
+Definition|Which word matches the definition? "A person who interviews and evaluates job candidates.";"";recruitment specialist;teacher;pilot;recruitment specialist
+Definition|Which word matches the definition? "A person who manages employee salaries.";"";payroll specialist;doctor;accountant;payroll specialist
+Definition|Which word matches the definition? "A person who manages employee benefits.";"";benefits specialist;lawyer;mechanic;benefits specialist
+Definition|Which word matches the definition? "A person who organizes office work and schedules.";"";administrative assistant;teacher;chef;administrative assistant
+Definition|Which word matches the definition? "A person who helps a manager with administrative tasks.";"";executive assistant;doctor;pilot;executive assistant
+Definition|Which word matches the definition? "A person who answers calls and manages appointments.";"";receptionist;lawyer;accountant;receptionist
+Definition|Which word matches the definition? "A person who organizes meetings and appointments.";"";secretary;teacher;mechanic;secretary
+Definition|Which word matches the definition? "A person who manages office documents.";"";office administrator;doctor;chef;office administrator
+Definition|Which word matches the definition? "A person who types and prepares documents.";"";typist;lawyer;pilot;typist
+Definition|Which word matches the definition? "A person who records information during a meeting.";"";note-taker;teacher;accountant;note-taker
+Definition|Which word matches the definition? "A person who manages company records and files.";"";records clerk;doctor;mechanic;records clerk
+Definition|Which word matches the definition? "A person who enters information into computer systems.";"";data entry clerk;lawyer;chef;data entry clerk
+Definition|Which word matches the definition? "A person who answers customer questions.";"";customer service representative;teacher;pilot;customer service representative
+Definition|Which word matches the definition? "A person who helps customers solve problems.";"";customer support agent;doctor;accountant;customer support agent
+Definition|Which word matches the definition? "A person who sells products over the phone.";"";telemarketer;lawyer;mechanic;telemarketer
+Definition|Which word matches the definition? "A person who persuades customers to buy products.";"";sales representative;teacher;chef;sales representative
+Definition|Which word matches the definition? "A person who manages important customer accounts.";"";account manager;doctor;pilot;account manager
+Definition|Which word matches the definition? "A person who develops relationships with business clients.";"";client manager;lawyer;accountant;client manager
+Definition|Which word matches the definition? "A person who negotiates prices and contracts.";"";sales negotiator;teacher;mechanic;sales negotiator
+Definition|Which word matches the definition? "A person who manages a company's supply chain.";"";supply chain manager;doctor;chef;supply chain manager
+Definition|Which word matches the definition? "A person who organizes the movement of goods.";"";logistics manager;lawyer;pilot;logistics manager
+Definition|Which word matches the definition? "A person who manages warehouse operations.";"";warehouse manager;teacher;accountant;warehouse manager
+Definition|Which word matches the definition? "A person who works in a warehouse.";"";warehouse worker;doctor;mechanic;warehouse worker
+Definition|Which word matches the definition? "A person who moves goods using a forklift.";"";forklift operator;lawyer;chef;forklift operator
+Definition|Which word matches the definition? "A person who packs products for shipment.";"";packer;teacher;pilot;packer
+Definition|Which word matches the definition? "A person who checks products before they are sold.";"";quality inspector;doctor;accountant;quality inspector
+Definition|Which word matches the definition? "A person who checks whether products meet standards.";"";quality control specialist;lawyer;mechanic;quality control specialist
+Definition|Which word matches the definition? "A person who manages production in a factory.";"";production manager;teacher;chef;production manager
+Definition|Which word matches the definition? "A person who operates machines in a factory.";"";factory worker;doctor;pilot;factory worker
+Definition|Which word matches the definition? "A person who assembles products in a factory.";"";assembly worker;lawyer;accountant;assembly worker
+Definition|Which word matches the definition? "A person who repairs machines in a factory.";"";maintenance technician;teacher;mechanic;maintenance technician
+Definition|Which word matches the definition? "A person who maintains industrial equipment.";"";maintenance engineer;doctor;chef;maintenance engineer
+Definition|Which word matches the definition? "A person who designs manufacturing processes.";"";manufacturing engineer;lawyer;pilot;manufacturing engineer
+Definition|Which word matches the definition? "A person who ensures workplace safety.";"";safety officer;teacher;accountant;safety officer
+Definition|Which word matches the definition? "A person who checks that a workplace follows safety rules.";"";safety inspector;doctor;mechanic;safety inspector
+Definition|Which word matches the definition? "A person who investigates workplace accidents.";"";safety investigator;lawyer;chef;safety investigator
+Definition|Which word matches the definition? "A person who manages a company's environmental policies.";"";environmental manager;teacher;pilot;environmental manager
+Definition|Which word matches the definition? "A person who works to reduce pollution.";"";environmental specialist;doctor;accountant;environmental specialist
+Definition|Which word matches the definition? "A person who studies climate change.";"";climate scientist;lawyer;mechanic;climate scientist
+Definition|Which word matches the definition? "A person who studies renewable energy.";"";energy researcher;teacher;chef;energy researcher
+Definition|Which word matches the definition? "A person who installs solar panels.";"";solar technician;doctor;pilot;solar technician
+Definition|Which word matches the definition? "A person who repairs electrical equipment.";"";electrical technician;lawyer;accountant;electrical technician
+Definition|Which word matches the definition? "A person who installs electrical wiring.";"";electrician;teacher;mechanic;electrician
+Definition|Which word matches the definition? "A person who designs computer hardware.";"";hardware engineer;doctor;chef;hardware engineer
+Definition|Which word matches the definition? "A person who designs electronic circuits.";"";electronics engineer;lawyer;pilot;electronics engineer
+Definition|Which word matches the definition? "A person who develops mobile applications.";"";mobile app developer;teacher;accountant;mobile app developer
+Definition|Which word matches the definition? "A person who develops software for the web.";"";web developer;doctor;mechanic;web developer
+Definition|Which word matches the definition? "A person who manages cloud computing systems.";"";cloud engineer;lawyer;chef;cloud engineer
+Definition|Which word matches the definition? "A person who manages computer servers.";"";systems administrator;teacher;pilot;systems administrator
+Definition|Which word matches the definition? "A person who monitors computer networks.";"";network engineer;doctor;accountant;network engineer
+Definition|Which word matches the definition? "A person who analyzes cybersecurity threats.";"";security analyst;lawyer;mechanic;security analyst
+Definition|Which word matches the definition? "A person who investigates cyber attacks.";"";cybersecurity analyst;teacher;chef;cybersecurity analyst
+Definition|Which word matches the definition? "A person who tests the security of computer systems.";"";penetration tester;doctor;pilot;penetration tester
+Definition|Which word matches the definition? "A person who manages information security.";"";information security manager;lawyer;accountant;information security manager
+Definition|Which word matches the definition? "A person who designs databases.";"";database engineer;teacher;mechanic;database engineer
+Definition|Which word matches the definition? "A person who analyzes large amounts of data.";"";data scientist;doctor;chef;data scientist
+Definition|Which word matches the definition? "A person who creates reports from business data.";"";business intelligence analyst;lawyer;pilot;business intelligence analyst
+Definition|Which word matches the definition? "A person who creates charts and dashboards from data.";"";data visualization specialist;teacher;accountant;data visualization specialist
+Definition|Which word matches the definition? "A person who manages data systems.";"";data engineer;doctor;mechanic;data engineer
+Definition|Which word matches the definition? "A person who creates automated computer processes.";"";automation engineer;lawyer;chef;automation engineer
+Definition|Which word matches the definition? "A person who develops robots.";"";robotics engineer;teacher;pilot;robotics engineer
+Definition|Which word matches the definition? "A person who manages technical projects.";"";technical project manager;doctor;accountant;technical project manager
+Definition|Which word matches the definition? "A person who helps companies use technology effectively.";"";technology consultant;lawyer;mechanic;technology consultant
+Definition|Which word matches the definition? "A person who advises companies about computer systems.";"";IT consultant;teacher;chef;IT consultant
+Definition|Which word matches the definition? "A person who trains employees to use software.";"";software trainer;doctor;pilot;software trainer
+Definition|Which word matches the definition? "A person who creates online courses.";"";instructional designer;lawyer;accountant;instructional designer
+Definition|Which word matches the definition? "A person who designs educational materials.";"";instructional designer;teacher;mechanic;instructional designer
+Definition|Which word matches the definition? "A person who creates training programs for employees.";"";training specialist;doctor;chef;training specialist
+Definition|Which word matches the definition? "A person who helps employees develop professional skills.";"";career coach;lawyer;pilot;career coach
+Definition|Which word matches the definition? "A person who helps people achieve personal or professional goals.";"";coach;teacher;accountant;coach
+Definition|Which word matches the definition? "A person who provides advice about personal development.";"";life coach;doctor;mechanic;life coach
+Definition|Which word matches the definition? "A person who helps people improve their professional performance.";"";executive coach;lawyer;chef;executive coach
+Definition|Which word matches the definition? "A person who negotiates on behalf of clients.";"";agent;teacher;pilot;agent
+Definition|Which word matches the definition? "A person who represents actors or other performers.";"";talent agent;doctor;accountant;talent agent
+Definition|Which word matches the definition? "A person who represents athletes.";"";sports agent;lawyer;mechanic;sports agent
+Definition|Which word matches the definition? "A person who represents a company to the media.";"";public relations specialist;teacher;chef;public relations specialist
+Definition|Which word matches the definition? "A person who manages a company's public image.";"";PR manager;doctor;pilot;PR manager
+Definition|Which word matches the definition? "A person who organizes events professionally.";"";event planner;lawyer;accountant;event planner
+Definition|Which word matches the definition? "A person who plans weddings.";"";wedding planner;teacher;mechanic;wedding planner
+Definition|Which word matches the definition? "A person who organizes conferences and meetings.";"";event coordinator;doctor;chef;event coordinator
+Definition|Which word matches the definition? "A person who sells insurance policies.";"";insurance agent;lawyer;pilot;insurance agent
+Definition|Which word matches the definition? "A person who evaluates insurance risks.";"";underwriter;teacher;accountant;underwriter
+Definition|Which word matches the definition? "A person who investigates insurance claims.";"";claims adjuster;doctor;mechanic;claims adjuster
+Definition|Which word matches the definition? "A person who designs insurance policies and evaluates risk.";"";actuary;lawyer;chef;actuary
+Definition|Which word matches the definition? "A person who calculates financial risk using mathematics.";"";actuary;teacher;pilot;actuary
+Definition|Which word matches the definition? "A person who helps people buy insurance.";"";insurance broker;doctor;accountant;insurance broker
+Definition|Which word matches the definition? "A person who sells cars at a dealership.";"";car salesperson;lawyer;mechanic;car salesperson
+Definition|Which word matches the definition? "A person who manages a car dealership.";"";dealership manager;teacher;chef;dealership manager
+Definition|Which word matches the definition? "A person who inspects cars for safety.";"";vehicle inspector;doctor;pilot;vehicle inspector
+Definition|Which word matches the definition? "A person who drives vehicles professionally.";"";professional driver;lawyer;accountant;professional driver
+Definition|Which word matches the definition? "A person who operates a crane.";"";crane operator;teacher;mechanic;crane operator
+Definition|Which word matches the definition? "A person who operates a forklift.";"";forklift operator;doctor;chef;forklift operator
+Definition|Which word matches the definition? "A person who operates machinery on construction sites.";"";heavy equipment operator;lawyer;pilot;heavy equipment operator
+Definition|Which word matches the definition? "A person who supervises construction workers.";"";site supervisor;teacher;accountant;site supervisor
+Definition|Which word matches the definition? "A person who manages a construction project.";"";construction manager;doctor;mechanic;construction manager
+Definition|Which word matches the definition? "A person who estimates the cost of construction work.";"";quantity surveyor;lawyer;chef;quantity surveyor
+Definition|Which word matches the definition? "A person who measures land and property boundaries.";"";surveyor;teacher;pilot;surveyor
+Definition|Which word matches the definition? "A person who designs urban areas and communities.";"";urban planner;doctor;accountant;urban planner
+Definition|Which word matches the definition? "A person who plans how cities should develop.";"";city planner;lawyer;mechanic;city planner
+Definition|Which word matches the definition? "A person who designs roads and transportation systems.";"";transportation planner;teacher;chef;transportation planner
+Definition|Which word matches the definition? "A person who works in a factory producing goods.";"";factory worker;doctor;pilot;factory worker
+Definition|Which word matches the definition? "A person who supervises workers in a factory.";"";factory supervisor;lawyer;accountant;factory supervisor
+Definition|Which word matches the definition? "A person who manages factory production.";"";production supervisor;teacher;mechanic;production supervisor
+Definition|Which word matches the definition? "A person who checks products for defects.";"";quality inspector;doctor;chef;quality inspector
+Definition|Which word matches the definition? "A person who packs goods into boxes.";"";packer;lawyer;pilot;packer
+Definition|Which word matches the definition? "A person who loads and unloads goods.";"";warehouse worker;teacher;accountant;warehouse worker
+Definition|Which word matches the definition? "A person who organizes goods in a warehouse.";"";warehouse clerk;doctor;mechanic;warehouse clerk
+Definition|Which word matches the definition? "A person who manages deliveries and transportation.";"";logistics coordinator;lawyer;chef;logistics coordinator
+Definition|Which word matches the definition? "A person who coordinates the movement of goods.";"";logistics coordinator;teacher;pilot;logistics coordinator
+Definition|Which word matches the definition? "A person who purchases products for a company.";"";purchasing manager;doctor;accountant;purchasing manager
+Definition|Which word matches the definition? "A person who negotiates with suppliers.";"";procurement specialist;lawyer;mechanic;procurement specialist
+Definition|Which word matches the definition? "A person who sells products to other businesses.";"";business-to-business salesperson;teacher;chef;business-to-business salesperson
+Definition|Which word matches the definition? "A person who manages relationships with suppliers.";"";supplier manager;doctor;pilot;supplier manager
+Definition|Which word matches the definition? "A person who manages a company's inventory.";"";inventory manager;lawyer;accountant;inventory manager
+Definition|Which word matches the definition? "A person who checks how much stock a company has.";"";inventory clerk;teacher;mechanic;inventory clerk
+Definition|Which word matches the definition? "A person who works in a supermarket.";"";supermarket worker;doctor;chef;supermarket worker
+Definition|Which word matches the definition? "A person who works at a checkout.";"";cashier;lawyer;pilot;cashier
+Definition|Which word matches the definition? "A person who helps customers find products in a store.";"";sales assistant;teacher;accountant;sales assistant
+Definition|Which word matches the definition? "A person who arranges products on store shelves.";"";shelf stocker;doctor;mechanic;shelf stocker
+Definition|Which word matches the definition? "A person who manages a supermarket.";"";store manager;lawyer;chef;store manager
+Definition|Which word matches the definition? "A person who delivers food to customers.";"";food delivery driver;teacher;pilot;food delivery driver
+Definition|Which word matches the definition? "A person who prepares coffee professionally.";"";barista;doctor;accountant;barista
+Definition|Which word matches the definition? "A person who serves drinks and food in a café.";"";café worker;lawyer;mechanic;café worker
+Definition|Which word matches the definition? "A person who manages a café.";"";café manager;teacher;chef;café manager
+Definition|Which word matches the definition? "A person who works in a bakery.";"";baker;doctor;pilot;baker
+Definition|Which word matches the definition? "A person who works in a butcher shop and prepares meat.";"";butcher;lawyer;accountant;butcher
+Definition|Which word matches the definition? "A person who sells meat.";"";butcher;teacher;mechanic;butcher
+Definition|Which word matches the definition? "A person who sells fish.";"";fishmonger;doctor;chef;fishmonger
+Definition|Which word matches the definition? "A person who sells bread and pastries.";"";baker;lawyer;pilot;baker
+Definition|Which word matches the definition? "A person who sells medicines in a pharmacy.";"";pharmacy assistant;teacher;accountant;pharmacy assistant
+Definition|Which word matches the definition? "A person who works in a laboratory and prepares samples.";"";lab assistant;doctor;mechanic;lab assistant
+Definition|Which word matches the definition? "A person who works in a hospital pharmacy.";"";hospital pharmacist;lawyer;chef;hospital pharmacist
+Definition|Which word matches the definition? "A person who provides medical advice remotely.";"";telemedicine doctor;teacher;pilot;telemedicine doctor
+Definition|Which word matches the definition? "A person who provides online psychological therapy.";"";online therapist;doctor;accountant;online therapist
+Definition|Which word matches the definition? "A person who helps patients remotely using technology.";"";telehealth professional;lawyer;mechanic;telehealth professional
+Definition|Which word matches the definition? "A person who manages a professional team.";"";team manager;teacher;chef;team manager
+Definition|Which word matches the definition? "A person who leads a sports team.";"";team coach;doctor;pilot;team coach
+Definition|Which word matches the definition? "A person who organizes sports competitions.";"";sports organizer;lawyer;accountant;sports organizer
+Definition|Which word matches the definition? "A person who reports on sports events.";"";sports journalist;teacher;mechanic;sports journalist
+Definition|Which word matches the definition? "A person who comments on sports during a broadcast.";"";sports commentator;doctor;chef;sports commentator
+Definition|Which word matches the definition? "A person who judges a sports competition.";"";referee;lawyer;pilot;referee
+Definition|Which word matches the definition? "A person who enforces rules during a sports game.";"";referee;teacher;accountant;referee
+Definition|Which word matches the definition? "A person who trains people to improve their physical fitness.";"";fitness trainer;doctor;mechanic;fitness trainer
+Definition|Which word matches the definition? "A person who designs exercise programs.";"";personal trainer;lawyer;chef;personal trainer
+Definition|Which word matches the definition? "A person who teaches yoga.";"";yoga instructor;teacher;pilot;yoga instructor
+Definition|Which word matches the definition? "A person who teaches people how to swim.";"";swimming instructor;doctor;accountant;swimming instructor
+Definition|Which word matches the definition? "A person who teaches skiing.";"";ski instructor;lawyer;mechanic;ski instructor
+Definition|Which word matches the definition? "A person who trains animals for performances or work.";"";animal trainer;teacher;chef;animal trainer
+Definition|Which word matches the definition? "A person who cares for pets professionally.";"";pet sitter;doctor;pilot;pet sitter
+Definition|Which word matches the definition? "A person who walks dogs for money.";"";dog walker;lawyer;accountant;dog walker
+Definition|Which word matches the definition? "A person who provides professional care for pets.";"";pet caregiver;teacher;mechanic;pet caregiver
+Definition|Which word matches the definition? "A person who trains dogs.";"";dog trainer;doctor;chef;dog trainer
+Definition|Which word matches the definition? "A person who works at an animal shelter.";"";animal shelter worker;lawyer;pilot;animal shelter worker
+Definition|Which word matches the definition? "A person who rescues animals.";"";animal rescuer;teacher;accountant;animal rescuer
+Definition|Which word matches the definition? "A person who works with children in a daycare.";"";daycare worker;doctor;mechanic;daycare worker
+Definition|Which word matches the definition? "A person who takes care of young children professionally.";"";childcare worker;lawyer;chef;childcare worker
+Definition|Which word matches the definition? "A person who looks after children while their parents work.";"";childminder;teacher;pilot;childminder
+Definition|Which word matches the definition? "A person who helps families with childcare.";"";childcare provider;doctor;accountant;childcare provider
+Definition|Which word matches the definition? "A person who works with elderly people in a care home.";"";care home worker;lawyer;mechanic;care home worker
+Definition|Which word matches the definition? "A person who helps elderly people with daily activities.";"";care assistant;teacher;chef;care assistant
+Definition|Which word matches the definition? "A person who manages a nursing home.";"";care home manager;doctor;pilot;care home manager
+Definition|Which word matches the definition? "A person who provides home care to elderly people.";"";home care worker;lawyer;accountant;home care worker
+Definition|Which word matches the definition? "A person who helps people with disabilities.";"";disability support worker;teacher;mechanic;disability support worker
+Definition|Which word matches the definition? "A person who helps people with physical or mental disabilities.";"";support worker;doctor;chef;support worker
+Definition|Which word matches the definition? "A person who helps people find accessible services.";"";disability advisor;lawyer;pilot;disability advisor
+Definition|Which word matches the definition? "A person who provides legal advice to businesses.";"";corporate lawyer;teacher;accountant;corporate lawyer
+Definition|Which word matches the definition? "A person who specializes in criminal law.";"";criminal lawyer;doctor;mechanic;criminal lawyer
+Definition|Which word matches the definition? "A person who specializes in family law.";"";family lawyer;lawyer;chef;family lawyer
+Definition|Which word matches the definition? "A person who specializes in employment law.";"";employment lawyer;teacher;pilot;employment lawyer
+Definition|Which word matches the definition? "A person who specializes in tax law.";"";tax lawyer;doctor;accountant;tax lawyer
+Definition|Which word matches the definition? "A person who prepares contracts.";"";contract lawyer;teacher;mechanic;contract lawyer
+Definition|Which word matches the definition? "A person who investigates legal evidence.";"";legal investigator;lawyer;chef;legal investigator
+Definition|Which word matches the definition? "A person who works in a courtroom.";"";court clerk;doctor;pilot;court clerk
+Definition|Which word matches the definition? "A person who records court proceedings.";"";court reporter;teacher;accountant;court reporter
+Definition|Which word matches the definition? "A person who provides security for a building or event.";"";security guard;lawyer;mechanic;security guard
+Definition|Which word matches the definition? "A person who protects important people.";"";bodyguard;teacher;chef;bodyguard
+Definition|Which word matches the definition? "A person who investigates private matters for clients.";"";private investigator;doctor;pilot;private investigator
+Definition|Which word matches the definition? "A person who collects evidence for investigations.";"";investigator;lawyer;accountant;investigator
+Definition|Which word matches the definition? "A person who examines fingerprints and other evidence.";"";forensic specialist;teacher;mechanic;forensic specialist
+Definition|Which word matches the definition? "A person who studies evidence from crime scenes.";"";forensic scientist;doctor;chef;forensic scientist
+Definition|Which word matches the definition? "A person who works with prisoners.";"";prison officer;lawyer;pilot;prison officer
+Definition|Which word matches the definition? "A person who manages a prison.";"";prison warden;teacher;accountant;prison warden
+Definition|Which word matches the definition? "A person who helps former prisoners return to society.";"";rehabilitation officer;doctor;mechanic;rehabilitation officer
+Definition|Which word matches the definition? "A person who helps people who have committed crimes change their behavior.";"";probation officer;lawyer;chef;probation officer
+Definition|Which word matches the definition? "A person who represents the government in legal cases.";"";government lawyer;teacher;pilot;government lawyer
+Definition|Which word matches the definition? "A person who manages government programs.";"";government administrator;doctor;accountant;government administrator
+Definition|Which word matches the definition? "A person who works for a city government.";"";municipal employee;lawyer;mechanic;municipal employee
+Definition|Which word matches the definition? "A person who works for an international organization.";"";international aid worker;teacher;chef;international aid worker
+Definition|Which word matches the definition? "A person who provides help to people affected by disasters.";"";humanitarian worker;doctor;pilot;humanitarian worker
+Definition|Which word matches the definition? "A person who provides assistance during emergencies.";"";emergency worker;lawyer;accountant;emergency worker
+Definition|Which word matches the definition? "A person who coordinates disaster relief.";"";relief coordinator;teacher;mechanic;relief coordinator
+Definition|Which word matches the definition? "A person who works for a charity.";"";charity worker;doctor;chef;charity worker
+Definition|Which word matches the definition? "A person who collects money for a charity.";"";fundraiser;lawyer;pilot;fundraiser
+Definition|Which word matches the definition? "A person who organizes charitable activities.";"";charity coordinator;teacher;accountant;charity coordinator
+Definition|Which word matches the definition? "A person who works without payment to help others.";"";volunteer;doctor;mechanic;volunteer
+Definition|Which word matches the definition? "A person who offers their time for free to help an organization.";"";volunteer;lawyer;chef;volunteer
+Definition|Which word matches the definition? "A person who leads a nonprofit organization.";"";nonprofit director;teacher;pilot;nonprofit director
+Definition|Which word matches the definition? "A person who manages a charity.";"";charity manager;doctor;accountant;charity manager
+Definition|Which word matches the definition? "A person who organizes community projects.";"";community organizer;lawyer;mechanic;community organizer
+Definition|Which word matches the definition? "A person who helps people in a local community.";"";community worker;teacher;chef;community worker
+Definition|Which word matches the definition? "A person who helps immigrants with services and integration.";"";immigration advisor;doctor;pilot;immigration advisor
+Definition|Which word matches the definition? "A person who helps people understand immigration laws.";"";immigration lawyer;lawyer;accountant;immigration lawyer
+Definition|Which word matches the definition? "A person who translates during international meetings.";"";interpreter;teacher;mechanic;interpreter
+Definition|Which word matches the definition? "A person who teaches adults new skills.";"";adult educator;doctor;chef;adult educator
+Definition|Which word matches the definition? "A person who teaches people who cannot read or write.";"";literacy teacher;lawyer;pilot;literacy teacher
+Definition|Which word matches the definition? "A person who teaches English as a foreign language.";"";English teacher;doctor;accountant;English teacher
+Definition|Which word matches the definition? "A person who teaches students online.";"";online teacher;teacher;mechanic;online teacher
+Definition|Which word matches the definition? "A person who creates educational videos.";"";educational content creator;doctor;chef;educational content creator
+Definition|Which word matches the definition? "A person who manages an online learning platform.";"";learning platform manager;lawyer;pilot;learning platform manager
+Definition|Which word matches the definition? "A person who designs educational software.";"";educational software developer;teacher;accountant;educational software developer
+Definition|Which word matches the definition? "A person who analyzes user behavior on websites.";"";web analyst;doctor;mechanic;web analyst
+Definition|Which word matches the definition? "A person who studies how customers behave.";"";consumer analyst;lawyer;chef;consumer analyst
+Definition|Which word matches the definition? "A person who studies markets and customer preferences.";"";market researcher;teacher;pilot;market researcher
+Definition|Which word matches the definition? "A person who conducts surveys to collect information.";"";survey researcher;doctor;accountant;survey researcher
+Definition|Which word matches the definition? "A person who analyzes public opinion.";"";pollster;lawyer;mechanic;pollster
+Definition|Which word matches the definition? "A person who creates advertising strategies.";"";advertising strategist;teacher;chef;advertising strategist
+Definition|Which word matches the definition? "A person who writes advertising copy.";"";copywriter;doctor;pilot;copywriter
+Definition|Which word matches the definition? "A person who creates slogans for advertising campaigns.";"";copywriter;lawyer;accountant;copywriter
+Definition|Which word matches the definition? "A person who manages email marketing campaigns.";"";email marketing specialist;teacher;mechanic;email marketing specialist
+Definition|Which word matches the definition? "A person who improves websites for search engines.";"";SEO specialist;doctor;chef;SEO specialist
+Definition|Which word matches the definition? "A person who manages paid online advertising.";"";digital advertising specialist;lawyer;pilot;digital advertising specialist
+Definition|Which word matches the definition? "A person who analyzes online marketing results.";"";digital marketing analyst;teacher;accountant;digital marketing analyst
+Definition|Which word matches the definition? "A person who manages a company's online presence.";"";digital marketing manager;doctor;mechanic;digital marketing manager
+Definition|Which word matches the definition? "A person who creates online marketing campaigns.";"";digital marketer;lawyer;chef;digital marketer
+Definition|Which word matches the definition? "A person who manages a company's reputation.";"";reputation manager;teacher;pilot;reputation manager
+Definition|Which word matches the definition? "A person who communicates with journalists on behalf of a company.";"";press officer;doctor;accountant;press officer
+Definition|Which word matches the definition? "A person who organizes communication between a company and the media.";"";public relations officer;lawyer;mechanic;public relations officer
+Definition|Which word matches the definition? "A person who designs presentations and visual materials.";"";presentation designer;teacher;chef;presentation designer
+Definition|Which word matches the definition? "A person who creates professional documents and reports.";"";technical writer;doctor;pilot;technical writer
+Definition|Which word matches the definition? "A person who manages a company's internal communications.";"";communications manager;lawyer;accountant;communications manager
+Definition|Which word matches the definition? "A person who manages relationships with customers.";"";customer success manager;teacher;mechanic;customer success manager
+Definition|Which word matches the definition? "A person who helps customers get value from a product.";"";customer success specialist;doctor;chef;customer success specialist
+Definition|Which word matches the definition? "A person who manages customer accounts.";"";account manager;lawyer;pilot;account manager
+Definition|Which word matches the definition? "A person who helps customers before they buy a product.";"";sales consultant;teacher;accountant;sales consultant
+Definition|Which word matches the definition? "A person who helps customers after they buy a product.";"";customer support specialist;doctor;mechanic;customer support specialist
+Definition|Which word matches the definition? "A person who demonstrates products to potential customers.";"";sales demonstrator;lawyer;chef;sales demonstrator
+Definition|Which word matches the definition? "A person who negotiates sales with customers.";"";sales negotiator;teacher;pilot;sales negotiator
+Definition|Which word matches the definition? "A person who manages a sales team.";"";sales manager;doctor;accountant;sales manager
+Definition|Which word matches the definition? "A person who develops new business opportunities.";"";business development manager;lawyer;mechanic;business development manager
+Definition|Which word matches the definition? "A person who finds potential customers for a company.";"";business development representative;teacher;chef;business development representative
+Definition|Which word matches the definition? "A person who contacts potential customers by phone.";"";sales representative;doctor;pilot;sales representative
+Definition|Which word matches the definition? "A person who creates partnerships between companies.";"";partnership manager;lawyer;accountant;partnership manager
+Definition|Which word matches the definition? "A person who manages relationships with business partners.";"";partnership manager;teacher;mechanic;partnership manager
+Definition|Which word matches the definition? "A person who evaluates business performance.";"";business analyst;doctor;chef;business analyst
+Definition|Which word matches the definition? "A person who helps a company improve its processes.";"";process consultant;lawyer;pilot;process consultant
+Definition|Which word matches the definition? "A person who studies and improves business processes.";"";process analyst;teacher;accountant;process analyst
+Definition|Which word matches the definition? "A person who manages organizational change.";"";change manager;doctor;mechanic;change manager
+Definition|Which word matches the definition? "A person who helps companies implement new strategies.";"";change consultant;lawyer;chef;change consultant
+Definition|Which word matches the definition? "A person who helps organizations become more efficient.";"";management consultant;teacher;pilot;management consultant
+Definition|Which word matches the definition? "A person who advises executives.";"";executive consultant;doctor;accountant;executive consultant
+Definition|Which word matches the definition? "A person who manages a company's daily activities.";"";operations manager;lawyer;mechanic;operations manager
+Definition|Which word matches the definition? "A person who coordinates daily business operations.";"";operations coordinator;teacher;chef;operations coordinator
+Definition|Which word matches the definition? "A person who manages office operations.";"";office manager;doctor;pilot;office manager
+Definition|Which word matches the definition? "A person who organizes schedules and administrative tasks.";"";administrative coordinator;lawyer;accountant;administrative coordinator
+Definition|Which word matches the definition? "A person who coordinates projects and teams.";"";project coordinator;teacher;mechanic;project coordinator
+Definition|Which word matches the definition? "A person who assists with project planning.";"";project assistant;doctor;chef;project assistant
+Definition|Which word matches the definition? "A person who manages deadlines and project resources.";"";project manager;lawyer;pilot;project manager
+Definition|Which word matches the definition? "A person who analyzes business requirements for software.";"";business systems analyst;teacher;accountant;business systems analyst
+Definition|Which word matches the definition? "A person who connects business needs with technology solutions.";"";systems analyst;doctor;mechanic;systems analyst
+Definition|Which word matches the definition? "A person who designs software architecture.";"";software architect;lawyer;chef;software architect
+Definition|Which word matches the definition? "A person who manages software development teams.";"";software engineering manager;teacher;pilot;software engineering manager
+Definition|Which word matches the definition? "A person who reviews computer code.";"";code reviewer;doctor;accountant;code reviewer
+Definition|Which word matches the definition? "A person who automates software deployment.";"";DevOps engineer;lawyer;mechanic;DevOps engineer
+Definition|Which word matches the definition? "A person who manages cloud infrastructure.";"";cloud engineer;teacher;chef;cloud engineer
+Definition|Which word matches the definition? "A person who monitors application performance.";"";site reliability engineer;doctor;pilot;site reliability engineer
+Definition|Which word matches the definition? "A person who manages technical infrastructure.";"";infrastructure engineer;lawyer;accountant;infrastructure engineer
+Definition|Which word matches the definition? "A person who manages computer storage systems.";"";storage administrator;teacher;mechanic;storage administrator
+Definition|Which word matches the definition? "A person who manages user accounts and permissions.";"";identity administrator;doctor;chef;identity administrator
+Definition|Which word matches the definition? "A person who manages cybersecurity policies.";"";security manager;lawyer;pilot;security manager
+Definition|Which word matches the definition? "A person who investigates suspicious computer activity.";"";security investigator;teacher;accountant;security investigator
+Definition|Which word matches the definition? "A person who responds to cybersecurity incidents.";"";incident responder;doctor;mechanic;incident responder
+Definition|Which word matches the definition? "A person who monitors security alerts.";"";security operations analyst;lawyer;chef;security operations analyst
+Definition|Which word matches the definition? "A person who tests systems for security weaknesses.";"";penetration tester;teacher;pilot;penetration tester
+Definition|Which word matches the definition? "A person who protects networks from unauthorized access.";"";network security engineer;doctor;accountant;network security engineer
+Definition|Which word matches the definition? "A person who designs secure computer networks.";"";network security architect;lawyer;mechanic;network security architect
+Definition|Which word matches the definition? "A person who manages a company's firewall systems.";"";firewall administrator;teacher;chef;firewall administrator
+Definition|Which word matches the definition? "A person who monitors network traffic.";"";network analyst;doctor;pilot;network analyst
+Definition|Which word matches the definition? "A person who troubleshoots computer networks.";"";network technician;lawyer;accountant;network technician
+Definition|Which word matches the definition? "A person who installs network equipment.";"";network installer;teacher;mechanic;network installer
+Definition|Which word matches the definition? "A person who manages telecommunications systems.";"";telecommunications engineer;doctor;chef;telecommunications engineer
+Definition|Which word matches the definition? "A person who designs wireless networks.";"";wireless network engineer;lawyer;pilot;wireless network engineer
+Definition|Which word matches the definition? "A person who works with satellite communication systems.";"";satellite communications engineer;teacher;accountant;satellite communications engineer
+Definition|Which word matches the definition? "A person who repairs telecommunications equipment.";"";telecommunications technician;doctor;mechanic;telecommunications technician
+Definition|Which word matches the definition? "A person who installs internet connections.";"";internet technician;lawyer;chef;internet technician
+Definition|Which word matches the definition? "A person who provides technical assistance to internet customers.";"";technical support specialist;teacher;pilot;technical support specialist
+Definition|Which word matches the definition? "A person who manages an organization's help desk.";"";help desk manager;doctor;accountant;help desk manager
+Definition|Which word matches the definition? "A person who helps users solve technical problems.";"";help desk technician;lawyer;mechanic;help desk technician
+Definition|Which word matches the definition? "A person who repairs mobile phones.";"";phone technician;teacher;chef;phone technician
+Definition|Which word matches the definition? "A person who repairs televisions and electronic devices.";"";electronics technician;doctor;pilot;electronics technician
+Definition|Which word matches the definition? "A person who designs electronic products.";"";electronics designer;lawyer;accountant;electronics designer
+Definition|Which word matches the definition? "A person who creates computer games.";"";game developer;teacher;mechanic;game developer
+Definition|Which word matches the definition? "A person who designs levels and gameplay for video games.";"";game designer;doctor;chef;game designer
+Definition|Which word matches the definition? "A person who creates 3D models for games or films.";"";3D artist;lawyer;pilot;3D artist
+Definition|Which word matches the definition? "A person who creates visual effects for films.";"";VFX artist;teacher;accountant;VFX artist
+Definition|Which word matches the definition? "A person who creates animations for films or games.";"";3D animator;doctor;mechanic;3D animator
+Definition|Which word matches the definition? "A person who creates digital illustrations.";"";digital artist;lawyer;chef;digital artist
+Definition|Which word matches the definition? "A person who designs digital interfaces.";"";UI designer;teacher;pilot;UI designer
+Definition|Which word matches the definition? "A person who studies user experience.";"";UX researcher;doctor;accountant;UX researcher
+Definition|Which word matches the definition? "A person who tests how easy a product is to use.";"";usability tester;lawyer;mechanic;usability tester
+Definition|Which word matches the definition? "A person who manages a product throughout its development.";"";product manager;teacher;chef;product manager
+Definition|Which word matches the definition? "A person who decides what features a product should have.";"";product manager;doctor;pilot;product manager
+Definition|Which word matches the definition? "A person who creates new products.";"";product developer;lawyer;accountant;product developer
+Definition|Which word matches the definition? "A person who researches customer needs for new products.";"";product researcher;teacher;mechanic;product researcher
+Definition|Which word matches the definition? "A person who tests products before release.";"";product tester;doctor;chef;product tester
+Definition|Which word matches the definition? "A person who checks products for quality.";"";quality analyst;lawyer;pilot;quality analyst
+Definition|Which word matches the definition? "A person who manages quality standards.";"";quality manager;teacher;accountant;quality manager
+Definition|Which word matches the definition? "A person who develops company standards and procedures.";"";compliance specialist;doctor;mechanic;compliance specialist
+Definition|Which word matches the definition? "A person who ensures a company follows laws and regulations.";"";compliance officer;lawyer;chef;compliance officer
+Definition|Which word matches the definition? "A person who investigates financial crimes.";"";forensic accountant;teacher;pilot;forensic accountant
+Definition|Which word matches the definition? "A person who investigates financial fraud.";"";fraud investigator;doctor;accountant;fraud investigator
+Definition|Which word matches the definition? "A person who analyzes financial crime.";"";financial crime analyst;lawyer;mechanic;financial crime analyst
+Definition|Which word matches the definition? "A person who manages company risks.";"";risk manager;teacher;chef;risk manager
+Definition|Which word matches the definition? "A person who identifies and evaluates business risks.";"";risk analyst;doctor;pilot;risk analyst
+Definition|Which word matches the definition? "A person who protects a company's physical property.";"";security officer;lawyer;accountant;security officer
+Definition|Which word matches the definition? "A person who monitors security cameras.";"";security operator;teacher;mechanic;security operator
+Definition|Which word matches the definition? "A person who investigates accidents.";"";accident investigator;doctor;chef;accident investigator
+Definition|Which word matches the definition? "A person who inspects buildings for safety.";"";building inspector;lawyer;pilot;building inspector
+Definition|Which word matches the definition? "A person who inspects food for safety.";"";food inspector;teacher;accountant;food inspector
+Definition|Which word matches the definition? "A person who checks restaurants for health violations.";"";health inspector;doctor;mechanic;health inspector
+Definition|Which word matches the definition? "A person who enforces public health regulations.";"";public health inspector;lawyer;chef;public health inspector
+Definition|Which word matches the definition? "A person who studies public health.";"";public health specialist;teacher;pilot;public health specialist
+Definition|Which word matches the definition? "A person who organizes vaccination programs.";"";public health coordinator;doctor;accountant;public health coordinator
+Definition|Which word matches the definition? "A person who studies disease patterns in populations.";"";epidemiologist;lawyer;mechanic;epidemiologist
+Definition|Which word matches the definition? "A person who studies how diseases spread.";"";epidemiologist;teacher;chef;epidemiologist
+Definition|Which word matches the definition? "A person who studies population statistics.";"";demographer;doctor;pilot;demographer
+Definition|Which word matches the definition? "A person who studies population changes.";"";demographer;lawyer;accountant;demographer
+Definition|Which word matches the definition? "A person who analyzes statistical data.";"";statistician;teacher;mechanic;statistician
+Definition|Which word matches the definition? "A person who uses mathematics to analyze data.";"";statistician;doctor;chef;statistician
+Definition|Which word matches the definition? "A person who studies economic trends.";"";economist;lawyer;pilot;economist
+Definition|Which word matches the definition? "A person who analyzes financial markets.";"";market analyst;teacher;accountant;market analyst
+Definition|Which word matches the definition? "A person who studies consumer behavior.";"";consumer researcher;doctor;mechanic;consumer researcher
+Definition|Which word matches the definition? "A person who studies advertising effectiveness.";"";marketing analyst;lawyer;chef;marketing analyst
+Definition|Which word matches the definition? "A person who manages customer relationships.";"";CRM manager;teacher;pilot;CRM manager
+Definition|Which word matches the definition? "A person who manages customer databases.";"";CRM administrator;doctor;accountant;CRM administrator
+Definition|Which word matches the definition? "A person who analyzes customer data.";"";customer data analyst;lawyer;mechanic;customer data analyst
+Definition|Which word matches the definition? "A person who manages a company's website.";"";webmaster;teacher;chef;webmaster
+Definition|Which word matches the definition? "A person who maintains website content.";"";web content manager;doctor;pilot;web content manager
+Definition|Which word matches the definition? "A person who writes content for websites.";"";web content writer;lawyer;accountant;web content writer
+Definition|Which word matches the definition? "A person who manages online communities.";"";community manager;teacher;mechanic;community manager
+Definition|Which word matches the definition? "A person who interacts with a company's online audience.";"";community manager;doctor;chef;community manager
+Definition|Which word matches the definition? "A person who creates podcasts.";"";podcaster;lawyer;pilot;podcaster
+Definition|Which word matches the definition? "A person who hosts a podcast.";"";podcast host;teacher;accountant;podcast host
+Definition|Which word matches the definition? "A person who creates videos for online platforms.";"";video creator;doctor;mechanic;video creator
+Definition|Which word matches the definition? "A person who creates content for social media.";"";social media creator;lawyer;chef;social media creator
+Definition|Which word matches the definition? "A person who earns money by promoting products online.";"";influencer;teacher;pilot;influencer
+Definition|Which word matches the definition? "A person who creates online content and has many followers.";"";influencer;doctor;accountant;influencer
+Definition|Which word matches the definition? "A person who writes reviews of products or services.";"";reviewer;lawyer;mechanic;reviewer
+Definition|Which word matches the definition? "A person who tests products and gives feedback.";"";product reviewer;teacher;chef;product reviewer
+Definition|Which word matches the definition? "A person who organizes professional conferences.";"";conference organizer;doctor;pilot;conference organizer
+Definition|Which word matches the definition? "A person who manages a venue for events.";"";venue manager;lawyer;accountant;venue manager
+Definition|Which word matches the definition? "A person who works at an airport.";"";airport worker;teacher;mechanic;airport worker
+Definition|Which word matches the definition? "A person who checks passengers before flights.";"";security officer;doctor;chef;security officer
+Definition|Which word matches the definition? "A person who handles passengers' luggage at an airport.";"";baggage handler;lawyer;pilot;baggage handler
+Definition|Which word matches the definition? "A person who directs airplanes on the ground.";"";ground controller;teacher;accountant;ground controller
+Definition|Which word matches the definition? "A person who controls air traffic.";"";air traffic controller;doctor;mechanic;air traffic controller
+Definition|Which word matches the definition? "A person who maintains aircraft.";"";aircraft mechanic;lawyer;chef;aircraft mechanic
+Definition|Which word matches the definition? "A person who checks aircraft safety.";"";aviation inspector;teacher;pilot;aviation inspector
+Definition|Which word matches the definition? "A person who works on a ship and prepares food.";"";ship cook;doctor;accountant;ship cook
+Definition|Which word matches the definition? "A person who repairs ship engines.";"";marine engineer;lawyer;mechanic;marine engineer
+Definition|Which word matches the definition? "A person who designs ships.";"";naval architect;teacher;chef;naval architect
+Definition|Which word matches the definition? "A person who studies marine transportation.";"";maritime specialist;doctor;pilot;maritime specialist
+Definition|Which word matches the definition? "A person who delivers newspapers.";"";newspaper delivery worker;lawyer;accountant;newspaper delivery worker
+Definition|Which word matches the definition? "A person who sells newspapers.";"";news vendor;teacher;mechanic;news vendor
+Definition|Which word matches the definition? "A person who works at a publishing company.";"";publisher;doctor;chef;publisher
+Definition|Which word matches the definition? "A person who manages the publication of books.";"";publisher;lawyer;pilot;publisher
+Definition|Which word matches the definition? "A person who designs book covers.";"";book cover designer;teacher;accountant;book cover designer
+Definition|Which word matches the definition? "A person who checks manuscripts before publication.";"";editor;doctor;mechanic;editor
+Definition|Which word matches the definition? "A person who works in a printing company.";"";printer;lawyer;chef;printer
+Definition|Which word matches the definition? "A person who operates printing machines.";"";printing machine operator;teacher;pilot;printing machine operator
+Definition|Which word matches the definition? "A person who works with books in a bookstore.";"";bookseller;doctor;accountant;bookseller
+Definition|Which word matches the definition? "A person who manages a bookstore.";"";bookstore manager;lawyer;mechanic;bookstore manager
+Definition|Which word matches the definition? "A person who works in a museum.";"";museum worker;teacher;chef;museum worker
+Definition|Which word matches the definition? "A person who guides visitors through a museum.";"";museum guide;doctor;pilot;museum guide
+Definition|Which word matches the definition? "A person who takes care of museum objects.";"";museum conservator;lawyer;accountant;museum conservator
+Definition|Which word matches the definition? "A person who restores paintings and artworks.";"";art conservator;teacher;mechanic;art conservator
+Definition|Which word matches the definition? "A person who works in an art gallery.";"";gallery assistant;doctor;chef;gallery assistant
+Definition|Which word matches the definition? "A person who sells artwork to customers.";"";art salesperson;lawyer;pilot;art salesperson
+Definition|Which word matches the definition? "A person who organizes exhibitions.";"";exhibition curator;teacher;accountant;exhibition curator
+Definition|Which word matches the definition? "A person who works at a theater ticket office.";"";box office clerk;doctor;mechanic;box office clerk
+Definition|Which word matches the definition? "A person who sells tickets for events.";"";ticket seller;lawyer;chef;ticket seller
+Definition|Which word matches the definition? "A person who checks tickets at an event.";"";ticket inspector;teacher;pilot;ticket inspector
+Definition|Which word matches the definition? "A person who works backstage in a theater.";"";stagehand;doctor;accountant;stagehand
+Definition|Which word matches the definition? "A person who manages lighting for a performance.";"";lighting technician;lawyer;mechanic;lighting technician
+Definition|Which word matches the definition? "A person who manages sound during a performance.";"";sound technician;teacher;chef;sound technician
+Definition|Which word matches the definition? "A person who designs costumes for performances.";"";costume designer;doctor;pilot;costume designer
+Definition|Which word matches the definition? "A person who makes costumes.";"";costume maker;lawyer;accountant;costume maker
+Definition|Which word matches the definition? "A person who applies makeup to actors.";"";stage makeup artist;teacher;mechanic;stage makeup artist
+Definition|Which word matches the definition? "A person who works with performers before a show.";"";stage manager;doctor;chef;stage manager
+Definition|Which word matches the definition? "A person who manages the production of a theater show.";"";theater producer;lawyer;pilot;theater producer
+Definition|Which word matches the definition? "A person who directs actors in a play.";"";theater director;teacher;accountant;theater director
+Definition|Which word matches the definition? "A person who writes plays.";"";playwright;doctor;mechanic;playwright
+Definition|Which word matches the definition? "A person who performs comedy professionally.";"";comedian;lawyer;chef;comedian
+Definition|Which word matches the definition? "A person who performs magic tricks professionally.";"";magician;teacher;pilot;magician
+Definition|Which word matches the definition? "A person who performs tricks in a circus.";"";circus performer;doctor;accountant;circus performer
+Definition|Which word matches the definition? "A person who trains and performs with circus animals.";"";animal trainer;lawyer;mechanic;animal trainer
+Definition|Which word matches the definition? "A person who performs dangerous physical tricks.";"";stunt performer;teacher;chef;stunt performer
+Definition|Which word matches the definition? "A person who performs dangerous scenes for actors.";"";stunt double;doctor;pilot;stunt double
+Definition|Which word matches the definition? "A person who directs and coordinates dangerous scenes.";"";stunt coordinator;lawyer;accountant;stunt coordinator
+Definition|Which word matches the definition? "A person who designs visual effects.";"";visual effects artist;teacher;mechanic;visual effects artist
+Definition|Which word matches the definition? "A person who creates special effects for movies.";"";special effects technician;doctor;chef;special effects technician
+Definition|Which word matches the definition? "A person who edits films.";"";film editor;lawyer;pilot;film editor
+Definition|Which word matches the definition? "A person who edits videos professionally.";"";video editor;teacher;accountant;video editor
+Definition|Which word matches the definition? "A person who writes subtitles for films.";"";subtitle translator;doctor;mechanic;subtitle translator
+Definition|Which word matches the definition? "A person who creates subtitles.";"";subtitle editor;lawyer;chef;subtitle editor
+Definition|Which word matches the definition? "A person who records voices for films or advertisements.";"";voice actor;teacher;pilot;voice actor
+Definition|Which word matches the definition? "A person who narrates documentaries.";"";narrator;doctor;accountant;narrator
+Definition|Which word matches the definition? "A person who presents a radio program.";"";radio host;lawyer;mechanic;radio host
+Definition|Which word matches the definition? "A person who works as a radio announcer.";"";radio announcer;teacher;chef;radio announcer
+Definition|Which word matches the definition? "A person who presents a television program.";"";TV host;doctor;pilot;TV host
+Definition|Which word matches the definition? "A person who interviews people on television.";"";TV interviewer;lawyer;accountant;TV interviewer
+Definition|Which word matches the definition? "A person who produces television programs.";"";TV producer;teacher;mechanic;TV producer
+Definition|Which word matches the definition? "A person who directs television programs.";"";TV director;doctor;chef;TV director
+Definition|Which word matches the definition? "A person who works behind the scenes in television.";"";TV production assistant;lawyer;pilot;TV production assistant
+Definition|Which word matches the definition? "A person who manages a company's accounting department.";"";accounting manager;teacher;accountant;accounting manager
+Definition|Which word matches the definition? "A person who prepares company budgets.";"";budget analyst;doctor;mechanic;budget analyst
+Definition|Which word matches the definition? "A person who plans how a company will spend money.";"";financial planner;lawyer;chef;financial planner
+Definition|Which word matches the definition? "A person who helps individuals manage their money.";"";personal financial advisor;teacher;pilot;personal financial advisor
+Definition|Which word matches the definition? "A person who manages investment portfolios.";"";portfolio manager;doctor;accountant;portfolio manager
+Definition|Which word matches the definition? "A person who buys and sells financial assets.";"";trader;lawyer;mechanic;trader
+Definition|Which word matches the definition? "A person who analyzes stock markets.";"";stock analyst;teacher;chef;stock analyst
+Definition|Which word matches the definition? "A person who works with foreign currency markets.";"";foreign exchange trader;doctor;pilot;foreign exchange trader
+Definition|Which word matches the definition? "A person who manages financial risks.";"";financial risk manager;lawyer;accountant;financial risk manager
+Definition|Which word matches the definition? "A person who works in a company's legal department.";"";legal counsel;teacher;mechanic;legal counsel
+Definition|Which word matches the definition? "A lawyer who advises a company.";"";corporate counsel;doctor;chef;corporate counsel
+Definition|Which word matches the definition? "A person who manages contracts.";"";contract manager;lawyer;pilot;contract manager
+Definition|Which word matches the definition? "A person who negotiates employment contracts.";"";labor relations specialist;teacher;accountant;labor relations specialist
+Definition|Which word matches the definition? "A person who represents workers in employment disputes.";"";labor lawyer;doctor;mechanic;labor lawyer
+Definition|Which word matches the definition? "A person who represents employers in employment disputes.";"";employment attorney;lawyer;chef;employment attorney
+Definition|Which word matches the definition? "A person who helps resolve workplace disputes.";"";mediator;teacher;pilot;mediator
+Definition|Which word matches the definition? "A person who helps two sides reach an agreement.";"";mediator;doctor;accountant;mediator
+Definition|Which word matches the definition? "A person who resolves disputes outside court.";"";arbitrator;lawyer;mechanic;arbitrator
+Definition|Which word matches the definition? "A person who makes decisions in a legal dispute.";"";arbitrator;teacher;chef;arbitrator
+Definition|Which word matches the definition? "A person who helps people buy or sell property.";"";real estate broker;doctor;pilot;real estate broker
+Definition|Which word matches the definition? "A person who evaluates the value of a property.";"";property appraiser;lawyer;accountant;property appraiser
+Definition|Which word matches the definition? "A person who inspects a property before it is sold.";"";home inspector;teacher;mechanic;home inspector
+Definition|Which word matches the definition? "A person who manages rental properties.";"";property manager;doctor;chef;property manager
+Definition|Which word matches the definition? "A person who rents out property.";"";landlord;lawyer;pilot;landlord
+Definition|Which word matches the definition? "A person who rents a property from an owner.";"";tenant;teacher;accountant;tenant
+Definition|Which word matches the definition? "A person who manages apartment buildings.";"";building manager;doctor;mechanic;building manager
+Definition|Which word matches the definition? "A person who maintains a building.";"";building maintenance worker;lawyer;chef;building maintenance worker
+Definition|Which word matches the definition? "A person who repairs plumbing in buildings.";"";plumber;teacher;pilot;plumber
+Definition|Which word matches the definition? "A person who installs and repairs heating systems.";"";heating technician;doctor;accountant;heating technician
+Definition|Which word matches the definition? "A person who installs and repairs air conditioning.";"";HVAC technician;lawyer;mechanic;HVAC technician
+Definition|Which word matches the definition? "A person who cleans carpets professionally.";"";carpet cleaner;teacher;chef;carpet cleaner
+Definition|Which word matches the definition? "A person who provides professional cleaning services.";"";cleaner;doctor;pilot;cleaner
+Definition|Which word matches the definition? "A person who cleans offices.";"";office cleaner;lawyer;accountant;office cleaner
+Definition|Which word matches the definition? "A person who cleans hotels.";"";hotel cleaner;teacher;mechanic;hotel cleaner
+Definition|Which word matches the definition? "A person who manages cleaning staff.";"";cleaning supervisor;doctor;chef;cleaning supervisor
+Definition|Which word matches the definition? "A person who works in a laundry.";"";laundry worker;lawyer;pilot;laundry worker
+Definition|Which word matches the definition? "A person who washes and irons clothes professionally.";"";laundry worker;teacher;accountant;laundry worker
+Definition|Which word matches the definition? "A person who repairs and alters clothing.";"";tailor;doctor;mechanic;tailor
+Definition|Which word matches the definition? "A person who designs jewelry.";"";jewelry designer;lawyer;chef;jewelry designer
+Definition|Which word matches the definition? "A person who repairs jewelry.";"";jewelry repairer;teacher;pilot;jewelry repairer
+Definition|Which word matches the definition? "A person who makes watches.";"";watchmaker;doctor;accountant;watchmaker
+Definition|Which word matches the definition? "A person who repairs watches.";"";watch repairer;lawyer;mechanic;watch repairer
+Definition|Which word matches the definition? "A person who makes shoes.";"";shoemaker;teacher;chef;shoemaker
+Definition|Which word matches the definition? "A person who repairs shoes.";"";shoe repairer;doctor;pilot;shoe repairer
+Definition|Which word matches the definition? "A person who makes pottery.";"";potter;lawyer;accountant;potter
+Definition|Which word matches the definition? "A person who creates objects from clay.";"";ceramicist;teacher;mechanic;ceramicist
+Definition|Which word matches the definition? "A person who makes glass objects.";"";glassblower;doctor;chef;glassblower
+Definition|Which word matches the definition? "A person who creates wooden furniture by hand.";"";woodworker;lawyer;pilot;woodworker
+Definition|Which word matches the definition? "A person who creates decorative objects by hand.";"";craftsperson;teacher;accountant;craftsperson
+Definition|Which word matches the definition? "A person who makes handmade products.";"";artisan;doctor;mechanic;artisan
+Definition|Which word matches the definition? "A person who creates traditional handmade goods.";"";artisan;lawyer;chef;artisan
+Definition|Which word matches the definition? "A person who makes baskets by hand.";"";basket maker;teacher;pilot;basket maker
+Definition|Which word matches the definition? "A person who creates musical instruments.";"";instrument maker;doctor;accountant;instrument maker
+Definition|Which word matches the definition? "A person who repairs musical instruments.";"";instrument repairer;lawyer;mechanic;instrument repairer
+Definition|Which word matches the definition? "A person who makes or repairs pianos.";"";piano technician;teacher;chef;piano technician
+Definition|Which word matches the definition? "A person who tunes pianos.";"";piano tuner;doctor;pilot;piano tuner
+Definition|Which word matches the definition? "A person who works with flowers and plants.";"";florist;lawyer;accountant;florist
+Definition|Which word matches the definition? "A person who designs gardens and outdoor spaces.";"";landscape architect;teacher;mechanic;landscape architect
+Definition|Which word matches the definition? "A person who maintains public parks.";"";park ranger;doctor;chef;park ranger
+Definition|Which word matches the definition? "A person who protects forests and parks.";"";park ranger;lawyer;pilot;park ranger
+Definition|Which word matches the definition? "A person who protects wildlife.";"";wildlife ranger;teacher;accountant;wildlife ranger
+Definition|Which word matches the definition? "A person who works in a national park.";"";park ranger;doctor;mechanic;park ranger
+Definition|Which word matches the definition? "A person who studies and manages forests.";"";forester;lawyer;chef;forester
+Definition|Which word matches the definition? "A person who manages agricultural production.";"";farm manager;teacher;pilot;farm manager
+Definition|Which word matches the definition? "A person who operates farm machinery.";"";farm equipment operator;doctor;accountant;farm equipment operator
+Definition|Which word matches the definition? "A person who studies agricultural science.";"";agricultural scientist;lawyer;mechanic;agricultural scientist
+Definition|Which word matches the definition? "A person who advises farmers about crops and soil.";"";agricultural advisor;teacher;chef;agricultural advisor
+Definition|Which word matches the definition? "A person who studies soil.";"";soil scientist;doctor;pilot;soil scientist
+Definition|Which word matches the definition? "A person who studies plants and crop production.";"";agronomist;lawyer;accountant;agronomist
+Definition|Which word matches the definition? "A person who studies insects that affect crops.";"";agricultural entomologist;teacher;mechanic;agricultural entomologist
+Definition|Which word matches the definition? "A person who sells agricultural products.";"";agricultural salesperson;doctor;chef;agricultural salesperson
+Definition|Which word matches the definition? "A person who works with livestock.";"";livestock worker;lawyer;pilot;livestock worker
+Definition|Which word matches the definition? "A person who takes care of cows.";"";cattle farmer;teacher;accountant;cattle farmer
+Definition|Which word matches the definition? "A person who raises chickens.";"";poultry farmer;doctor;mechanic;poultry farmer
+Definition|Which word matches the definition? "A person who raises sheep.";"";shepherd;lawyer;chef;shepherd
+Definition|Which word matches the definition? "A person who takes care of bees.";"";beekeeper;teacher;pilot;beekeeper
+Definition|Which word matches the definition? "A person who produces honey.";"";beekeeper;doctor;accountant;beekeeper
+Definition|Which word matches the definition? "A person who catches fish commercially.";"";fisherman;lawyer;mechanic;fisherman
+Definition|Which word matches the definition? "A person who works on a fishing boat.";"";fisherman;teacher;chef;fisherman
+Definition|Which word matches the definition? "A person who studies fish.";"";ichthyologist;doctor;pilot;ichthyologist
+Definition|Which word matches the definition? "A person who studies marine ecosystems.";"";marine scientist;lawyer;accountant;marine scientist
+Definition|Which word matches the definition? "A person who works underwater to perform specialized tasks.";"";commercial diver;teacher;mechanic;commercial diver
+Definition|Which word matches the definition? "A person who explores underwater environments.";"";diver;doctor;chef;diver
+Definition|Which word matches the definition? "A person who studies the ocean.";"";oceanographer;lawyer;pilot;oceanographer
+Definition|Which word matches the definition? "A person who studies earthquakes.";"";seismologist;teacher;accountant;seismologist
+Definition|Which word matches the definition? "A person who studies volcanoes.";"";volcanologist;doctor;mechanic;volcanologist
+Definition|Which word matches the definition? "A person who studies the atmosphere.";"";atmospheric scientist;lawyer;chef;atmospheric scientist
+Definition|Which word matches the definition? "A person who predicts the weather.";"";meteorologist;teacher;pilot;meteorologist
+Definition|Which word matches the definition? "A person who studies climate patterns.";"";climatologist;doctor;accountant;climatologist
+Definition|Which word matches the definition? "A person who studies glaciers and ice.";"";glaciologist;lawyer;mechanic;glaciologist
+Definition|Which word matches the definition? "A person who studies earthquakes and the Earth's interior.";"";geophysicist;teacher;chef;geophysicist
+Definition|Which word matches the definition? "A person who studies the Earth's physical processes.";"";geoscientist;doctor;pilot;geoscientist
+Definition|Which word matches the definition? "A person who studies fossils.";"";paleontologist;lawyer;accountant;paleontologist
+Definition|Which word matches the definition? "A person who studies ancient human remains.";"";archaeologist;teacher;mechanic;archaeologist
+Definition|Which word matches the definition? "A person who studies ancient languages and texts.";"";classical scholar;doctor;chef;classical scholar
+Definition|Which word matches the definition? "A person who studies literature.";"";literary scholar;lawyer;pilot;literary scholar
+Definition|Which word matches the definition? "A person who studies philosophy.";"";philosopher;teacher;accountant;philosopher
+Definition|Which word matches the definition? "A person who studies religion academically.";"";religious scholar;doctor;mechanic;religious scholar
+Definition|Which word matches the definition? "A person who studies human language and communication.";"";linguist;lawyer;chef;linguist
+Definition|Which word matches the definition? "A person who studies how languages change.";"";historical linguist;teacher;pilot;historical linguist
+Definition|Which word matches the definition? "A person who studies speech sounds.";"";phonologist;doctor;accountant;phonologist
+Definition|Which word matches the definition? "A person who studies the structure of language.";"";grammarian;lawyer;mechanic;grammarian
+Definition|Which word matches the definition? "A person who studies the meaning of words and sentences.";"";semanticist;teacher;chef;semanticist
+Definition|Which word matches the definition? "A person who studies human communication in context.";"";pragmatics researcher;doctor;pilot;pragmatics researcher
+Definition|Which word matches the definition? "A person who studies how people use language.";"";linguist;lawyer;accountant;linguist
+Definition|Which word matches the definition? "A person who translates books from one language to another.";"";literary translator;teacher;mechanic;literary translator
+Definition|Which word matches the definition? "A person who translates technical documents.";"";technical translator;doctor;chef;technical translator
+Definition|Which word matches the definition? "A person who translates legal documents.";"";legal translator;lawyer;pilot;legal translator
+Definition|Which word matches the definition? "A person who translates medical documents.";"";medical translator;teacher;accountant;medical translator
+Definition|Which word matches the definition? "A person who interprets at conferences.";"";conference interpreter;doctor;mechanic;conference interpreter
+Definition|Which word matches the definition? "A person who interprets between two languages.";"";interpreter;lawyer;chef;interpreter
+Definition|Which word matches the definition? "A person who translates spoken language for patients.";"";medical interpreter;teacher;pilot;medical interpreter
+Definition|Which word matches the definition? "A person who translates spoken language in court.";"";court interpreter;doctor;accountant;court interpreter
+Definition|Which word matches the definition? "A person who works with legal documents.";"";legal assistant;lawyer;mechanic;legal assistant
+Definition|Which word matches the definition? "A person who manages legal cases for a law firm.";"";legal case manager;teacher;chef;legal case manager
+Definition|Which word matches the definition? "A person who organizes evidence for a legal case.";"";paralegal;doctor;pilot;paralegal
+Definition|Which word matches the definition? "A person who helps lawyers prepare cases.";"";paralegal;lawyer;accountant;paralegal
+Definition|Which word matches the definition? "A person who works in a courtroom and manages documents.";"";court clerk;teacher;mechanic;court clerk
+Definition|Which word matches the definition? "A person who records everything said during a trial.";"";court reporter;doctor;chef;court reporter
+Definition|Which word matches the definition? "A person who decides whether someone is guilty in a trial.";"";judge;lawyer;pilot;judge
+Definition|Which word matches the definition? "A group of citizens who decide a court case.";"";jury;teacher;accountant;jury
+Definition|Which word matches the definition? "A person who gives evidence in court.";"";witness;doctor;mechanic;witness
+Definition|Which word matches the definition? "A person who provides expert knowledge in a court case.";"";expert witness;lawyer;chef;expert witness
+Definition|Which word matches the definition? "A person accused of committing a crime.";"";defendant;teacher;pilot;defendant
+Definition|Which word matches the definition? "A person who starts a legal case.";"";plaintiff;doctor;accountant;plaintiff
+Definition|Which word matches the definition? "A person who investigates crimes for the police.";"";detective;lawyer;mechanic;detective
+Definition|Which word matches the definition? "A person who collects evidence at a crime scene.";"";crime scene investigator;teacher;chef;crime scene investigator
+Definition|Which word matches the definition? "A person who examines fingerprints.";"";fingerprint analyst;doctor;pilot;fingerprint analyst
+Definition|Which word matches the definition? "A person who examines digital evidence from computers.";"";digital forensics analyst;lawyer;accountant;digital forensics analyst
+Definition|Which word matches the definition? "A person who investigates financial fraud.";"";fraud investigator;teacher;mechanic;fraud investigator
+Definition|Which word matches the definition? "A person who investigates suspicious deaths.";"";homicide detective;doctor;chef;homicide detective
+Definition|Which word matches the definition? "A person who investigates fires and their causes.";"";fire investigator;lawyer;pilot;fire investigator
+Definition|Which word matches the definition? "A person who works in emergency services.";"";emergency responder;teacher;accountant;emergency responder
+Definition|Which word matches the definition? "A person trained to respond to medical emergencies.";"";paramedic;doctor;mechanic;paramedic
+Definition|Which word matches the definition? "A person trained to rescue people from dangerous situations.";"";rescue worker;lawyer;chef;rescue worker
+Definition|Which word matches the definition? "A person who rescues people from fires.";"";firefighter;teacher;pilot;firefighter
+Definition|Which word matches the definition? "A person who rescues people at sea.";"";lifeguard;doctor;accountant;lifeguard
+Definition|Which word matches the definition? "A person who watches swimmers and prevents accidents.";"";lifeguard;lawyer;mechanic;lifeguard
+Definition|Which word matches the definition? "A person who teaches people to drive.";"";driving instructor;teacher;chef;driving instructor
+Definition|Which word matches the definition? "A person who examines people to determine if they can drive safely.";"";driving examiner;doctor;pilot;driving examiner
+Definition|Which word matches the definition? "A person who repairs bicycles and bicycle parts.";"";bicycle mechanic;lawyer;accountant;bicycle mechanic
+Definition|Which word matches the definition? "A person who repairs cars and engines.";"";auto mechanic;teacher;mechanic;auto mechanic
+Definition|Which word matches the definition? "A person who inspects vehicles for safety.";"";vehicle inspector;doctor;chef;vehicle inspector
+Definition|Which word matches the definition? "A person who sells automotive parts.";"";auto parts salesperson;lawyer;pilot;auto parts salesperson
+Definition|Which word matches the definition? "A person who designs cars.";"";automotive designer;teacher;accountant;automotive designer
+Definition|Which word matches the definition? "A person who repairs aircraft engines.";"";aircraft mechanic;doctor;mechanic;aircraft mechanic
+Definition|Which word matches the definition? "A person who designs aircraft.";"";aerospace engineer;lawyer;chef;aerospace engineer
+Definition|Which word matches the definition? "A person who controls an airplane during a flight.";"";pilot;teacher;accountant;pilot
+Definition|Which word matches the definition? "A person who controls air traffic at an airport.";"";air traffic controller;doctor;mechanic;air traffic controller
+Definition|Which word matches the definition? "A person who assists passengers during a flight.";"";flight attendant;lawyer;chef;flight attendant
+Definition|Which word matches the definition? "A person who checks passengers into a flight.";"";check-in agent;teacher;pilot;check-in agent
+Definition|Which word matches the definition? "A person who helps passengers at an airport.";"";airport customer service agent;doctor;accountant;airport customer service agent
+Definition|Which word matches the definition? "A person who handles airport luggage.";"";baggage handler;lawyer;mechanic;baggage handler
+Definition|Which word matches the definition? "A person who checks aircraft before takeoff.";"";aircraft inspector;teacher;chef;aircraft inspector
+Definition|Which word matches the definition? "A person who manages an airport terminal.";"";airport manager;doctor;pilot;airport manager
+Definition|Which word matches the definition? "A person who organizes flights and aircraft schedules.";"";flight coordinator;lawyer;accountant;flight coordinator
+Definition|Which word matches the definition? "A person who works on aircraft maintenance.";"";aircraft technician;teacher;mechanic;aircraft technician
+Definition|Which word matches the definition? "A person who studies flight operations.";"";aviation specialist;doctor;chef;aviation specialist
+Definition|Which word matches the definition? "A person who works in the travel industry.";"";travel consultant;lawyer;pilot;travel consultant
+Definition|Which word matches the definition? "A person who organizes holidays for customers.";"";travel consultant;teacher;accountant;travel consultant
+Definition|Which word matches the definition? "A person who books flights and hotels for customers.";"";travel agent;doctor;mechanic;travel agent
+Definition|Which word matches the definition? "A person who plans tours and travel packages.";"";tour operator;lawyer;chef;tour operator
+Definition|Which word matches the definition? "A person who leads tourists on trips.";"";tour guide;teacher;pilot;tour guide
+Definition|Which word matches the definition? "A person who works at a hotel reception desk.";"";receptionist;doctor;accountant;receptionist
+Definition|Which word matches the definition? "A person who manages hotel bookings.";"";reservation agent;lawyer;mechanic;reservation agent
+Definition|Which word matches the definition? "A person who cleans hotel rooms.";"";housekeeper;teacher;chef;housekeeper
+Definition|Which word matches the definition? "A person who manages hotel operations.";"";hotel manager;doctor;pilot;hotel manager
+Definition|Which word matches the definition? "A person who serves food to hotel guests.";"";room service waiter;lawyer;accountant;room service waiter
+Definition|Which word matches the definition? "A person who carries luggage for hotel guests.";"";bellhop;teacher;mechanic;bellhop
+Definition|Which word matches the definition? "A person who prepares meals in a hotel.";"";hotel chef;doctor;chef;hotel chef
+Definition|Which word matches the definition? "A person who manages a restaurant kitchen.";"";head chef;lawyer;pilot;head chef
+Definition|Which word matches the definition? "A person who assists a chef in the kitchen.";"";kitchen assistant;teacher;accountant;kitchen assistant
+Definition|Which word matches the definition? "A person who washes dishes in a restaurant.";"";dishwasher;doctor;mechanic;dishwasher
+Definition|Which word matches the definition? "A person who prepares salads and cold dishes.";"";salad chef;lawyer;chef;salad chef
+Definition|Which word matches the definition? "A person who specializes in desserts.";"";pastry chef;teacher;pilot;pastry chef
+Definition|Which word matches the definition? "A person who prepares bread professionally.";"";baker;doctor;accountant;baker
+Definition|Which word matches the definition? "A person who prepares meat professionally.";"";butcher;lawyer;mechanic;butcher
+Definition|Which word matches the definition? "A person who serves wine professionally.";"";sommelier;teacher;chef;sommelier
+Definition|Which word matches the definition? "A person who advises customers about wine.";"";sommelier;doctor;pilot;sommelier
+Definition|Which word matches the definition? "A person who prepares coffee professionally.";"";barista;lawyer;accountant;barista
+Definition|Which word matches the definition? "A person who manages a bar.";"";bar manager;teacher;mechanic;bar manager
+Definition|Which word matches the definition? "A person who mixes alcoholic and non-alcoholic drinks.";"";bartender;doctor;chef;bartender
+Definition|Which word matches the definition? "A person who works in a café.";"";barista;lawyer;pilot;barista
+Definition|Which word matches the definition? "A person who owns a restaurant.";"";restaurant owner;teacher;accountant;restaurant owner
+Definition|Which word matches the definition? "A person who manages restaurant staff.";"";restaurant manager;doctor;mechanic;restaurant manager
+Definition|Which word matches the definition? "A person who welcomes customers at a restaurant.";"";host;lawyer;chef;host
+Definition|Which word matches the definition? "A person who shows customers to their table.";"";host;teacher;pilot;host
+Definition|Which word matches the definition? "A person who takes customers' orders in a restaurant.";"";waiter;doctor;accountant;waiter
+Definition|Which word matches the definition? "A person who prepares food in a professional kitchen.";"";cook;lawyer;mechanic;cook
+Definition|Which word matches the definition? "A person who creates new recipes.";"";recipe developer;teacher;chef;recipe developer
+Definition|Which word matches the definition? "A person who writes about food and restaurants.";"";food critic;doctor;pilot;food critic
+Definition|Which word matches the definition? "A person who reviews restaurants professionally.";"";restaurant critic;lawyer;accountant;restaurant critic
+Definition|Which word matches the definition? "A person who works as a professional food photographer.";"";food photographer;teacher;mechanic;food photographer
+Definition|Which word matches the definition? "A person who designs menus.";"";menu designer;doctor;chef;menu designer
+Definition|Which word matches the definition? "A person who manages catering services.";"";catering manager;lawyer;pilot;catering manager
+Definition|Which word matches the definition? "A person who prepares food for large events.";"";caterer;teacher;accountant;caterer
+Definition|Which word matches the definition? "A person or company that provides food for events.";"";caterer;doctor;mechanic;caterer
+Definition|Which word matches the definition? "A person who plans menus for special events.";"";catering planner;lawyer;chef;catering planner
+Definition|Which word matches the definition? "A person who organizes weddings and related services.";"";wedding planner;teacher;pilot;wedding planner
+Definition|Which word matches the definition? "A person who decorates venues for events.";"";event decorator;doctor;accountant;event decorator
+Definition|Which word matches the definition? "A person who takes professional photographs at weddings.";"";wedding photographer;lawyer;mechanic;wedding photographer
+Definition|Which word matches the definition? "A person who organizes music performances.";"";concert promoter;teacher;chef;concert promoter
+Definition|Which word matches the definition? "A person who promotes concerts and events.";"";event promoter;doctor;pilot;event promoter
+Definition|Which word matches the definition? "A person who manages performers.";"";artist manager;lawyer;accountant;artist manager
+Definition|Which word matches the definition? "A person who manages a musician's career.";"";music manager;teacher;mechanic;music manager
+Definition|Which word matches the definition? "A person who organizes sports events.";"";sports event manager;doctor;chef;sports event manager
+Definition|Which word matches the definition? "A person who manages a stadium.";"";stadium manager;lawyer;pilot;stadium manager
+Definition|Which word matches the definition? "A person who maintains sports fields.";"";groundskeeper;teacher;accountant;groundskeeper
+Definition|Which word matches the definition? "A person who maintains a golf course.";"";groundskeeper;doctor;mechanic;groundskeeper
+Definition|Which word matches the definition? "A person who teaches people to play golf.";"";golf instructor;lawyer;chef;golf instructor
+Definition|Which word matches the definition? "A person who teaches people to play tennis.";"";tennis coach;teacher;pilot;tennis coach
+Definition|Which word matches the definition? "A person who teaches people to play football.";"";football coach;doctor;accountant;football coach
+Definition|Which word matches the definition? "A person who trains professional athletes.";"";sports coach;lawyer;mechanic;sports coach
+Definition|Which word matches the definition? "A person who manages athletes' physical training.";"";strength coach;teacher;chef;strength coach
+Definition|Which word matches the definition? "A person who helps athletes recover from injuries.";"";sports physiotherapist;doctor;pilot;sports physiotherapist
+Definition|Which word matches the definition? "A person who studies athletes' nutrition.";"";sports nutritionist;lawyer;accountant;sports nutritionist
+Definition|Which word matches the definition? "A person who reports sports news.";"";sports reporter;teacher;mechanic;sports reporter
+Definition|Which word matches the definition? "A person who analyzes sports performances.";"";sports analyst;doctor;chef;sports analyst
+Definition|Which word matches the definition? "A person who comments on sports broadcasts.";"";sports commentator;lawyer;pilot;sports commentator
+Definition|Which word matches the definition? "A person who manages a sports club.";"";sports club manager;teacher;accountant;sports club manager
+Definition|Which word matches the definition? "A person who organizes training sessions for a team.";"";team coordinator;doctor;mechanic;team coordinator
+Definition|Which word matches the definition? "A person who manages player transfers.";"";sports agent;lawyer;chef;sports agent
+Definition|Which word matches the definition? "A person who represents professional athletes.";"";sports agent;teacher;pilot;sports agent
+Definition|Which word matches the definition? "A person who evaluates athletes for a team.";"";scout;doctor;accountant;scout
+Definition|Which word matches the definition? "A person who searches for talented athletes.";"";talent scout;lawyer;mechanic;talent scout
+Definition|Which word matches the definition? "A person who manages a professional sports team.";"";general manager;teacher;chef;general manager
+Definition|Which word matches the definition? "A person who trains horses for racing.";"";horse trainer;doctor;pilot;horse trainer
+Definition|Which word matches the definition? "A person who rides horses professionally in races.";"";jockey;lawyer;accountant;jockey
+Definition|Which word matches the definition? "A person who takes care of horses.";"";stable worker;teacher;mechanic;stable worker
+Definition|Which word matches the definition? "A person who trains guide dogs.";"";guide dog trainer;doctor;chef;guide dog trainer
+Definition|Which word matches the definition? "A person who trains animals for television or movies.";"";animal trainer;lawyer;pilot;animal trainer
+Definition|Which word matches the definition? "A person who studies animal behavior.";"";animal behaviorist;teacher;accountant;animal behaviorist
+Definition|Which word matches the definition? "A person who studies marine animals.";"";marine biologist;doctor;mechanic;marine biologist
+Definition|Which word matches the definition? "A person who works with wildlife.";"";wildlife specialist;lawyer;chef;wildlife specialist
+Definition|Which word matches the definition? "A person who protects endangered species.";"";conservationist;teacher;pilot;conservationist
+Definition|Which word matches the definition? "A person who works to protect natural resources.";"";conservationist;doctor;accountant;conservationist
+Definition|Which word matches the definition? "A person who studies environmental conservation.";"";conservation scientist;lawyer;mechanic;conservation scientist
+Definition|Which word matches the definition? "A person who studies pollution.";"";environmental scientist;teacher;chef;environmental scientist
+Definition|Which word matches the definition? "A person who manages waste and recycling programs.";"";waste management specialist;doctor;pilot;waste management specialist
+Definition|Which word matches the definition? "A person who works at a recycling facility.";"";recycling worker;lawyer;accountant;recycling worker
+Definition|Which word matches the definition? "A person who collects recyclable materials.";"";recycling collector;teacher;mechanic;recycling collector
+Definition|Which word matches the definition? "A person who designs sustainable buildings.";"";sustainable architect;doctor;chef;sustainable architect
+Definition|Which word matches the definition? "A person who designs environmentally friendly products.";"";sustainable designer;lawyer;pilot;sustainable designer
+Definition|Which word matches the definition? "A person who works with renewable energy systems.";"";renewable energy engineer;teacher;accountant;renewable energy engineer
+Definition|Which word matches the definition? "A person who installs wind turbines.";"";wind turbine technician;doctor;mechanic;wind turbine technician
+Definition|Which word matches the definition? "A person who installs solar energy systems.";"";solar installer;lawyer;chef;solar installer
+Definition|Which word matches the definition? "A person who maintains solar panels.";"";solar technician;teacher;pilot;solar technician
+Definition|Which word matches the definition? "A person who studies energy efficiency.";"";energy analyst;doctor;accountant;energy analyst
+Definition|Which word matches the definition? "A person who advises companies on environmental practices.";"";environmental consultant;lawyer;mechanic;environmental consultant
+Definition|Which word matches the definition? "A person who checks environmental regulations.";"";environmental compliance officer;teacher;chef;environmental compliance officer
+Definition|Which word matches the definition? "A person who studies environmental impact.";"";environmental analyst;doctor;pilot;environmental analyst
+Definition|Which word matches the definition? "A person who works with maps and geographic data.";"";cartographer;lawyer;accountant;cartographer
+Definition|Which word matches the definition? "A person who creates maps.";"";cartographer;teacher;mechanic;cartographer
+Definition|Which word matches the definition? "A person who studies populations and geography.";"";geographer;doctor;chef;geographer
+Definition|Which word matches the definition? "A person who plans transportation systems.";"";transportation planner;lawyer;pilot;transportation planner
+Definition|Which word matches the definition? "A person who designs public spaces.";"";urban designer;teacher;accountant;urban designer
+Definition|Which word matches the definition? "A person who designs parks and outdoor spaces.";"";landscape architect;doctor;mechanic;landscape architect
+Definition|Which word matches the definition? "A person who manages public parks.";"";park manager;lawyer;chef;park manager
+Definition|Which word matches the definition? "A person who works to protect historical buildings.";"";heritage conservationist;teacher;pilot;heritage conservationist
+Definition|Which word matches the definition? "A person who restores historical buildings.";"";historic preservationist;doctor;accountant;historic preservationist
+Definition|Which word matches the definition? "A person who studies historic buildings.";"";architectural historian;lawyer;mechanic;architectural historian
+Definition|Which word matches the definition? "A person who works in cultural heritage.";"";heritage specialist;teacher;chef;heritage specialist
+Definition|Which word matches the definition? "A person who manages cultural institutions.";"";cultural manager;doctor;pilot;cultural manager
+Definition|Which word matches the definition? "A person who manages a museum collection.";"";curator;lawyer;accountant;curator
+Definition|Which word matches the definition? "A person who studies works of art.";"";art historian;teacher;mechanic;art historian
+Definition|Which word matches the definition? "A person who studies literature and literary works.";"";literary critic;doctor;chef;literary critic
+Definition|Which word matches the definition? "A person who evaluates books professionally.";"";book critic;lawyer;pilot;book critic
+Definition|Which word matches the definition? "A person who reviews films professionally.";"";film critic;teacher;accountant;film critic
+Definition|Which word matches the definition? "A person who reviews music professionally.";"";music critic;doctor;mechanic;music critic
+Definition|Which word matches the definition? "A person who reviews restaurants professionally.";"";food critic;lawyer;chef;food critic
+Definition|

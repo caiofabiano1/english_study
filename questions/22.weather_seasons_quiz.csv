@@ -1,0 +1,106 @@
+question;hint;option1;option2;option3;answer
+What do we call the condition of the atmosphere at a particular time and place?;"";weather;climate;season;weather
+What do we call the usual weather conditions of a place over a long period?;"";climate;forecast;temperature;climate
+What do we call a prediction about future weather?;"";forecast;climate;season;forecast
+What do we call the amount of heat in the air?;"";temperature;humidity;pressure;temperature
+What do we use to measure temperature?;"";thermometer;barometer;compass;thermometer
+What do we call weather with a lot of sunshine?;"";sunny;cloudy;windy;sunny
+What do we call weather with many clouds?;"";cloudy;sunny;dry;cloudy
+What do we call weather with strong moving air?;"";windy;foggy;humid;windy
+What do we call weather with rain?;"";rainy;snowy;sunny;rainy
+What do we call weather with snow?;"";snowy;rainy;cloudy;snowy
+What do we call weather with a lot of fog?;"";foggy;windy;sunny;foggy
+What do we call weather with very little moisture?;"";dry;humid;rainy;dry
+What do we call air containing a lot of moisture?;"";humid;dry;freezing;humid
+What do we call water falling from clouds?;"";rain;snow;wind;rain
+What do we call frozen water that falls from clouds in small white flakes?;"";snow;rain;fog;snow
+What do we call small balls of ice that fall during some storms?;"";hail;mist;dew;hail
+What do we call very small drops of water in the air near the ground?;"";mist;hail;frost;mist
+What do we call thick mist that makes it difficult to see?;"";fog;hail;rain;fog
+What do we call water drops that form on cool surfaces overnight?;"";dew;frost;hail;dew
+What do we call a thin layer of ice that forms on cold surfaces?;"";frost;dew;mist;frost
+What do we call moving air?;"";wind;cloud;rain;wind
+What do we call a very strong wind?;"";gale;breeze;mist;gale
+What do we call a light and gentle wind?;"";breeze;gale;storm;breeze
+What do we call a violent weather event with strong winds and heavy rain?;"";storm;breeze;drizzle;storm
+What do we call a storm with thunder and lightning?;"";thunderstorm;snowstorm;heatwave;thunderstorm
+What do we call the loud sound produced during a storm?;"";thunder;lightning;hail;thunder
+What do we call the bright flash seen during a storm?;"";lightning;thunder;sunshine;lightning
+What do we call a storm with very strong rotating winds?;"";tornado;drizzle;fog;tornado
+What do we call a powerful tropical storm with strong winds?;"";hurricane;tornado;blizzard;hurricane
+What do we call a severe snowstorm with strong winds?;"";blizzard;hurricane;thunderstorm;blizzard
+What do we call a long period of unusually hot weather?;"";heatwave;cold spell;blizzard;heatwave
+What do we call a long period of unusually cold weather?;"";cold spell;heatwave;drought;cold spell
+What do we call a long period with very little or no rain?;"";drought;flood;storm;drought
+What do we call a large amount of water covering normally dry land?;"";flood;drought;frost;flood
+What do we call rain that falls very lightly?;"";drizzle;hail;thunder;drizzle
+What do we call very heavy rain?;"";downpour;drizzle;mist;downpour
+What do we call a period of rain that lasts for a short time?;"";shower;drought;heatwave;shower
+What do we call the amount of water vapor in the air?;"";humidity;temperature;pressure;humidity
+What instrument measures air pressure?;"";barometer;thermometer;rain gauge;barometer
+What instrument measures the amount of rainfall?;"";rain gauge;barometer;thermometer;rain gauge
+What do we call the amount of rain that falls in a particular area?;"";rainfall;humidity;sunshine;rainfall
+What do we call the amount of snow that falls?;"";snowfall;rainfall;sunshine;snowfall
+What do we call the bright light that comes from the sun?;"";sunshine;moonlight;lightning;sunshine
+What do we call a day with no clouds and lots of sunshine?;"";clear day;stormy day;foggy day;clear day
+What do we call a sky covered almost completely by clouds?;"";overcast;clear;sunny;overcast
+What do we call a cloud in the sky?;"";cloud;fog;mist;cloud
+What do we call a large mass of dark clouds that may bring rain?;"";storm cloud;rainbow;sunshine;storm cloud
+What do we call the colorful arc that sometimes appears after rain?;"";rainbow;sunset;lightning;rainbow
+What do we call the time when the sun appears to go down?;"";sunset;sunrise;midday;sunset
+What do we call the time when the sun first appears in the morning?;"";sunrise;sunset;midnight;sunrise
+What do we call the middle of the day?;"";midday;midnight;sunset;midday
+What do we call the middle of the night?;"";midnight;midday;sunrise;midnight
+What do we call the four main periods of the year?;"";seasons;months;weeks;seasons
+Which season comes after winter?;"";spring;summer;autumn;spring
+Which season is usually the hottest?;"";summer;winter;spring;summer
+Which season comes after summer?;"";autumn;spring;winter;autumn
+Which season is usually the coldest?;"";winter;summer;autumn;winter
+What is another common name for autumn?;"";fall;spring;summer;fall
+What season is associated with flowers beginning to grow?;"";spring;winter;autumn;spring
+What season is associated with long hot days?;"";summer;winter;spring;summer
+What season is associated with leaves changing color?;"";autumn;spring;summer;autumn
+What season is associated with snow and freezing temperatures?;"";winter;summer;autumn;winter
+What do trees often lose during autumn?;"";leaves;flowers;roots;leaves
+What do many plants begin to produce in spring?;"";flowers;snow;frost;flowers
+What do we call the period when temperatures become warmer after winter?;"";spring;autumn;winter;spring
+What do we call the period when temperatures become colder before winter?;"";autumn;summer;spring;autumn
+What do we call a sudden fall in temperature?;"";cold snap;heatwave;drought;cold snap
+What do we call a sudden period of very hot weather?;"";heatwave;cold snap;blizzard;heatwave
+What do we call weather that is neither very hot nor very cold?;"";mild;freezing;boiling;mild
+What do we call temperatures below the freezing point?;"";freezing;humid;mild;freezing
+What do we call temperatures that are extremely high?;"";scorching;freezing;cool;scorching
+What do we call weather that is pleasantly cool?;"";cool;scorching;boiling;cool
+What do we call weather that is comfortably warm?;"";warm;freezing;icy;warm
+What do we call something covered with ice?;"";icy;humid;dry;icy
+What do we call water when it becomes solid because of cold?;"";ice;steam;mist;ice
+What temperature is the freezing point of water in Celsius?;"";0°C;50°C;100°C;0°C
+What temperature is the boiling point of water in Celsius?;"";100°C;0°C;50°C;100°C
+What do we call the process when ice becomes water?;"";melting;freezing;evaporating;melting
+What do we call the process when water becomes ice?;"";freezing;melting;boiling;freezing
+What do we call the process when water changes into vapor?;"";evaporation;freezing;condensation;evaporation
+What do we call the process when water vapor becomes liquid?;"";condensation;evaporation;melting;condensation
+What do we call water in the form of a gas?;"";water vapor;ice;dew;water vapor
+What do we call water vapor turning into clouds?;"";condensation;evaporation;freezing;condensation
+What do we call the movement of air from one place to another?;"";airflow;rainfall;snowfall;airflow
+What do we call a weather forecast for the next few hours?;"";short-term forecast;climate report;seasonal climate;short-term forecast
+What do we call a prediction about weather over several months?;"";seasonal forecast;hourly forecast;daily temperature;seasonal forecast
+What do we call the average weather conditions in a region?;"";climate;forecast;storm;climate
+What do we call weather that changes frequently?;"";changeable;stable;freezing;changeable
+What do we call weather that remains similar for a long time?;"";stable;changeable;stormy;stable
+What do we call weather conditions that are unpleasant or dangerous?;"";severe weather;mild weather;clear weather;severe weather
+What do we call a warning about dangerous weather?;"";weather alert;weather map;temperature;weather alert
+What do we call a map showing weather conditions across an area?;"";weather map;road map;world map;weather map
+What do we call a period of unusually warm weather in winter?;"";warm spell;cold snap;blizzard;warm spell
+What do we call a period of unusually cold weather in spring?;"";cold spell;heatwave;warm spell;cold spell
+What do we call the temperature felt by the body because of wind?;"";wind chill;humidity;air pressure;wind chill
+What do we call the temperature that the body feels during very hot and humid conditions?;"";heat index;wind chill;freezing point;heat index
+What do we call protection from the sun's heat and light?;"";shade;sunshine;humidity;shade
+What do we call the period of daylight when the sun is strongest?;"";sunny period;midnight;nightfall;sunny period
+What do we call the time when daylight disappears?;"";nightfall;sunrise;midday;nightfall
+What do we call the light seen in the sky before sunrise?;"";dawn;dusk;midnight;dawn
+What do we call the light in the sky after sunset?;"";dusk;dawn;midday;dusk
+What do we call a very dry and hot region with little rainfall?;"";desert;rainforest;wetland;desert
+What do we call a region with a lot of rain throughout the year?;"";rainforest;desert;tundra;rainforest
+What do we call a very cold region where few plants grow?;"";tundra;rainforest;desert;tundra
+What do we call the line around Earth where day and night are roughly equal throughout the year?;"";equator;tropics;pole;equator

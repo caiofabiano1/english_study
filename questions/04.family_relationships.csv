@@ -1,0 +1,470 @@
+question;hint;option1;option2;option3;answer
+Definition|Which word matches the definition? "A person's male parent.";"";father;uncle;cousin;father
+Definition|Which word matches the definition? "A person's female parent.";"";mother;aunt;niece;mother
+Definition|Which word matches the definition? "A person's male child.";"";son;brother;nephew;son
+Definition|Which word matches the definition? "A person's female child.";"";daughter;sister;cousin;daughter
+Definition|Which word matches the definition? "A male sibling.";"";brother;father;uncle;brother
+Definition|Which word matches the definition? "A female sibling.";"";sister;mother;aunt;sister
+Definition|Which word matches the definition? "A parent's male child.";"";son;nephew;grandson;son
+Definition|Which word matches the definition? "A parent's female child.";"";daughter;niece;granddaughter;daughter
+Definition|Which word matches the definition? "The father of your father or mother.";"";grandfather;uncle;father-in-law;grandfather
+Definition|Which word matches the definition? "The mother of your father or mother.";"";grandmother;aunt;mother-in-law;grandmother
+Definition|Which word matches the definition? "The male child of your son or daughter.";"";grandson;nephew;cousin;grandson
+Definition|Which word matches the definition? "The female child of your son or daughter.";"";granddaughter;niece;cousin;granddaughter
+Definition|Which word matches the definition? "The brother of your father or mother.";"";uncle;nephew;cousin;uncle
+Definition|Which word matches the definition? "The sister of your father or mother.";"";aunt;niece;cousin;aunt
+Definition|Which word matches the definition? "The child of your uncle or aunt.";"";cousin;nephew;grandchild;cousin
+Definition|Which word matches the definition? "The son of your brother or sister.";"";nephew;cousin;uncle;nephew
+Definition|Which word matches the definition? "The daughter of your brother or sister.";"";niece;cousin;aunt;niece
+Definition|Which word matches the definition? "A child of your grandparent.";"";parent;uncle;grandchild;parent
+Definition|Which word matches the definition? "A child of your great-grandparent.";"";grandparent;uncle;cousin;grandparent
+Definition|Which word matches the definition? "The father of your spouse.";"";father-in-law;stepfather;uncle;father-in-law
+Definition|Which word matches the definition? "The mother of your spouse.";"";mother-in-law;stepmother;aunt;mother-in-law
+Definition|Which word matches the definition? "The brother of your spouse.";"";brother-in-law;uncle;cousin;brother-in-law
+Definition|Which word matches the definition? "The sister of your spouse.";"";sister-in-law;aunt;niece;sister-in-law
+Definition|Which word matches the definition? "The son of your spouse.";"";stepson;nephew;son-in-law;stepson
+Definition|Which word matches the definition? "The daughter of your spouse.";"";stepdaughter;niece;daughter-in-law;stepdaughter
+Definition|Which word matches the definition? "The husband of your daughter.";"";son-in-law;brother-in-law;nephew;son-in-law
+Definition|Which word matches the definition? "The wife of your son.";"";daughter-in-law;sister-in-law;niece;daughter-in-law
+Definition|Which word matches the definition? "A man married to your mother but not your biological father.";"";stepfather;father-in-law;uncle;stepfather
+Definition|Which word matches the definition? "A woman married to your father but not your biological mother.";"";stepmother;mother-in-law;aunt;stepmother
+Definition|Which word matches the definition? "A child who has one biological parent in common with you.";"";half-sibling;cousin;stepchild;half-sibling
+Definition|Which word matches the definition? "A child who is legally or informally raised by parents who are not their biological parents.";"";adopted child;grandchild;nephew;adopted child
+Definition|Which word matches the definition? "A child legally taken into a family and raised as their own.";"";adoptee;stepchild;cousin;adoptee
+Definition|Which word matches the definition? "A person who legally takes a child into their family.";"";adoptive parent;grandparent;guardian;adoptive parent
+Definition|Which word matches the definition? "A person legally responsible for caring for a child.";"";guardian;neighbor;relative;guardian
+Definition|Which word matches the definition? "A person related to you by blood or marriage.";"";relative;stranger;colleague;relative
+Definition|Which word matches the definition? "A person connected to you through family.";"";family member;neighbor;classmate;family member
+Definition|Which word matches the definition? "A person you are related to by blood.";"";blood relative;partner;roommate;blood relative
+Definition|Which word matches the definition? "A person related to you through marriage.";"";relative by marriage;classmate;neighbor;relative by marriage
+Definition|Which word matches the definition? "A group of people related to one another.";"";family;community;team;family
+Definition|Which word matches the definition? "A family consisting of parents and their children.";"";nuclear family;extended family;household;nuclear family
+Definition|Which word matches the definition? "A family including grandparents, uncles, aunts, and cousins.";"";extended family;nuclear family;couple;extended family
+Definition|Which word matches the definition? "A family with one parent raising one or more children.";"";single-parent family;nuclear family;extended family;single-parent family
+Definition|Which word matches the definition? "A family created when partners bring children from previous relationships.";"";blended family;nuclear family;foster family;blended family
+Definition|Which word matches the definition? "A family in which a child is temporarily cared for by another family.";"";foster family;blended family;nuclear family;foster family
+Definition|Which word matches the definition? "The people who live together in one home.";"";household;community;neighborhood;household
+Definition|Which word matches the definition? "A married couple and their children.";"";immediate family;extended family;relatives;immediate family
+Definition|Which word matches the definition? "Parents, children, and siblings.";"";immediate family;distant relatives;neighbors;immediate family
+Definition|Which word matches the definition? "Family members who are not part of your immediate family.";"";extended relatives;classmates;colleagues;extended relatives
+Definition|Which word matches the definition? "A person who is married to another person.";"";spouse;partner;roommate;spouse
+Definition|Which word matches the definition? "A married man.";"";husband;boyfriend;fiancé;husband
+Definition|Which word matches the definition? "A married woman.";"";wife;girlfriend;fiancée;wife
+Definition|Which word matches the definition? "A person you are romantically involved with.";"";partner;relative;neighbor;partner
+Definition|Which word matches the definition? "A man who is in a romantic relationship with someone.";"";boyfriend;husband;brother;boyfriend
+Definition|Which word matches the definition? "A woman who is in a romantic relationship with someone.";"";girlfriend;wife;sister;girlfriend
+Definition|Which word matches the definition? "A man engaged to be married.";"";fiancé;husband;boyfriend;fiancé
+Definition|Which word matches the definition? "A woman engaged to be married.";"";fiancée;wife;girlfriend;fiancée
+Definition|Which word matches the definition? "A person you plan to marry.";"";fiancé or fiancée;neighbor;cousin;fiancé or fiancée
+Definition|Which word matches the definition? "A person who is not married.";"";single person;spouse;widow;single person
+Definition|Which word matches the definition? "A person whose husband or wife has died.";"";widow or widower;fiancé;single person;widow or widower
+Definition|Which word matches the definition? "A woman whose husband has died.";"";widow;divorcee;fiancée;widow
+Definition|Which word matches the definition? "A man whose wife has died.";"";widower;divorcee;fiancé;widower
+Definition|Which word matches the definition? "A person whose marriage has legally ended.";"";divorcee;widow;spouse;divorcee
+Definition|Which word matches the definition? "A person who is legally married to someone.";"";spouse;partner;relative;spouse
+Definition|Which word matches the definition? "A person who is romantically involved with someone.";"";lover;neighbor;colleague;lover
+Definition|Which word matches the definition? "A person with whom you share a romantic relationship.";"";significant other;relative;roommate;significant other
+Definition|Which word matches the definition? "A person who shares your home but is not necessarily a family member.";"";roommate;spouse;relative;roommate
+Definition|Which word matches the definition? "A close friend who is treated like family.";"";family friend;neighbor;colleague;family friend
+Definition|Which word matches the definition? "A person living near your home.";"";neighbor;relative;partner;neighbor
+Definition|Which word matches the definition? "A person you work with.";"";colleague;relative;partner;colleague
+Definition|Which word matches the definition? "A person you study with.";"";classmate;neighbor;spouse;classmate
+Definition|Which word matches the definition? "A person you have known and like.";"";friend;relative;employer;friend
+Definition|Which word matches the definition? "A very close and trusted friend.";"";best friend;classmate;neighbor;best friend
+Definition|Which word matches the definition? "A person you know but are not especially close to.";"";acquaintance;best friend;relative;acquaintance
+Definition|Which word matches the definition? "A person who shares your interests and values.";"";like-minded person;stranger;neighbor;like-minded person
+Definition|Which word matches the definition? "A person you trust and depend on.";"";confidant;customer;colleague;confidant
+Definition|Which word matches the definition? "A person you can talk to about personal problems.";"";confidant;neighbor;employer;confidant
+Definition|Which word matches the definition? "A person who supports you emotionally.";"";supporter;stranger;customer;supporter
+Definition|Which word matches the definition? "A person who helps another person achieve a goal.";"";ally;neighbor;relative;ally
+Definition|Which word matches the definition? "A person who shares a common interest or activity with you.";"";companion;employer;landlord;companion
+Definition|Which word matches the definition? "A person who travels with you.";"";travel companion;relative;colleague;travel companion
+Definition|Which word matches the definition? "A person who spends time with you.";"";companion;stranger;customer;companion
+Definition|Which word matches the definition? "A person who is emotionally close to you.";"";close friend;neighbor;classmate;close friend
+Definition|Which word matches the definition? "A person who you can rely on.";"";dependable friend;stranger;colleague;dependable friend
+Definition|Which word matches the definition? "A person who gives you advice and guidance.";"";mentor;neighbor;roommate;mentor
+Definition|Which word matches the definition? "A person who receives guidance from a mentor.";"";mentee;guardian;relative;mentee
+Definition|Which word matches the definition? "A person who helps and protects another person.";"";caretaker;classmate;neighbor;caretaker
+Definition|Which word matches the definition? "A person responsible for caring for an elderly or sick relative.";"";caregiver;colleague;partner;caregiver
+Definition|Which word matches the definition? "A person who provides emotional or practical help.";"";supporter;stranger;customer;supporter
+Definition|Which word matches the definition? "A person who shares responsibility with another person.";"";co-parent;neighbor;cousin;co-parent
+Definition|Which word matches the definition? "A parent who raises a child together with another parent.";"";co-parent;guardian;uncle;co-parent
+Definition|Which word matches the definition? "A person who takes care of children.";"";caregiver;neighbor;colleague;caregiver
+Definition|Which word matches the definition? "A person who looks after a child temporarily.";"";babysitter;grandparent;uncle;babysitter
+Definition|Which word matches the definition? "A person employed to care for children.";"";nanny;neighbor;teacher;nanny
+Definition|Which word matches the definition? "A person who cares for a child while parents are away.";"";babysitter;roommate;classmate;babysitter
+Definition|Which word matches the definition? "A person who provides a home for a child in need.";"";foster parent;neighbor;relative;foster parent
+Definition|Which word matches the definition? "A child cared for temporarily by another family.";"";foster child;grandchild;nephew;foster child
+Definition|Which word matches the definition? "A person who legally takes responsibility for a child.";"";legal guardian;neighbor;friend;legal guardian
+Definition|Which word matches the definition? "A person who gives birth to a child.";"";biological parent;step-parent;guardian;biological parent
+Definition|Which word matches the definition? "A parent related to a child by birth.";"";biological parent;foster parent;adoptive parent;biological parent
+Definition|Which word matches the definition? "A parent who legally adopts a child.";"";adoptive parent;biological parent;neighbor;adoptive parent
+Definition|Which word matches the definition? "A child legally raised by adoptive parents.";"";adopted child;foster child;grandchild;adopted child
+Definition|Which word matches the definition? "A person who joins a family through marriage.";"";in-law;relative;neighbor;in-law
+Definition|Which word matches the definition? "The relationship between a person and their spouse's family.";"";in-law relationship;friendship;partnership;in-law relationship
+Definition|Which word matches the definition? "A person who is married to your sibling.";"";sibling-in-law;uncle;cousin;sibling-in-law
+Definition|Which word matches the definition? "A brother or sister of your spouse.";"";sibling-in-law;cousin;uncle;sibling-in-law
+Definition|Which word matches the definition? "The child of your sibling.";"";niece or nephew;cousin;grandchild;niece or nephew
+Definition|Which word matches the definition? "The child of your cousin.";"";cousin's child;nephew;grandchild;cousin's child
+Definition|Which word matches the definition? "The parent of your cousin.";"";uncle or aunt;brother or sister;grandparent;uncle or aunt
+Definition|Which word matches the definition? "A person's ancestors from earlier generations.";"";ancestors;descendants;siblings;ancestors
+Definition|Which word matches the definition? "People who come from you or your family line.";"";descendants;ancestors;relatives;descendants
+Definition|Which word matches the definition? "A person from whom you are descended.";"";ancestor;descendant;cousin;ancestor
+Definition|Which word matches the definition? "A person who is descended from you.";"";descendant;ancestor;sibling;descendant
+Definition|Which word matches the definition? "A person from the same family line.";"";relative;stranger;neighbor;relative
+Definition|Which word matches the definition? "A family member from a previous generation.";"";ancestor;descendant;partner;ancestor
+Definition|Which word matches the definition? "A family member from a later generation.";"";descendant;ancestor;sibling;descendant
+Definition|Which word matches the definition? "A family relationship between two people.";"";kinship;friendship;partnership;kinship
+Definition|Which word matches the definition? "The state of being related to someone.";"";relationship;kinship;friendship;kinship
+Definition|Which word matches the definition? "The connection between parents and their children.";"";parent-child relationship;friendship;partnership;parent-child relationship
+Definition|Which word matches the definition? "The relationship between brothers and sisters.";"";sibling relationship;romance;friendship;sibling relationship
+Definition|Which word matches the definition? "The relationship between two people who are married.";"";marriage;friendship;kinship;marriage
+Definition|Which word matches the definition? "A legally recognized relationship between two married people.";"";marriage;partnership;friendship;marriage
+Definition|Which word matches the definition? "A romantic relationship between two people.";"";romance;kinship;friendship;romance
+Definition|Which word matches the definition? "A strong relationship based on trust and affection.";"";friendship;marriage;kinship;friendship
+Definition|Which word matches the definition? "A relationship in which two people share responsibilities.";"";partnership;acquaintance;kinship;partnership
+Definition|Which word matches the definition? "A close relationship between people.";"";bond;contract;distance;bond
+Definition|Which word matches the definition? "A strong emotional connection between people.";"";bond;argument;separation;bond
+Definition|Which word matches the definition? "A relationship based on mutual trust.";"";trust;conflict;jealousy;trust
+Definition|Which word matches the definition? "The feeling of believing someone is honest and reliable.";"";trust;suspicion;anger;trust
+Definition|Which word matches the definition? "A strong feeling of affection toward someone.";"";love;fear;resentment;love
+Definition|Which word matches the definition? "A feeling of liking and caring deeply for someone.";"";affection;anger;jealousy;affection
+Definition|Which word matches the definition? "A strong feeling of care and concern for another person.";"";compassion;resentment;competition;compassion
+Definition|Which word matches the definition? "The ability to understand another person's feelings.";"";empathy;jealousy;conflict;empathy
+Definition|Which word matches the definition? "A feeling of respect and approval for someone.";"";admiration;anger;resentment;admiration
+Definition|Which word matches the definition? "A feeling of strong dislike toward someone.";"";resentment;affection;trust;resentment
+Definition|Which word matches the definition? "A feeling of wanting what another person has.";"";jealousy;compassion;admiration;jealousy
+Definition|Which word matches the definition? "A feeling of being protective of a relationship.";"";jealousy;gratitude;affection;jealousy
+Definition|Which word matches the definition? "A feeling of thankfulness toward someone.";"";gratitude;resentment;conflict;gratitude
+Definition|Which word matches the definition? "A feeling of deep respect for someone.";"";respect;jealousy;anger;respect
+Definition|Which word matches the definition? "A strong feeling of loyalty to someone.";"";devotion;resentment;distance;devotion
+Definition|Which word matches the definition? "Faithfulness to a person or relationship.";"";loyalty;conflict;jealousy;loyalty
+Definition|Which word matches the definition? "A promise to remain loyal or dedicated.";"";commitment;argument;separation;commitment
+Definition|Which word matches the definition? "The act of giving someone emotional or practical help.";"";support;conflict;distance;support
+Definition|Which word matches the definition? "The ability to depend on someone.";"";reliability;jealousy;resentment;reliability
+Definition|Which word matches the definition? "The quality of being honest and having strong moral principles.";"";integrity;anger;competition;integrity
+Definition|Which word matches the definition? "The quality of being honest and open with someone.";"";transparency;jealousy;conflict;transparency
+Definition|Which word matches the definition? "The ability to keep information private.";"";confidentiality;competition;distance;confidentiality
+Definition|Which word matches the definition? "A feeling of being safe with another person.";"";security;jealousy;resentment;security
+Definition|Which word matches the definition? "A feeling of emotional closeness.";"";intimacy;conflict;competition;intimacy
+Definition|Which word matches the definition? "A close personal connection between people.";"";intimacy;distance;argument;intimacy
+Definition|Which word matches the definition? "A strong connection between family members.";"";family bond;conflict;competition;family bond
+Definition|Which word matches the definition? "A strong connection between a parent and child.";"";parental bond;friendship;distance;parental bond
+Definition|Which word matches the definition? "A strong connection between siblings.";"";sibling bond;romance;conflict;sibling bond
+Definition|Which word matches the definition? "A strong connection between partners.";"";romantic bond;kinship;competition;romantic bond
+Definition|Which word matches the definition? "The process of becoming emotionally close to someone.";"";bonding;separation;conflict;bonding
+Definition|Which word matches the definition? "A relationship in which both people help each other.";"";mutual support;competition;distance;mutual support
+Definition|Which word matches the definition? "The act of caring about another person's needs.";"";consideration;jealousy;resentment;consideration
+Definition|Which word matches the definition? "The act of helping someone emotionally.";"";emotional support;competition;conflict;emotional support
+Definition|Which word matches the definition? "The act of listening and understanding someone's problems.";"";active listening;argument;separation;active listening
+Definition|Which word matches the definition? "The ability to communicate honestly with someone.";"";open communication;jealousy;conflict;open communication
+Definition|Which word matches the definition? "A discussion between people to solve a disagreement.";"";conversation;competition;distance;conversation
+Definition|Which word matches the definition? "A serious disagreement between people.";"";conflict;friendship;support;conflict
+Definition|Which word matches the definition? "A disagreement or heated discussion.";"";argument;affection;trust;argument
+Definition|Which word matches the definition? "A situation in which two people disagree.";"";dispute;bond;commitment;dispute
+Definition|Which word matches the definition? "The act of finding a solution to a disagreement.";"";resolution;conflict;jealousy;resolution
+Definition|Which word matches the definition? "An agreement reached after discussion.";"";compromise;argument;resentment;compromise
+Definition|Which word matches the definition? "An agreement in which both sides give up something.";"";compromise;conflict;competition;compromise
+Definition|Which word matches the definition? "The act of forgiving someone.";"";forgiveness;resentment;jealousy;forgiveness
+Definition|Which word matches the definition? "The ability to stop being angry about something.";"";forgiveness;conflict;competition;forgiveness
+Definition|Which word matches the definition? "A feeling of anger that continues after someone has hurt you.";"";resentment;affection;trust;resentment
+Definition|Which word matches the definition? "A situation where people live apart.";"";separation;marriage;bond;separation
+Definition|Which word matches the definition? "The legal ending of a marriage.";"";divorce;engagement;friendship;divorce
+Definition|Which word matches the definition? "The period before a marriage when two people are engaged.";"";engagement;divorce;separation;engagement
+Definition|Which word matches the definition? "The act of promising to marry someone.";"";engagement;friendship;kinship;engagement
+Definition|Which word matches the definition? "A ceremony in which two people get married.";"";wedding;divorce;engagement;wedding
+Definition|Which word matches the definition? "A formal celebration of a marriage.";"";wedding;argument;separation;wedding
+Definition|Which word matches the definition? "A celebration after a wedding ceremony.";"";reception;divorce;engagement;reception
+Definition|Which word matches the definition? "A person invited to a wedding or family event.";"";guest;relative;spouse;guest
+Definition|Which word matches the definition? "A person who attends an event.";"";guest;host;guardian;guest
+Definition|Which word matches the definition? "A person who invites people to their home or event.";"";host;guest;neighbor;host
+Definition|Which word matches the definition? "A formal introduction of two people who may become romantically involved.";"";blind date;wedding;family reunion;blind date
+Definition|Which word matches the definition? "A romantic meeting between two people.";"";date;argument;reunion;date
+Definition|Which word matches the definition? "A person you are meeting romantically.";"";date;relative;neighbor;date
+Definition|Which word matches the definition? "A romantic relationship between two people who are dating.";"";dating relationship;kinship;friendship;dating relationship
+Definition|Which word matches the definition? "The period when two people are seeing each other romantically.";"";dating;marriage;separation;dating
+Definition|Which word matches the definition? "A person who is dating someone.";"";date;spouse;relative;date
+Definition|Which word matches the definition? "A person who is romantically attracted to another person.";"";admirer;neighbor;colleague;admirer
+Definition|Which word matches the definition? "A person who secretly likes another person romantically.";"";secret admirer;relative;roommate;secret admirer
+Definition|Which word matches the definition? "A person who has feelings for someone.";"";admirer;stranger;colleague;admirer
+Definition|Which word matches the definition? "A romantic relationship that has ended.";"";breakup;marriage;engagement;breakup
+Definition|Which word matches the definition? "The end of a romantic relationship.";"";breakup;wedding;reunion;breakup
+Definition|Which word matches the definition? "A person who has recently ended a relationship.";"";ex-partner;spouse;fiancé;ex-partner
+Definition|Which word matches the definition? "A former husband or wife.";"";ex-spouse;partner;relative;ex-spouse
+Definition|Which word matches the definition? "A former boyfriend or girlfriend.";"";ex-partner;spouse;neighbor;ex-partner
+Definition|Which word matches the definition? "A person who was previously married to someone.";"";ex-spouse;fiancé;relative;ex-spouse
+Definition|Which word matches the definition? "A person who was previously in a romantic relationship with someone.";"";ex-partner;guardian;neighbor;ex-partner
+Definition|Which word matches the definition? "A relationship that continues for a long time.";"";long-term relationship;short-term friendship;casual meeting;long-term relationship
+Definition|Which word matches the definition? "A relationship that is not very serious.";"";casual relationship;marriage;family bond;casual relationship
+Definition|Which word matches the definition? "A relationship between two people who live together romantically without being married.";"";cohabitation;divorce;kinship;cohabitation
+Definition|Which word matches the definition? "Living together with a romantic partner.";"";cohabiting;divorced;widowed;cohabiting
+Definition|Which word matches the definition? "A couple who lives together.";"";cohabiting couple;extended family;neighbors;cohabiting couple
+Definition|Which word matches the definition? "A person who shares a home with their romantic partner.";"";cohabiting partner;relative;colleague;cohabiting partner
+Definition|Which word matches the definition? "A relationship involving three or more people romantically.";"";polyamorous relationship;friendship;kinship;polyamorous relationship
+Definition|Which word matches the definition? "A relationship involving only two romantic partners.";"";monogamous relationship;extended family;friendship;monogamous relationship
+Definition|Which word matches the definition? "A person who has only one romantic partner at a time.";"";monogamous person;relative;neighbor;monogamous person
+Definition|Which word matches the definition? "A person who has more than one spouse.";"";polygamous person;single person;widow;polygamous person
+Definition|Which word matches the definition? "A legal relationship between a married couple.";"";marital relationship;friendship;kinship;marital relationship
+Definition|Which word matches the definition? "A relationship between parents and their children.";"";family relationship;romance;partnership;family relationship
+Definition|Which word matches the definition? "The responsibilities parents have toward their children.";"";parental responsibilities;friendship duties;work obligations;parental responsibilities
+Definition|Which word matches the definition? "The responsibility of raising and caring for a child.";"";parenting;dating;divorce;parenting
+Definition|Which word matches the definition? "The process of raising children.";"";parenting;engagement;separation;parenting
+Definition|Which word matches the definition? "A person who raises a child.";"";parent;neighbor;classmate;parent
+Definition|Which word matches the definition? "A person who has children.";"";parent;single person;roommate;parent
+Definition|Which word matches the definition? "The act of becoming a parent.";"";parenthood;friendship;engagement;parenthood
+Definition|Which word matches the definition? "The state of being a parent.";"";parenthood;marriage;divorce;parenthood
+Definition|Which word matches the definition? "The period when a child is very young.";"";childhood;adulthood;parenthood;childhood
+Definition|Which word matches the definition? "The period when someone is a teenager.";"";adolescence;childhood;adulthood;adolescence
+Definition|Which word matches the definition? "The period of life after childhood.";"";adulthood;infancy;childhood;adulthood
+Definition|Which word matches the definition? "The period when a person is an infant.";"";infancy;adolescence;adulthood;infancy
+Definition|Which word matches the definition? "The period of life before adulthood.";"";childhood;marriage;parenthood;childhood
+Definition|Which word matches the definition? "A young person between childhood and adulthood.";"";teenager;infant;adult;teenager
+Definition|Which word matches the definition? "A very young child who cannot yet walk or talk.";"";infant;teenager;adult;infant
+Definition|Which word matches the definition? "A young child who is learning to walk.";"";toddler;teenager;infant;toddler
+Definition|Which word matches the definition? "A child between about one and three years old.";"";toddler;adult;teenager;toddler
+Definition|Which word matches the definition? "A person who is legally an adult.";"";adult;child;infant;adult
+Definition|Which word matches the definition? "A young person who is not yet an adult.";"";minor;parent;spouse;minor
+Definition|Which word matches the definition? "A person below the legal age of adulthood.";"";minor;adult;guardian;minor
+Definition|Which word matches the definition? "A person responsible for a minor's care.";"";guardian;neighbor;classmate;guardian
+Definition|Which word matches the definition? "A person who has reached an advanced age.";"";elderly person;teenager;infant;elderly person
+Definition|Which word matches the definition? "A person who is older than another person.";"";elder;younger sibling;child;elder
+Definition|Which word matches the definition? "A family member older than you.";"";elder relative;cousin;niece;elder relative
+Definition|Which word matches the definition? "A family member younger than you.";"";younger relative;grandparent;uncle;younger relative
+Definition|Which word matches the definition? "A brother or sister who was born before you.";"";older sibling;younger sibling;cousin;older sibling
+Definition|Which word matches the definition? "A brother or sister who was born after you.";"";younger sibling;older sibling;uncle;younger sibling
+Definition|Which word matches the definition? "The first child born in a family.";"";eldest child;youngest child;middle child;eldest child
+Definition|Which word matches the definition? "The child born last in a family.";"";youngest child;eldest child;only child;youngest child
+Definition|Which word matches the definition? "A child who has no brothers or sisters.";"";only child;cousin;grandchild;only child
+Definition|Which word matches the definition? "A child born between older and younger siblings.";"";middle child;only child;eldest child;middle child
+Definition|Which word matches the definition? "Children born at the same time from the same pregnancy.";"";twins;cousins;siblings;twins
+Definition|Which word matches the definition? "One of two children born at the same time.";"";twin;nephew;grandchild;twin
+Definition|Which word matches the definition? "Three children born at the same time.";"";triplets;twins;cousins;triplets
+Definition|Which word matches the definition? "Four children born at the same time.";"";quadruplets;triplets;twins;quadruplets
+Definition|Which word matches the definition? "A child born before another child in the same family.";"";older sibling;younger sibling;cousin;older sibling
+Definition|Which word matches the definition? "A child born after another child in the same family.";"";younger sibling;older sibling;uncle;younger sibling
+Definition|Which word matches the definition? "A family member who shares the same parents as you.";"";sibling;cousin;uncle;sibling
+Definition|Which word matches the definition? "The relationship between brothers and sisters.";"";siblinghood;parenthood;marriage;siblinghood
+Definition|Which word matches the definition? "A family member who is married into the family.";"";in-law;cousin;ancestor;in-law
+Definition|Which word matches the definition? "A person's parents, grandparents, and earlier family members.";"";ancestors;descendants;siblings;ancestors
+Definition|Which word matches the definition? "A person's children, grandchildren, and later family members.";"";descendants;ancestors;parents;descendants
+Definition|Which word matches the definition? "A record showing family relationships across generations.";"";family tree;family budget;family diary;family tree
+Definition|Which word matches the definition? "A diagram showing how members of a family are related.";"";family tree;family calendar;family album;family tree
+Definition|Which word matches the definition? "A collection of photographs showing family members.";"";family album;family tree;family diary;family album
+Definition|Which word matches the definition? "A book or record containing information about a family's history.";"";family history;family budget;family calendar;family history
+Definition|Which word matches the definition? "The history of a person's family and ancestors.";"";genealogy;friendship;parenthood;genealogy
+Definition|Which word matches the definition? "The study of family history and ancestry.";"";genealogy;marriage;parenting;genealogy
+Definition|Which word matches the definition? "A person's family background and origins.";"";heritage;friendship;partnership;heritage
+Definition|Which word matches the definition? "The traditions and culture passed down through a family.";"";heritage;conflict;romance;heritage
+Definition|Which word matches the definition? "A family tradition passed from one generation to another.";"";custom;argument;divorce;custom
+Definition|Which word matches the definition? "A practice repeated by members of a family.";"";tradition;conflict;separation;tradition
+Definition|Which word matches the definition? "A special event when family members meet again.";"";family reunion;wedding;engagement;family reunion
+Definition|Which word matches the definition? "A gathering of relatives who have not seen each other for some time.";"";family reunion;business meeting;date;family reunion
+Definition|Which word matches the definition? "A regular event where family members spend time together.";"";family gathering;argument;separation;family gathering
+Definition|Which word matches the definition? "A meal shared by members of a family.";"";family meal;business lunch;date;family meal
+Definition|Which word matches the definition? "A person invited to spend time with a family.";"";family guest;relative;ancestor;family guest
+Definition|Which word matches the definition? "A person who is not related to you.";"";stranger;relative;ancestor;stranger
+Definition|Which word matches the definition? "A person you do not know.";"";stranger;friend;neighbor;stranger
+Definition|Which word matches the definition? "A person you have met but do not know well.";"";acquaintance;relative;spouse;acquaintance
+Definition|Which word matches the definition? "A person who lives in the same neighborhood.";"";neighbor;relative;partner;neighbor
+Definition|Which word matches the definition? "A person who lives next door.";"";next-door neighbor;uncle;cousin;next-door neighbor
+Definition|Which word matches the definition? "A person who shares a workplace with you.";"";coworker;relative;neighbor;coworker
+Definition|Which word matches the definition? "A person who shares a classroom with you.";"";classmate;partner;relative;classmate
+Definition|Which word matches the definition? "A person who shares an apartment with you.";"";roommate;uncle;colleague;roommate
+Definition|Which word matches the definition? "A person who shares a room with you.";"";roommate;neighbor;cousin;roommate
+Definition|Which word matches the definition? "A person who shares a common activity with you.";"";companion;stranger;landlord;companion
+Definition|Which word matches the definition? "A person who helps you during difficult times.";"";supportive friend;stranger;neighbor;supportive friend
+Definition|Which word matches the definition? "A person who gives emotional encouragement.";"";supporter;relative;customer;supporter
+Definition|Which word matches the definition? "A person who encourages another person to succeed.";"";encourager;neighbor;colleague;encourager
+Definition|Which word matches the definition? "A person who protects and cares for another person.";"";protector;stranger;customer;protector
+Definition|Which word matches the definition? "A person who gives advice to someone younger or less experienced.";"";mentor;neighbor;roommate;mentor
+Definition|Which word matches the definition? "A person who receives advice from a mentor.";"";mentee;relative;spouse;mentee
+Definition|Which word matches the definition? "A person who helps another person during a difficult situation.";"";helper;stranger;competitor;helper
+Definition|Which word matches the definition? "A person who provides care to an elderly family member.";"";caregiver;neighbor;classmate;caregiver
+Definition|Which word matches the definition? "A person who takes responsibility for someone else's well-being.";"";caretaker;customer;colleague;caretaker
+Definition|Which word matches the definition? "A person who raises a child that is not biologically theirs.";"";foster parent;uncle;cousin;foster parent
+Definition|Which word matches the definition? "A child temporarily placed with another family.";"";foster child;grandchild;niece;foster child
+Definition|Which word matches the definition? "A person who legally becomes the parent of a child.";"";adoptive parent;guardian;uncle;adoptive parent
+Definition|Which word matches the definition? "A child legally accepted into a family.";"";adopted child;foster child;grandchild;adopted child
+Definition|Which word matches the definition? "A person legally responsible for a child's decisions and care.";"";guardian;neighbor;relative;guardian
+Definition|Which word matches the definition? "The person who takes care of a child after school.";"";babysitter;grandparent;teacher;babysitter
+Definition|Which word matches the definition? "A person employed to care for children in a home.";"";nanny;neighbor;classmate;nanny
+Definition|Which word matches the definition? "The person who gives birth to a child.";"";mother;stepmother;aunt;mother
+Definition|Which word matches the definition? "The male parent of a child.";"";father;stepfather;uncle;father
+Definition|Which word matches the definition? "The female parent of a child.";"";mother;stepmother;aunt;mother
+Definition|Which word matches the definition? "The male child of your sibling.";"";nephew;cousin;grandson;nephew
+Definition|Which word matches the definition? "The female child of your sibling.";"";niece;cousin;granddaughter;niece
+Definition|Which word matches the definition? "The child of your child.";"";grandchild;nephew;cousin;grandchild
+Definition|Which word matches the definition? "The male child of your child.";"";grandson;nephew;cousin;grandson
+Definition|Which word matches the definition? "The female child of your child.";"";granddaughter;niece;cousin;granddaughter
+Definition|Which word matches the definition? "The father of your mother.";"";maternal grandfather;paternal grandfather;uncle;maternal grandfather
+Definition|Which word matches the definition? "The mother of your mother.";"";maternal grandmother;paternal grandmother;aunt;maternal grandmother
+Definition|Which word matches the definition? "The father of your father.";"";paternal grandfather;maternal grandfather;uncle;paternal grandfather
+Definition|Which word matches the definition? "The mother of your father.";"";paternal grandmother;maternal grandmother;aunt;paternal grandmother
+Definition|Which word matches the definition? "A relative from your mother's side of the family.";"";maternal relative;paternal relative;in-law;maternal relative
+Definition|Which word matches the definition? "A relative from your father's side of the family.";"";paternal relative;maternal relative;in-law;paternal relative
+Definition|Which word matches the definition? "The family of your mother.";"";maternal family;paternal family;in-laws;maternal family
+Definition|Which word matches the definition? "The family of your father.";"";paternal family;maternal family;in-laws;paternal family
+Definition|Which word matches the definition? "Your spouse's family members.";"";in-laws;ancestors;descendants;in-laws
+Definition|Which word matches the definition? "A person's closest family members.";"";immediate family;distant relatives;neighbors;immediate family
+Definition|Which word matches the definition? "Family members who live far away.";"";distant relatives;immediate family;neighbors;distant relatives
+Definition|Which word matches the definition? "A family member you rarely see.";"";distant relative;spouse;parent;distant relative
+Definition|Which word matches the definition? "A relative who lives in another country.";"";overseas relative;neighbor;classmate;overseas relative
+Definition|Which word matches the definition? "A person who is related to you but not closely.";"";distant relative;sibling;parent;distant relative
+Definition|Which word matches the definition? "A close family member.";"";close relative;stranger;neighbor;close relative
+Definition|Which word matches the definition? "A relative you see frequently.";"";close relative;distant relative;stranger;close relative
+Definition|Which word matches the definition? "A person who shares a family connection with you.";"";kin;stranger;colleague;kin
+Definition|Which word matches the definition? "A group of relatives considered as one family.";"";kin;neighbors;customers;kin
+Definition|Which word matches the definition? "A person's family members collectively.";"";kinfolk;colleagues;classmates;kinfolk
+Definition|Which word matches the definition? "A friendly relationship between people.";"";friendship;conflict;divorce;friendship
+Definition|Which word matches the definition? "A person who has a close and trusting relationship with you.";"";friend;stranger;neighbor;friend
+Definition|Which word matches the definition? "A very close relationship based on mutual affection.";"";friendship;conflict;separation;friendship
+Definition|Which word matches the definition? "A person who has been your friend for many years.";"";longtime friend;neighbor;relative;longtime friend
+Definition|Which word matches the definition? "A friend from childhood.";"";childhood friend;colleague;neighbor;childhood friend
+Definition|Which word matches the definition? "A person who knows you very well.";"";close friend;stranger;customer;close friend
+Definition|Which word matches the definition? "A person you can trust with personal information.";"";confidant;neighbor;colleague;confidant
+Definition|Which word matches the definition? "A person who supports you when you have problems.";"";supportive friend;stranger;competitor;supportive friend
+Definition|Which word matches the definition? "A person who shares your secrets and personal thoughts.";"";confidant;neighbor;customer;confidant
+Definition|Which word matches the definition? "A relationship based on mutual affection and trust.";"";friendship;competition;conflict;friendship
+Definition|Which word matches the definition? "A person who helps you emotionally.";"";supportive person;stranger;competitor;supportive person
+Definition|Which word matches the definition? "A person who makes you feel comfortable and accepted.";"";trusted friend;neighbor;colleague;trusted friend
+Definition|Which word matches the definition? "A person you enjoy spending time with.";"";companion;relative;employer;companion
+Definition|Which word matches the definition? "A person who accompanies you on a journey.";"";travel companion;spouse;neighbor;travel companion
+Definition|Which word matches the definition? "A person who accompanies another person regularly.";"";companion;stranger;customer;companion
+Definition|Which word matches the definition? "A person who shares a home with another person.";"";housemate;relative;teacher;housemate
+Definition|Which word matches the definition? "A person who shares a house with you.";"";housemate;neighbor;cousin;housemate
+Definition|Which word matches the definition? "A person who shares an apartment with you.";"";flatmate;spouse;relative;flatmate
+Definition|Which word matches the definition? "A person who lives in the same building as you.";"";neighbor;relative;partner;neighbor
+Definition|Which word matches the definition? "A person who lives nearby.";"";neighbor;colleague;cousin;neighbor
+Definition|Which word matches the definition? "A person who works in the same organization as you.";"";coworker;relative;partner;coworker
+Definition|Which word matches the definition? "A person who works closely with you.";"";colleague;neighbor;spouse;colleague
+Definition|Which word matches the definition? "A person who studies in the same class as you.";"";classmate;relative;partner;classmate
+Definition|Which word matches the definition? "A person who attends the same school as you.";"";schoolmate;neighbor;spouse;schoolmate
+Definition|Which word matches the definition? "A person who shares your interests.";"";kindred spirit;stranger;neighbor;kindred spirit
+Definition|Which word matches the definition? "A person whose personality and interests are similar to yours.";"";kindred spirit;relative;employer;kindred spirit
+Definition|Which word matches the definition? "A person you feel especially connected to.";"";kindred spirit;customer;neighbor;kindred spirit
+Definition|Which word matches the definition? "A person who gives emotional encouragement.";"";encourager;competitor;stranger;encourager
+Definition|Which word matches the definition? "A person who helps another person remain motivated.";"";motivator;neighbor;relative;motivator
+Definition|Which word matches the definition? "A person who gives advice based on experience.";"";mentor;customer;classmate;mentor
+Definition|Which word matches the definition? "A person who receives professional guidance.";"";mentee;neighbor;spouse;mentee
+Definition|Which word matches the definition? "A person who protects another person from harm.";"";protector;stranger;customer;protector
+Definition|Which word matches the definition? "A person who provides care and assistance.";"";caregiver;neighbor;colleague;caregiver
+Definition|Which word matches the definition? "A person who looks after someone who is sick.";"";caregiver;classmate;customer;caregiver
+Definition|Which word matches the definition? "A person who takes care of an elderly person.";"";caregiver;neighbor;partner;caregiver
+Definition|Which word matches the definition? "A person who provides daily help to someone who needs it.";"";carer;stranger;colleague;carer
+Definition|Which word matches the definition? "A person who provides emotional or practical assistance.";"";supporter;competitor;neighbor;supporter
+Definition|Which word matches the definition? "A person who helps someone during a difficult period.";"";supporter;stranger;customer;supporter
+Definition|Which word matches the definition? "A person who gives comfort to someone who is upset.";"";comforter;neighbor;relative;comforter
+Definition|Which word matches the definition? "A person who helps another person feel better.";"";comforter;competitor;colleague;comforter
+Definition|Which word matches the definition? "A person who understands another person's feelings.";"";empathetic person;stranger;neighbor;empathetic person
+Definition|Which word matches the definition? "A person who shows concern for others.";"";caring person;competitor;customer;caring person
+Definition|Which word matches the definition? "A person who is kind and concerned about others.";"";compassionate person;stranger;neighbor;compassionate person
+Definition|Which word matches the definition? "A person who treats others with respect.";"";respectful person;competitor;customer;respectful person
+Definition|Which word matches the definition? "A person who keeps promises and remains loyal.";"";loyal person;stranger;neighbor;loyal person
+Definition|Which word matches the definition? "A person who can be trusted.";"";trustworthy person;competitor;customer;trustworthy person
+Definition|Which word matches the definition? "A person who keeps another person's secrets.";"";confidant;stranger;neighbor;confidant
+Definition|Which word matches the definition? "A person who tells the truth.";"";honest person;competitor;customer;honest person
+Definition|Which word matches the definition? "A person who is faithful to their partner.";"";faithful partner;stranger;neighbor;faithful partner
+Definition|Which word matches the definition? "A person who remains committed to a relationship.";"";committed partner;competitor;customer;committed partner
+Definition|Which word matches the definition? "A person who is emotionally dependent on another person.";"";dependent person;stranger;neighbor;dependent person
+Definition|Which word matches the definition? "A person who can make decisions without relying on others.";"";independent person;competitor;customer;independent person
+Definition|Which word matches the definition? "A person who takes care of their own needs.";"";independent person;stranger;neighbor;independent person
+Definition|Which word matches the definition? "A person who relies heavily on another person.";"";dependent person;competitor;customer;dependent person
+Definition|Which word matches the definition? "A relationship where people rely on each other.";"";interdependent relationship;stranger;competition;interdependent relationship
+Definition|Which word matches the definition? "A relationship where both people give and receive support.";"";mutual relationship;conflict;separation;mutual relationship
+Definition|Which word matches the definition? "A relationship between people who respect each other.";"";healthy relationship;toxic relationship;conflict;healthy relationship
+Definition|Which word matches the definition? "A relationship that causes emotional harm.";"";toxic relationship;healthy relationship;friendship;toxic relationship
+Definition|Which word matches the definition? "A relationship involving repeated arguments and tension.";"";conflicted relationship;healthy relationship;friendship;conflicted relationship
+Definition|Which word matches the definition? "A relationship with strong emotional connection and trust.";"";close relationship;distant relationship;conflict;close relationship
+Definition|Which word matches the definition? "A relationship in which people do not communicate often.";"";distant relationship;close relationship;friendship;distant relationship
+Definition|Which word matches the definition? "A relationship between people who know each other very well.";"";close relationship;distant relationship;conflict;close relationship
+Definition|Which word matches the definition? "A relationship that has become weaker over time.";"";strained relationship;strong bond;friendship;strained relationship
+Definition|Which word matches the definition? "A relationship experiencing difficulties or tension.";"";strained relationship;healthy relationship;close friendship;strained relationship
+Definition|Which word matches the definition? "A relationship with frequent disagreement.";"";difficult relationship;supportive relationship;friendship;difficult relationship
+Definition|Which word matches the definition? "A relationship where people communicate openly.";"";open relationship;conflicted relationship;distant relationship;open relationship
+Definition|Which word matches the definition? "A relationship based on honesty and respect.";"";healthy relationship;toxic relationship;conflict;healthy relationship
+Definition|Which word matches the definition? "A relationship in which both people feel valued.";"";equal relationship;conflicted relationship;distant relationship;equal relationship
+Definition|Which word matches the definition? "A relationship in which one person controls the other.";"";controlling relationship;healthy relationship;friendship;controlling relationship
+Definition|Which word matches the definition? "A person who tries to control their partner.";"";controlling partner;supportive friend;neighbor;controlling partner
+Definition|Which word matches the definition? "A person who depends too much on their partner.";"";dependent partner;independent person;neighbor;dependent partner
+Definition|Which word matches the definition? "A person who is emotionally supportive of their partner.";"";supportive partner;controlling partner;stranger;supportive partner
+Definition|Which word matches the definition? "A person who respects their partner's feelings and needs.";"";respectful partner;controlling partner;neighbor;respectful partner
+Definition|Which word matches the definition? "A person who remains faithful to their partner.";"";loyal partner;stranger;competitor;loyal partner
+Definition|Which word matches the definition? "A person who shares responsibilities with their partner.";"";equal partner;neighbor;stranger;equal partner
+Definition|Which word matches the definition? "A person who communicates honestly in a relationship.";"";open partner;controlling partner;competitor;open partner
+Definition|Which word matches the definition? "A person who apologizes after making a mistake.";"";apologetic person;stranger;neighbor;apologetic person
+Definition|Which word matches the definition? "A person who accepts responsibility for their actions.";"";responsible person;competitor;customer;responsible person
+Definition|Which word matches the definition? "A person who forgives others easily.";"";forgiving person;resentful person;stranger;forgiving person
+Definition|Which word matches the definition? "A person who holds anger against someone for a long time.";"";resentful person;forgiving person;supportive friend;resentful person
+Definition|Which word matches the definition? "A person who becomes jealous easily.";"";jealous person;calm person;supportive friend;jealous person
+Definition|Which word matches the definition? "A person who trusts others easily.";"";trusting person;suspicious person;controlling person;trusting person
+Definition|Which word matches the definition? "A person who has difficulty trusting others.";"";suspicious person;trusting person;supportive person;suspicious person
+Definition|Which word matches the definition? "A person who worries that their partner may leave them.";"";insecure person;confident person;supportive friend;insecure person
+Definition|Which word matches the definition? "A person who feels confident in a relationship.";"";secure person;insecure person;jealous person;secure person
+Definition|Which word matches the definition? "A person who feels uncertain about a relationship.";"";insecure person;secure person;trusting person;insecure person
+Definition|Which word matches the definition? "A person who respects other people's personal space.";"";respectful person;controlling person;jealous person;respectful person
+Definition|Which word matches the definition? "The space and limits a person wants others to respect.";"";personal boundaries;family tree;marriage;personal boundaries
+Definition|Which word matches the definition? "A limit that protects a person's privacy or comfort.";"";boundary;argument;relationship;boundary
+Definition|Which word matches the definition? "The ability to say no when necessary.";"";assertiveness;jealousy;resentment;assertiveness
+Definition|Which word matches the definition? "The ability to express your needs clearly and confidently.";"";assertiveness;passiveness;conflict;assertiveness
+Definition|Which word matches the definition? "A person who avoids expressing their own needs.";"";passive person;assertive person;supportive person;passive person
+Definition|Which word matches the definition? "A person who clearly expresses their opinions and needs.";"";assertive person;passive person;dependent person;assertive person
+Definition|Which word matches the definition? "The act of understanding and accepting another person's feelings.";"";empathy;competition;resentment;empathy
+Definition|Which word matches the definition? "The ability to understand someone else's point of view.";"";perspective-taking;jealousy;conflict;perspective-taking
+Definition|Which word matches the definition? "The ability to remain calm during a disagreement.";"";patience;resentment;jealousy;patience
+Definition|Which word matches the definition? "The act of finding an agreement after a disagreement.";"";reconciliation;separation;divorce;reconciliation
+Definition|Which word matches the definition? "The process of restoring a relationship after conflict.";"";reconciliation;competition;jealousy;reconciliation
+Definition|Which word matches the definition? "The act of making peace after an argument.";"";reconciliation;conflict;separation;reconciliation
+Definition|Which word matches the definition? "The act of saying sorry for something you did.";"";apology;argument;complaint;apology
+Definition|Which word matches the definition? "An expression of regret for something wrong.";"";apology;jealousy;conflict;apology
+Definition|Which word matches the definition? "The act of accepting an apology.";"";forgiveness;resentment;competition;forgiveness
+Definition|Which word matches the definition? "The act of resolving a disagreement peacefully.";"";conflict resolution;argument;separation;conflict resolution
+Definition|Which word matches the definition? "A solution agreed upon by people in a disagreement.";"";settlement;conflict;divorce;settlement
+Definition|Which word matches the definition? "An agreement that ends a disagreement.";"";settlement;argument;jealousy;settlement
+Definition|Which word matches the definition? "The process of talking about a problem.";"";discussion;divorce;separation;discussion
+Definition|Which word matches the definition? "A calm conversation about a disagreement.";"";discussion;argument;conflict;discussion
+Definition|Which word matches the definition? "The act of listening carefully to another person.";"";active listening;competition;resentment;active listening
+Definition|Which word matches the definition? "The act of expressing feelings and thoughts.";"";communication;conflict;separation;communication
+Definition|Which word matches the definition? "The exchange of information between people.";"";communication;jealousy;divorce;communication
+Definition|Which word matches the definition? "A message expressed without words.";"";body language;conversation;argument;body language
+Definition|Which word matches the definition? "Communication using facial expressions and gestures.";"";nonverbal communication;conflict;marriage;nonverbal communication
+Definition|Which word matches the definition? "The expression on a person's face showing emotion.";"";facial expression;family tree;relationship;facial expression
+Definition|Which word matches the definition? "A movement of the hands used to communicate.";"";gesture;argument;divorce;gesture
+Definition|Which word matches the definition? "The way people speak to one another.";"";tone;family;kinship;tone
+Definition|Which word matches the definition? "The level of formality or friendliness in someone's speech.";"";tone;conflict;marriage;tone
+Definition|Which word matches the definition? "The willingness to listen to another person's ideas.";"";open-mindedness;jealousy;resentment;open-mindedness
+Definition|Which word matches the definition? "The ability to accept that people have different opinions.";"";tolerance;conflict;competition;tolerance
+Definition|Which word matches the definition? "Respect for people with different beliefs or lifestyles.";"";tolerance;jealousy;argument;tolerance
+Definition|Which word matches the definition? "The act of treating people fairly.";"";fairness;resentment;conflict;fairness
+Definition|Which word matches the definition? "The quality of treating people equally.";"";equality;jealousy;competition;equality
+Definition|Which word matches the definition? "The condition of having the same rights and opportunities.";"";equality;conflict;separation;equality
+Definition|Which word matches the definition? "The act of treating someone with kindness.";"";kindness;resentment;jealousy;kindness
+Definition|Which word matches the definition? "A friendly and caring attitude toward others.";"";kindness;competition;conflict;kindness
+Definition|Which word matches the definition? "The quality of being generous and caring.";"";generosity;jealousy;resentment;generosity
+Definition|Which word matches the definition? "The willingness to give help or resources to others.";"";generosity;conflict;competition;generosity
+Definition|Which word matches the definition? "The quality of being helpful and caring.";"";supportiveness;jealousy;resentment;supportiveness
+Definition|Which word matches the definition? "The quality of being loyal to someone.";"";loyalty;conflict;separation;loyalty
+Definition|Which word matches the definition? "The quality of being faithful to a person or cause.";"";devotion;jealousy;argument;devotion
+Definition|Which word matches the definition? "A strong commitment to another person.";"";devotion;conflict;competition;devotion
+Definition|Which word matches the definition? "The act of putting another person's needs before your own.";"";selflessness;jealousy;resentment;selflessness
+Definition|Which word matches the definition? "The quality of caring more about others than yourself.";"";selflessness;selfishness;conflict;selflessness
+Definition|Which word matches the definition? "The quality of thinking mainly about yourself.";"";selfishness;generosity;empathy;selfishness
+Definition|Which word matches the definition? "The willingness to understand another person's feelings.";"";empathy;competition;resentment;empathy
+Definition|Which word matches the definition? "A feeling of concern for someone who is suffering.";"";compassion;jealousy;anger;compassion
+Definition|Which word matches the definition? "The act of comforting someone who is sad.";"";consolation;conflict;competition;consolation
+Definition|Which word matches the definition? "Comfort given to someone who is upset.";"";consolation;argument;jealousy;consolation
+Definition|Which word matches the definition? "A feeling of sadness after someone dies.";"";grief;happiness;confidence;grief
+Definition|Which word matches the definition? "The deep sadness caused by someone's death.";"";grief;affection;admiration;grief
+Definition|Which word matches the definition? "The period of sadness after a person's death.";"";mourning;marriage;engagement;mourning
+Definition|Which word matches the definition? "The act of showing sadness after someone's death.";"";mourning;celebration;dating;mourning
+Definition|Which word matches the definition? "A person who has lost someone through death.";"";bereaved person;relative;neighbor;bereaved person
+Definition|Which word matches the definition? "A ceremony held after someone's death.";"";funeral;wedding;reception;funeral
+Definition|Which word matches the definition? "A ceremony honoring someone who has died.";"";memorial service;wedding;family reunion;memorial service
+Definition|Which word matches the definition? "A place where a dead person is buried.";"";grave;home;cemetery;grave
+Definition|Which word matches the definition? "A place where dead people are buried.";"";cemetery;hospital;church;cemetery
+Definition|Which word matches the definition? "A stone or marker placed at a grave.";"";tombstone;family tree;portrait;tombstone
+Definition|Which word matches the definition? "A family member who died before you were born.";"";deceased relative;neighbor;classmate;deceased relative
+Definition|Which word matches the definition? "A person who has died.";"";deceased;relative;survivor;deceased
+Definition|Which word matches the definition? "A person who continues to live after another person dies.";"";survivor;deceased;ancestor;survivor
+Definition|Which word matches the definition? "A person who survives a difficult event.";"";survivor;victim;relative;survivor
+Definition|Which word matches the definition? "A person who is emotionally affected by someone's death.";"";bereaved person;neighbor;colleague;bereaved person
+Definition|Which word matches the definition? "The legal process of ending a marriage.";"";divorce;engagement;marriage

@@ -1,0 +1,116 @@
+question;hint;option1;option2;option3;answer
+What do we use to enter letters and numbers into a computer?;"";keyboard;monitor;printer;keyboard
+What device do we use to move the pointer on a computer screen?;"";mouse;keyboard;scanner;mouse
+What device shows images and text from a computer?;"";monitor;keyboard;router;monitor
+What machine produces a paper copy of a digital document?;"";printer;scanner;router;printer
+What device converts a paper document into a digital file?;"";scanner;printer;monitor;scanner
+What device connects a computer to the internet wirelessly?;"";router;printer;keyboard;router
+What do we call a portable computer?;"";laptop;desktop;server;laptop
+What do we call a computer designed to stay in one place?;"";desktop;tablet;laptop;desktop
+What small portable computer has a touchscreen?;"";tablet;desktop;server;tablet
+What device is mainly used to make calls and access apps?;"";smartphone;router;printer;smartphone
+What do we call a program that runs on a computer or phone?;"";software;hardware;network;software
+What do we call the physical parts of a computer?;"";hardware;software;data;hardware
+What do we call a set of instructions that tells a computer what to do?;"";program;monitor;keyboard;program
+What do we call an application designed for a specific task?;"";app;server;browser;app
+What software do we use to visit websites?;"";browser;compiler;spreadsheet;browser
+What is the software commonly used to access websites on the internet?;"";web browser;word processor;database;web browser
+What do we call a website's unique address?;"";URL;password;username;URL
+What do we call the main page of a website?;"";homepage;profile;database;homepage
+What do we call a collection of connected web pages?;"";website;folder;program;website
+What do we call a page where users enter information?;"";form;server;browser;form
+What do we call a service that helps us find information online?;"";search engine;spreadsheet;firewall;search engine
+What is a common search engine?;"";Google;Excel;Windows;Google
+What do we call information stored on a computer?;"";data;hardware;screen;data
+What do we call a collection of organized data?;"";database;browser;keyboard;database
+What do we call a file used to store written information?;"";document;folder;browser;document
+What do we call a place on a computer where files are organized?;"";folder;document;browser;folder
+What do we call a copy of a file made for safety?;"";backup;update;download;backup
+What do we call getting a file from the internet onto your device?;"";download;upload;backup;download
+What do we call sending a file from your device to the internet?;"";upload;download;delete;upload
+What do we call a change that improves or fixes software?;"";update;backup;download;update
+What do we call software designed to protect a computer from harmful programs?;"";antivirus;browser;database;antivirus
+What do we call harmful software designed to damage or access a computer?;"";malware;hardware;firmware;malware
+What do we call a harmful program that can copy itself and spread?;"";virus;browser;driver;virus
+What do we call software that secretly records what a user does?;"";spyware;firewall;antivirus;spyware
+What do we call a security system that controls network traffic?;"";firewall;browser;printer;firewall
+What do we call a secret word used to access an account?;"";password;username;profile;password
+What do we call the name used to identify a user online?;"";username;password;folder;username
+What do we call an additional security code used to verify a login?;"";verification code;username;URL;verification code
+What do we call the process of proving who you are online?;"";authentication;download;installation;authentication
+What do we call a login method requiring two forms of verification?;"";two-factor authentication;automatic update;cloud storage;two-factor authentication
+What do we call storing files on remote internet servers?;"";cloud storage;local storage;hardware;cloud storage
+What do we call services that provide computing resources over the internet?;"";cloud computing;word processing;file sharing;cloud computing
+What do we call a computer that provides services to other computers?;"";server;client;router;server
+What do we call a computer or device that receives services from a server?;"";client;server;firewall;client
+What do we call a group of connected computers?;"";network;database;program;network
+What do we call a network covering a small area such as an office?;"";LAN;WAN;VPN;LAN
+What do we call a network covering a large geographical area?;"";WAN;LAN;USB;WAN
+What technology allows devices to connect without cables over short distances?;"";Bluetooth;Ethernet;USB;Bluetooth
+What technology provides wireless internet access?;"";Wi-Fi;Bluetooth;USB;Wi-Fi
+What cable technology is commonly used to connect devices to a network?;"";Ethernet;Bluetooth;Wi-Fi;Ethernet
+What device allows multiple devices to connect to a network?;"";router;monitor;scanner;router
+What do we call a private network connection over the internet?;"";VPN;LAN;Bluetooth;VPN
+What do we call the global system of connected computer networks?;"";Internet;Bluetooth;Ethernet;Internet
+What do we call a system that allows people to send electronic messages?;"";email;browser;database;email
+What do we call an unwanted email message?;"";spam;draft;attachment;spam
+What do we call a file sent together with an email?;"";attachment;password;browser;attachment
+What do we call a message sent electronically over the internet?;"";email;letter;document;email
+What do we call a conversation using text messages over the internet?;"";chat;spreadsheet;database;chat
+What do we call a program used for instant online communication?;"";messaging app;printer;scanner;messaging app
+What do we call a live conversation using video over the internet?;"";video call;download;database;video call
+What do we call a meeting held online using video and audio?;"";video conference;spreadsheet;backup;video conference
+What do we call a platform where users share posts and interact online?;"";social network;search engine;database;social network
+What do we call a personal page on a social network?;"";profile;homepage;folder;profile
+What do we call a short message posted online?;"";post;attachment;password;post
+What do we call a response to someone's online post?;"";comment;download;browser;comment
+What do we call a person who creates content for the internet?;"";content creator;server;programmer;content creator
+What do we call a website where people publish regular articles?;"";blog;database;router;blog
+What do we call a person who writes articles for a blog?;"";blogger;developer;designer;blogger
+What do we call a person who writes computer programs?;"";programmer;designer;technician;programmer
+What do we call a person who develops software?;"";developer;programmer;although;developer
+What do we call the process of creating computer programs?;"";programming;printing;scanning;programming
+What do we call instructions written in a programming language?;"";code;data;hardware;code
+What do we call a language used to create websites?;"";HTML;JPEG;PDF;HTML
+What language is commonly used to add behavior to websites?;"";JavaScript;HTML;JPEG;JavaScript
+What language is commonly used to style web pages?;"";CSS;SQL;HTML;CSS
+What language is commonly used to manage data in databases?;"";SQL;CSS;HTML;SQL
+What do we call a set of rules used by a computer program to solve a problem?;"";algorithm;database;browser;algorithm
+What do we call a step-by-step process for solving a problem?;"";algorithm;hardware;password;algorithm
+What do we call technology that allows machines to learn from data?;"";machine learning;cloud storage;web hosting;machine learning
+What do we call computer systems designed to perform tasks requiring human-like intelligence?;"";artificial intelligence;database;firewall;artificial intelligence
+What do we call technology that creates realistic computer-generated environments?;"";virtual reality;cloud computing;Bluetooth;virtual reality
+What technology adds digital information to the real world?;"";augmented reality;virtual reality;machine learning;augmented reality
+What do we call a machine that can perform tasks automatically?;"";robot;server;router;robot
+What do we call a machine designed to perform repetitive tasks?;"";robot;browser;database;robot
+What do we call technology involving connected physical devices?;"";Internet of Things;virtual reality;word processing;Internet of Things
+What do we call a device that measures information such as temperature?;"";sensor;router;printer;sensor
+What do we call a device used to detect movement or changes?;"";sensor;monitor;keyboard;sensor
+What do we call a small device worn on the wrist that can track activity?;"";smartwatch;smartphone;tablet;smartwatch
+What do we call wireless headphones without cables?;"";wireless earbuds;keyboard;smartwatch;wireless earbuds
+What do we call a device used to store digital files?;"";USB drive;monitor;router;USB drive
+What do we call a small portable device used to store data?;"";flash drive;printer;keyboard;flash drive
+What do we call the amount of data a device or connection can handle?;"";capacity;password;resolution;capacity
+What do we call the amount of data transferred through a network in a given time?;"";bandwidth;storage;resolution;bandwidth
+What do we call the speed at which data is transferred?;"";transfer rate;screen size;file name;transfer rate
+What do we call the delay between sending and receiving data?;"";latency;bandwidth;storage;latency
+What do we call the quality or number of pixels displayed on a screen?;"";resolution;bandwidth;latency;resolution
+What do we call a small picture representing an app or file?;"";icon;folder;browser;icon
+What do we call the first screen that appears after turning on a computer?;"";desktop;browser;database;desktop
+What do we call the main control area of a computer system?;"";desktop;keyboard;server;desktop
+What do we call the software that manages a computer's hardware and programs?;"";operating system;browser;database;operating system
+What is the operating system developed by Microsoft?;"";Windows;Android;Linux;Windows
+What is the operating system commonly used on iPhones?;"";iOS;Windows;Linux;iOS
+What is the operating system commonly used on many smartphones?;"";Android;macOS;iOS;Android
+What is Apple's operating system for Mac computers?;"";macOS;Windows;Android;macOS
+What do we call a program installed on a smartphone?;"";app;driver;server;app
+What do we call a program used to edit written documents?;"";word processor;browser;firewall;word processor
+What do we call a program used to organize numbers and calculations in tables?;"";spreadsheet;browser;database;spreadsheet
+What do we call a program used to create presentations?;"";presentation software;antivirus;router;presentation software
+What do we call the process of putting new software onto a device?;"";installation;download;backup;installation
+What do we call removing software from a computer?;"";uninstallation;installation;upload;uninstallation
+What do we call a file that contains instructions for a computer?;"";executable;image;folder;executable
+What do we call a document format commonly used for sharing fixed-layout files?;"";PDF;HTML;MP3;PDF
+What do we call a common format for digital photographs?;"";JPEG;PDF;MP3;JPEG
+What do we call a common format for digital audio?;"";MP3;JPEG;PDF;MP3
+What do we call a common format for compressed images with transparency?;"";PNG;MP3;PDF;PNG

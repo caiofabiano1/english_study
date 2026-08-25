@@ -1,0 +1,736 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>English Quiz</title>
+
+<link rel="manifest" href="manifest.json">
+<link rel="stylesheet" href="style.css">
+
+<meta name="theme-color" content="#111827">
+</head>
+<body>
+
+<div class="container">
+
+<h1>English Quiz</h1>
+
+<button id="home-button" class="hidden" onclick="goHome()">
+  ← Topics
+</button>
+<div id="topic-selector">
+
+  <h2>Select Topic</h2>
+
+
+  <!-- =========================================
+       01 — QUIZZES AND VOCABULARY
+  ========================================== -->
+
+  <div class="topic-category">
+
+    <button class="category-toggle" type="button">
+      <span>
+        📚 01 — Quizzes and Vocabulary
+      </span>
+
+      <span class="category-arrow">›</span>
+    </button>
+
+    <div class="category-content">
+
+      <button onclick="loadTopic('questions/01.general_quiz.csv')">
+        General Quiz
+      </button>
+
+      <button onclick="loadTopic('questions/02.vocabulary_quiz.csv')">
+        Vocabulary Quiz
+      </button>
+
+      <button onclick="loadTopic('questions/03.colors_shapes.csv')">
+        Colors and Shapes
+      </button>
+
+      <button onclick="loadTopic('questions/04.family_relationships.csv')">
+        Family and Relationships
+      </button>
+
+      <button onclick="loadTopic('questions/05.jobs_professions_quiz.csv')">
+        Jobs and Professions
+      </button>
+
+      <button onclick="loadTopic('questions/06.countries_nationalities_quiz.csv')">
+        Countries & Nationalities
+      </button>
+
+      <button onclick="loadTopic('questions/07.people_personality_quiz.csv')">
+        Describing People and Personality
+      </button>
+
+      <button onclick="loadTopic('questions/08.crime_punishment_quiz.csv')">
+        Crime and Punishment
+      </button>
+
+      <button onclick="loadTopic('questions/09.illness_health_quiz.csv')">
+        Illness and Health
+      </button>
+
+      <button onclick="loadTopic('questions/10.food_drink_quiz.csv')">
+        Food and Drink
+      </button>
+
+      <button onclick="loadTopic('questions/11.clothes_quiz.csv')">
+        Clothes
+      </button>
+
+      <button onclick="loadTopic('questions/12.directions_place_quiz.csv')">
+        Directions and Places
+      </button>
+
+      <button onclick="loadTopic('questions/13.transport_travel_quiz.csv')">
+        Transport and Travel
+      </button>
+
+      <button onclick="loadTopic('questions/14.work_education_quiz.csv')">
+        Work and Education
+      </button>
+
+      <button onclick="loadTopic('questions/15.home_household_quiz.csv')">
+        Home and Household
+      </button>
+
+      <button onclick="loadTopic('questions/16.technology_media_quiz.csv')">
+        Technology and Media
+      </button>
+
+      <button onclick="loadTopic('questions/17.health_fitness_quiz.csv')">
+        Health and Fitness
+      </button>
+
+      <button onclick="loadTopic('questions/18.education_quiz.csv')">
+        Education
+      </button>
+
+      <button onclick="loadTopic('questions/19.shopping_money_quiz.csv')">
+        Shopping and Money
+      </button>
+
+      <button onclick="loadTopic('questions/20.business_quiz.csv')">
+        Business
+      </button>
+
+      <button onclick="loadTopic('questions/21.daily_life_quiz.csv')">
+        Daily Life
+      </button>
+
+      <button onclick="loadTopic('questions/22.weather_seasons_quiz.csv')">
+        Weather and Seasons
+      </button>
+
+      <button onclick="loadTopic('questions/23.nature_environment_quiz.csv')">
+        Nature and Environment
+      </button>
+
+      <button onclick="loadTopic('questions/24.emotions_feelings_quiz.csv')">
+        Emotions and Feelings
+      </button>
+      
+      <button onclick="loadTopic('questions/25.meaning_quiz_A1.csv')">
+        Meaning Quiz A1
+      </button>
+
+      <button onclick="loadTopic('questions/26.meaning_quiz_A2.csv')">
+        Meaning Quiz A2
+      </button>
+
+      <button onclick="loadTopic('questions/27.meaning_quiz_B1.csv')">
+        Meaning Quiz B1
+      </button>  
+
+      <button onclick="loadTopic('questions/28.meaning_quiz_B2.csv')">
+        Meaning Quiz B2
+      </button>
+
+      <button onclick="loadTopic('questions/29.meaning_quiz_C1.csv')">
+        Meaning Quiz C1
+      </button> 
+
+      <button onclick="loadTopic('questions/30.opposite_quiz.csv')">
+        Opposite
+      </button>
+
+      <button onclick="loadTopic('questions/31.synonym_quiz.csv')">
+        Synonym
+      </button> 
+
+      <button onclick="loadTopic('questions/32.context_quiz.csv')">
+        Context
+      </button>
+
+      <button onclick="loadTopic('questions/33.definition_quiz.csv')">
+        Definition
+      </button> 
+
+    </div>
+
+  </div>
+
+
+  <!-- =========================================
+       02 — GRAMMAR ESSENTIALS
+  ========================================== -->
+
+  <div class="topic-category">
+
+    <button class="category-toggle" type="button">
+      <span>
+        📖 02 — Grammar Essentials
+      </span>
+
+      <span class="category-arrow">›</span>
+    </button>
+
+    <div class="category-content">
+
+      <button onclick="loadTopic('questions/articles.csv')">
+        OK - Articles
+      </button>
+
+      <button onclick="loadTopic('questions/pronouns.csv')">
+        OK - Pronouns
+      </button>
+
+      <button onclick="loadTopic('questions/possessive_pronouns.csv')">
+        OK - Possessive Pronouns
+      </button>
+
+      <button onclick="loadTopic('questions/modals.csv')">
+        OK - Modals
+      </button>
+
+      <button onclick="loadTopic('questions/prepositions.csv')">
+        Nao OK - Prepositions
+      </button>
+
+      <button onclick="loadTopic('questions/prepositions_general.csv')">
+        OK - Prepositions General
+      </button>
+
+      <button onclick="loadTopic('questions/how-much-how-many.csv')">
+        OK - How Much / How Many
+      </button>
+
+      <button onclick="loadTopic('questions/quantifiers.csv')">
+        OK - Quantifiers
+      </button>
+
+      <button onclick="loadTopic('questions/adverbs_01.csv')">
+        OK - Adverbs 01
+      </button>
+
+      <button onclick="loadTopic('questions/adverbs_02.csv')">
+        OK - Adverbs 02
+      </button>
+
+      <button onclick="loadTopic('questions/adverbs_02.csv')">
+        Countable and Uncountable Nouns
+      </button>
+
+      <button onclick="loadTopic('questions/adverbs_02.csv')">
+        Determiners
+      </button>
+
+      <button onclick="loadTopic('questions/adverbs_02.csv')">
+        Demonstrative Pronouns
+      </button>
+
+      <button onclick="loadTopic('questions/adverbs_02.csv')">
+        Reflexive Pronouns
+      </button>
+
+      <button onclick="loadTopic('questions/adverbs_02.csv')">
+        Relative Pronouns
+      </button>
+
+      <button onclick="loadTopic('questions/adverbs_02.csv')">
+        Question Words (Who, Which, What, When, Where, Why, How)
+      </button>
+
+      <button onclick="loadTopic('questions/adverbs_02.csv')">
+        Question Words (How Much, How Many, How Long, How Often, How Far)
+      </button>
+
+      <button onclick="loadTopic('questions/adverbs_02.csv')">
+        Conjunctions (And, But, Or, So, Because, Although, However)
+      </button>
+
+      <button onclick="loadTopic('questions/adverbs_02.csv')">
+        Linking Words (In Addition, Furthermore, Moreover, Therefore, Consequently)
+      </button>
+
+      <button onclick="loadTopic('questions/adverbs_02.csv')">
+        Compartive and Superlative Adjectives
+      </button>
+
+      <button onclick="loadTopic('questions/adverbs_02.csv')">
+        Word Order in English Sentences
+      </button>
+
+      <button onclick="loadTopic('questions/adverbs_02.csv')">
+        Passive Voice
+      </button>
+
+      <button onclick="loadTopic('questions/adverbs_02.csv')">
+        Reported Speech
+      </button>
+
+    </div>
+
+  </div>
+
+
+  <!-- =========================================
+       03 — VERB TENSES
+  ========================================== -->
+
+  <div class="topic-category">
+
+    <button class="category-toggle" type="button">
+      <span>
+        ⏱️ 03 — Verb Tenses
+      </span>
+
+      <span class="category-arrow">›</span>
+    </button>
+
+    <div class="category-content">
+
+      <button onclick="loadTopic('questions/present-simple-01.csv')">
+        OK - Present Simple Questions
+      </button>
+
+      <button onclick="loadTopic('questions/present-simple-02.csv')">
+        OK - Present Simple Affirmative and Negative
+      </button>
+
+      <button onclick="loadTopic('questions/present-continuous.csv')">
+        OK - Present Continuous
+      </button>
+
+      <button onclick="loadTopic('questions/present-continuous.csv')">
+        Present Perfect Simple
+      </button>
+
+      <button onclick="loadTopic('questions/present-continuous.csv')">
+        Present Perfect Continuous
+      </button>
+
+      <button onclick="loadTopic('questions/present-continuous.csv')">
+        Will and Going to
+      </button>
+
+      <button onclick="loadTopic('questions/present-continuous.csv')">
+        Future Continuous
+      </button>
+
+      <button onclick="loadTopic('questions/present-continuous.csv')">
+        Future Perfect Simple
+      </button>
+
+      <button onclick="loadTopic('questions/present-continuous.csv')">
+        Future Perfect Continuous
+      </button>
+
+      <button onclick="loadTopic('questions/present-continuous.csv')">
+        Zero Conditional
+      </button>
+
+      <button onclick="loadTopic('questions/present-continuous.csv')">
+        First Conditional
+      </button>
+
+      <button onclick="loadTopic('questions/present-continuous.csv')">
+        Second Conditional
+      </button>
+
+      <button onclick="loadTopic('questions/present-continuous.csv')">
+        Third Conditional
+      </button>
+
+      <button onclick="loadTopic('questions/present-continuous.csv')">
+        Mixed Conditional
+      </button>
+
+      <button onclick="loadTopic('questions/present-continuous.csv')">
+        Should have / Could have / Would have / Might have / Must have
+      </button>
+
+      <button onclick="loadTopic('questions/present-continuous.csv')">
+        Zero Conditional
+      </button>
+
+    </div>
+
+  </div>
+
+
+  <!-- =========================================
+       04 — VERB
+  ========================================== -->
+
+  <div class="topic-category">
+
+    <button class="category-toggle" type="button">
+      <span>
+        🔤 04 — Verb
+      </span>
+
+      <span class="category-arrow">›</span>
+    </button>
+
+    <div class="category-content">
+
+      <button onclick="loadTopic('questions/irregular_verbs.csv')">
+        OK - Irregular Verbs
+      </button>
+
+      <button onclick="loadTopic('questions/irregular_verbs2.csv')">
+        OK - Irregular Verbs 2
+      </button>
+
+      <button onclick="loadTopic('questions/irregular_verbs2.csv')">
+        Regular Verbs
+      </button>
+
+      <button onclick="loadTopic('questions/irregular_verbs2.csv')">
+        Verb Patterns
+      </button>
+
+      <button onclick="loadTopic('questions/irregular_verbs2.csv')">
+        Gerunds and Infinitives
+      </button>
+
+    </div>
+
+  </div>
+
+
+  <!-- =========================================
+       05 — PHRASAL VERBS
+  ========================================== -->
+
+  <div class="topic-category">
+
+    <button class="category-toggle" type="button">
+      <span>
+        🔄 05 — Phrasal Verbs
+      </span>
+
+      <span class="category-arrow">›</span>
+    </button>
+
+    <div class="category-content">
+
+      <button onclick="loadTopic('questions/phrasal-verbs.csv')">
+        NAO OK - Phrasal Verbs 01
+      </button>
+
+      <button onclick="loadTopic('questions/phrasal-verbs.csv')">
+        NAO OK - Phrasal Verbs 02
+      </button>
+
+      <button onclick="loadTopic('questions/phrasal-verbs.csv')">
+        NAO OK - Phrasal Verbs 03
+      </button>
+
+      <button onclick="loadTopic('questions/phrasal-verbs.csv')">
+        NAO OK - Phrasal Verbs 04
+      </button>
+
+      <button onclick="loadTopic('questions/phrasal-verbs.csv')">
+        NAO OK - Phrasal Verbs 05
+      </button>
+
+    </div>
+
+  </div>
+
+
+  <!-- =========================================
+       06 — COMMON MISTAKES
+  ========================================== -->
+
+  <div class="topic-category">
+
+    <button class="category-toggle" type="button">
+      <span>
+        ⚠️ 06 — Common Mistakes
+      </span>
+
+      <span class="category-arrow">›</span>
+    </button>
+
+    <div class="category-content">
+
+      <!-- Topics can be added here -->
+
+    </div>
+
+  </div>
+
+
+  <!-- =========================================
+       07 — BRAZILIAN DIFFICULTIES
+  ========================================== -->
+
+  <div class="topic-category">
+
+    <button class="category-toggle" type="button">
+      <span>
+        🇧🇷 07 — Brazilian Difficulties
+      </span>
+
+      <span class="category-arrow">›</span>
+    </button>
+
+    <div class="category-content">
+
+      <!-- Topics can be added here -->
+
+    </div>
+
+  </div>
+
+
+  <!-- =========================================
+       08 — TRANSLATION PRACTICE
+  ========================================== -->
+
+  <div class="topic-category">
+
+    <button class="category-toggle" type="button">
+      <span>
+        ✍️ 08 — Translation Practice
+      </span>
+
+      <span class="category-arrow">›</span>
+    </button>
+
+    <div class="category-content">
+
+      <button onclick="loadTopic('questions/t-Present-simple.csv')">
+        OK - Present Simple
+      </button>
+
+      <button onclick="loadTopic('questions/t-Present-continuous.csv')">
+        OK - Present Continuous
+      </button>
+
+      <button onclick="loadTopic('questions/t-Past-simple.csv')">
+        OK - Past Simple
+      </button>
+
+      <button onclick="loadTopic('questions/t-Past-continuous.csv')">
+        OK - Past Continuous
+      </button>
+
+      <button onclick="loadTopic('questions/t-Present-perfect-simple.csv')">
+        OK - Present Perfect Simple
+      </button>
+
+      <button onclick="loadTopic('questions/t-Present-perfect-continuous.csv')">
+        OK - Present Perfect Continuous
+      </button>
+
+      <button onclick="loadTopic('questions/t-Past-perfect-simple.csv')">
+        Past Perfect Simple
+      </button>
+
+      <button onclick="loadTopic('questions/t-Present-perfect-simple.csv')">
+        Future
+      </button>
+
+      <button onclick="loadTopic('questions/t-Present-perfect-simple.csv')">
+        Future Perfect
+      </button>
+
+      <button onclick="loadTopic('questions/t-Present-perfect-simple.csv')">
+        Conditionals
+      </button>
+
+      <button onclick="loadTopic('questions/t-Present-perfect-simple.csv')">
+        Passive Voice
+      </button>
+
+      <button onclick="loadTopic('questions/t-Present-perfect-simple.csv')">
+        Reported Speech
+      </button>
+
+    </div>
+
+  </div>
+
+
+  <!-- =========================================
+       09 — ADVANCED TOPICS
+  ========================================== -->
+
+  <div class="topic-category">
+
+    <button class="category-toggle" type="button">
+      <span>
+        🚀 09 — Advanced Topics
+      </span>
+
+      <span class="category-arrow">›</span>
+    </button>
+
+    <div class="category-content">
+
+      <button onclick="loadTopic('questions/vocabulary_01.csv')">
+        OK - Advanced Vocabulary 01
+      </button>
+
+      <button onclick="loadTopic('questions/vocabulary_01.csv')">
+        Idioms and Expressions
+      </button>
+
+      <button onclick="loadTopic('questions/vocabulary_01.csv')">
+        Business English
+      </button>
+
+      <button onclick="loadTopic('questions/vocabulary_01.csv')">
+        Formal and Informal English
+      </button>
+
+      <button onclick="loadTopic('questions/vocabulary_01.csv')">
+        Causative forms
+      </button>
+
+      <button onclick="loadTopic('questions/vocabulary_01.csv')">
+        Inversion and Emphasis
+      </button>
+
+      <button onclick="loadTopic('questions/vocabulary_01.csv')">
+        Advanced Conectors and Linking Words
+      </button>
+
+      <button onclick="loadTopic('questions/vocabulary_01.csv')">
+        Pronuciation and Intonation
+      </button>
+
+      <button onclick="loadTopic('questions/vocabulary_01.csv')">
+        Pronunciation past words ed, t, d
+      </button>
+
+    </div>
+
+  </div>
+
+
+  <!-- =========================================
+       DASHBOARD
+  ========================================== -->
+
+  <div class="topic-category dashboard-category">
+
+    <button class="category-toggle" type="button">
+      <span>
+        📊 Dashboard and Charts
+      </span>
+
+      <span class="category-arrow">›</span>
+    </button>
+
+    <div class="category-content">
+
+      <button onclick="showDashboard()">
+        📊 Dashboard
+      </button>
+
+    </div>
+
+  </div>
+
+</div>
+
+
+<div id="quiz" class="hidden">
+
+    <!-- Progress -->
+
+    <div class="progress-bar">
+        <div class="progress-fill" id="progress-fill"></div>
+    </div>
+
+    <!-- Session Panel -->
+
+    <div class="session-card">
+
+        <div class="stats">
+            <span id="question-counter"></span>
+            <span id="score"></span>
+        </div>
+
+    </div>
+
+    <!-- Main Card -->
+
+    <div class="card">
+
+        <!-- Study Panel -->
+
+        <div id="hint"></div>
+
+        <!-- Question -->
+
+        <div class="question-card">
+
+            <h2 id="question"></h2>
+
+        </div>
+
+        <!-- Multiple Choice -->
+
+        <div id="options"></div>
+
+        <!-- Translation -->
+
+        <div id="translation-area" class="hidden">
+
+            <input
+                type="text"
+                id="translation-input"
+                placeholder="Type the sentence in English"
+                autocomplete="off"
+            >
+
+            <button id="submit-translation">
+                Check Answer
+            </button>
+
+        </div>
+
+        <!-- Feedback -->
+
+        <div id="feedback"></div>
+
+    </div>
+
+</div>
+
+</div>
+
+<script src="js/utils.js"></script>
+<script src="js/csv.js"></script>
+<script src="js/analytics.js"></script>
+<script src="js/translation.js"></script>
+<script src="js/ui.js"></script>
+<script src="js/quiz.js"></script>
+<script src="js/dashboard.js"></script>
+<script src="js/app.js"></script>
+<script src="js/topics.js"></script>
+
+</body>
+</html>
