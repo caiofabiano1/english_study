@@ -371,18 +371,6 @@ button {
 }
 
 
-.option:hover{
-
-    background:rgba(79,140,255,.08);
-
-    border-color:#4F8CFF;
-
-    transform:translateY(-2px);
-
-    box-shadow:0 8px 24px rgba(0,0,0,.25);
-
-}
-
 .option.correct{
 
     background:rgba(46,204,113,.15);
